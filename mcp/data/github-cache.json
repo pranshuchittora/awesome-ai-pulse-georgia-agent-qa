@@ -1134,5 +1134,9 @@
   "VoltAgent/awesome-claude-code-subagents": {
     "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
     "fetchedAt": "2026-07-05T20:58:06.912Z"
+  },
+  "stanford-oval/storm": {
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "fetchedAt": "2026-07-05T21:57:14.062Z"
   }
 }

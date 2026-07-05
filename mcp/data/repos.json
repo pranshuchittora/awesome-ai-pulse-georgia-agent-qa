@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T20:58:07.025Z",
-  "totalRepos": 264,
+  "generated": "2026-07-05T21:57:14.165Z",
+  "totalRepos": 265,
   "categories": [
     {
       "slug": "coding",
@@ -70,7 +70,7 @@
       "emoji": "🧠",
       "english": "Memory, RAG & Vector DBs",
       "georgian": "მეხსიერება, RAG და Vector DB",
-      "count": 18
+      "count": 19
     },
     {
       "slug": "codeintel",
@@ -2099,6 +2099,17 @@
       "categoryEmoji": "🧠",
       "categoryGeorgian": "მეხსიერება, RAG და Vector DB",
       "descriptionEn": "An Open Source implementation of Notebook LM with more flexibility and features"
+    },
+    {
+      "name": "STORM",
+      "url": "https://github.com/stanford-oval/storm",
+      "stars": "30K",
+      "description": "STORM Stanford-ის (OVAL ლაბი) LLM-ზე დაფუძნებული knowledge curation სისტემაა — თემას აძლევ, ის კი ინტერნეტში იკვლევს, სხვადასხვა პერსპექტივას აგროვებს და სრულ, Wikipedia-სტილის სტატიას წერს წყაროების მითითებით. მრავალპერსპექტიული კითხვების გენერაცია და მოძიებული ინფორმაციის სტრუქტურირება განასხვავებს მას მარტივი RAG-ისგან. Co-STORM ვერსია ადამიან-AI ერთობლივ კვლევასაც უჭერს მხარს. Python, 29,000+ ვარსკვლავი — გრძელი, გამყარებული ტექსტის ავტომატური წერისთვის.",
+      "starsNumeric": 30000,
+      "categorySlug": "memory",
+      "categoryEmoji": "🧠",
+      "categoryGeorgian": "მეხსიერება, RAG და Vector DB",
+      "descriptionEn": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
     },
     {
       "name": "Chroma",

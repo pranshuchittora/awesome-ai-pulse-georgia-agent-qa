@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
-  <img src="https://img.shields.io/badge/repos-264-00D0FF?style=flat-square&labelColor=111827&v=35" alt="Repos"/>
+  <img src="https://img.shields.io/badge/repos-265-00D0FF?style=flat-square&labelColor=111827&v=35" alt="Repos"/>
   <img src="https://img.shields.io/badge/categories-15-A949DA?style=flat-square&labelColor=111827" alt="Categories"/>
   <img src="https://img.shields.io/badge/made_in-Georgia_%F0%9F%87%AC%F0%9F%87%AA-00D0FF?style=flat-square&labelColor=111827" alt="Made in Georgia"/>
   <a href="https://aipulsegeorgia.ge"><img src="https://img.shields.io/badge/aipulsegeorgia.ge-website-A949DA?style=flat-square&labelColor=111827" alt="Website"/></a>
@@ -23,7 +23,7 @@
 
 ## ⚡ გამოიყენე Claude Code-ში / Cursor-ში — MCP Server-ით ან CLI-ით
 
-ეს მთელი კოლექცია ხელმისაწვდომია **MCP server-ად** — Claude Code-ის, Cursor-ის, Codex-ის ან ნებისმიერი MCP-თავსებადი client-ის შიგნიდან 264 რეპოს ეძებ ბუნებრივი ენით. ნაცვლად იმისა, რომ GitHub-ი გახსნა და README-ი დააქოქო, AI ასისტენტს ჰკითხე *"აი Pulse-ის კოლექციაში რა არის საუკეთესო RAG-ისთვის?"* — სწორ რეპოს ქართული აღწერით დაგიბრუნებს.
+ეს მთელი კოლექცია ხელმისაწვდომია **MCP server-ად** — Claude Code-ის, Cursor-ის, Codex-ის ან ნებისმიერი MCP-თავსებადი client-ის შიგნიდან 265 რეპოს ეძებ ბუნებრივი ენით. ნაცვლად იმისა, რომ GitHub-ი გახსნა და README-ი დააქოქო, AI ასისტენტს ჰკითხე *"აი Pulse-ის კოლექციაში რა არის საუკეთესო RAG-ისთვის?"* — სწორ რეპოს ქართული აღწერით დაგიბრუნებს.
 
 **MCP Install** — `~/.claude/claude_desktop_config.json` ან Cursor MCP settings-ში:
 
@@ -48,7 +48,7 @@ npx -p @aipulsegeorgia/mcp-server aipulse stats
 
 ბრძანებები: `categories` · `list` · `search` · `get` · `stats` — ფლაგებით `-c/--category`, `-n/--limit`, `-l/--lang en|ka|both`, `--json`.
 
-> *Available as an MCP server **and an `aipulse` CLI** — query 264 curated AI repos from Claude Code, Cursor, any MCP client, or straight from your terminal.* Full docs: [`mcp/README.md`](./mcp/README.md) · Source: [`mcp/`](./mcp/)
+> *Available as an MCP server **and an `aipulse` CLI** — query 265 curated AI repos from Claude Code, Cursor, any MCP client, or straight from your terminal.* Full docs: [`mcp/README.md`](./mcp/README.md) · Source: [`mcp/`](./mcp/)
 
 ---
 
@@ -320,6 +320,7 @@ npx -p @aipulsegeorgia/mcp-server aipulse stats
 | [LightRAG](https://github.com/hkuds/lightrag) | 37K | LightRAG — სწრაფი RAG სისტემა, რომელიც ჩვეულებრივი vector similarity search-ს knowledge graph-ით აერთებს. სტანდარტული RAG-ი სიტყვებს ეძებს — LightRAG კი ცნებებს შორის კავშირებსაც ანალიზებს, რაც კომპლექსური კითხვებზე გაცილებით ზუსტ პასუხს იძლევა. Python-ში დაწერილი, Hong Kong University-ის Data Science ლაბორატორიის მიერ, EMNLP 2025-ზე გამოქვეყნებული სამეცნიერო ნაშრომით გამყარებული. Neo4j, NetworkX ან ჩაშენებული graph backend-ით მუშაობს. |
 | [Qdrant](https://github.com/qdrant/qdrant) | 32K | Qdrant — Rust-ში დაწერილი high-performance ვექტორული მონაცემთა ბაზა, AI-ის შემდეგი თაობის semantic search-ისა და RAG სისტემებისთვის. Rust-ის გამო გამოირჩევა სიჩქარით, მცირე memory footprint-ით და thread safety-ით. payload filtering, quantization, sparse vector-ების მხარდაჭერა და horizontal scaling ჩაშენებულია. Docker-ით ადვილად გაუშვებ ლოკალურად, managed Qdrant Cloud ასევე ხელმისაწვდომია. Python, TypeScript, Go, Rust SDK-ებით. |
 | [Open Notebook](https://github.com/lfnovo/open-notebook) | 31K | Open Notebook — Google NotebookLM-ის **ღია კოდის, self-hosted ალტერნატივა** სრული data sovereignty-ით. წყაროებად PDF, ვიდეო, აუდიო, ვებ-გვერდები და Office დოკუმენტები შეგაქვს, notebook-ებად აწყობ და მასალას ესაუბრები — full-text + vector ძიება, წყაროების ციტირება, AI ჩანაწერები და **multi-speaker podcast გენერაცია** (1-4 ხმა, კონფიგურირებადი Episode Profiles — NotebookLM-ის ფიქსირებულ 2-სპიკერიან ფორმატზე ბევრად მოქნილი). 18+ AI პროვაიდერი (OpenAI, Anthropic, Google, Ollama, LM Studio, DeepSeek...) — სრულად ლოკალურადაც მუშაობს. Docker Compose-ით 2 წუთში ეშვება (SurrealDB + Next.js), აქვს REST API — რაც NotebookLM-ს საერთოდ არ აქვს. ავტორი Luis Novo (lfnovo), MIT, open-notebook.ai. **30,000+ ვარსკვლავი** — წამყვანი ღია NotebookLM-ალტერნატივა. |
+| [STORM](https://github.com/stanford-oval/storm) | 30K | STORM Stanford-ის (OVAL ლაბი) LLM-ზე დაფუძნებული knowledge curation სისტემაა — თემას აძლევ, ის კი ინტერნეტში იკვლევს, სხვადასხვა პერსპექტივას აგროვებს და სრულ, Wikipedia-სტილის სტატიას წერს წყაროების მითითებით. მრავალპერსპექტიული კითხვების გენერაცია და მოძიებული ინფორმაციის სტრუქტურირება განასხვავებს მას მარტივი RAG-ისგან. Co-STORM ვერსია ადამიან-AI ერთობლივ კვლევასაც უჭერს მხარს. Python, 29,000+ ვარსკვლავი — გრძელი, გამყარებული ტექსტის ავტომატური წერისთვის. |
 | [Chroma](https://github.com/chroma-core/chroma) | 28K | Chroma — AI-ისთვის შექმნილი open-source embedding database, რომელიც semantic search-ისა და RAG pipeline-ების ასაწყობად ყველაზე ხშირად გამოიყენება. LangChain-ისა და LlamaIndex-ის default vector store-ია — ამიტომ საუკეთესო შესავალი point-ია embedding-ებთან მუშაობისთვის. embedded რეჟიმში SQLite-ზე, standalone სერვერად ან Chroma Cloud-ზე ეშვება. Python-ის 5 სტრიქონით მუშა RAG სისტემა დგება. Rust-ში დაწერილი ბირთვით, YC W23-ის კომპანია, Series A დაფინანსებული. |
 | [Graphiti](https://github.com/getzep/graphiti) | 28K | Graphiti — AI აგენტებისთვის შექმნილი real-time knowledge graph ძრავა, Zep AI-ს (YC W24) მიერ. სტანდარტული vector-based RAG-ისგან განსხვავებით, Graphiti ინახავს ფაქტების დროით კონტექსტს — ანუ იცის „როდის" შეიცვალა ინფორმაცია. bi-temporal მოდელი event time-სა და ingestion time-ს ცალ-ცალკე ინახავს, entity-ებსა და relations-ს კი LLM ავტომატურად ამოიღებს ტექსტიდან. Neo4j ან FalkorDB backend-ზე ეშვება, native MCP integration-ით Claude Desktop-ში, Cursor-სა და Cline-ში გამოყენება შეიძლება. |
 | [Letta](https://github.com/letta-ai/letta) | 23K | Letta — stateful AI აგენტების პლატფორმა, რომელიც ყოფილ MemGPT პროექტზეა დაფუძნებული. ჩვეულებრივი AI chatbot-ისგან განსხვავებით, Letta-ს აგენტებს გრძელვადიანი მეხსიერება აქვთ: working memory (მიმდინარე კონტექსტი) და archival memory (გრძელვადიანი შენახვა) — კვირები, თვეები. UC Berkeley-ს მკვლევართა გუნდი დააარსა. OpenAI API-თავსებადი REST API, self-hosted deploy-ისთვის. long-running agents-ისთვის, სადაც მეხსიერება სასიცოცხლო მნიშვნელობისაა. |

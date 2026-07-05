@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T20:58:07.025Z",
+  "generated": "2026-07-05T21:57:14.165Z",
   "categories": [
     {
       "id": "coding",
@@ -1708,6 +1708,15 @@
       "stars": 31000
     },
     {
+      "id": "storm",
+      "label": "STORM",
+      "category": "memory",
+      "url": "https://github.com/stanford-oval/storm",
+      "desc": "STORM Stanford-ის (OVAL ლაბი) LLM-ზე დაფუძნებული knowledge curation სისტემაა — თემას აძლევ, ის კი ინტერნეტში იკვლევს, სხვადასხვა პერსპექტივას აგროვებს და სრულ, Wikipedia-სტილის სტატიას წერს წყაროების მითითებით. მრავალპერსპექტიული კითხვების გენერაცია და მოძიებული ინფორმაციის სტრუქტურირება განასხვავებს მას მარტივი RAG-ისგან. Co-STORM ვერსია ადამიან-AI ერთობლივ კვლევასაც უჭერს მხარს. Python, 29,000+ ვარსკვლავი — გრძელი, გამყარებული ტექსტის ავტომატური წერისთვის.",
+      "descEn": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+      "stars": 30000
+    },
+    {
       "id": "chroma",
       "label": "Chroma",
       "category": "memory",
@@ -3317,6 +3326,11 @@
     },
     {
       "source": "open-notebook",
+      "target": "ragflow",
+      "type": "cluster"
+    },
+    {
+      "source": "storm",
       "target": "ragflow",
       "type": "cluster"
     },
