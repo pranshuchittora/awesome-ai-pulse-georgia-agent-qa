@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T17:45:57.174Z",
+  "generated": "2026-07-05T20:58:07.025Z",
   "categories": [
     {
       "id": "coding",
@@ -241,6 +241,15 @@
       "stars": 29000
     },
     {
+      "id": "ai-website-cloner-template",
+      "label": "ai-website-cloner-template",
+      "category": "coding",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "desc": "ai-website-cloner-template ნებისმიერი საიტის კლონირებას ერთი ბრძანებით ახდენს coding agent-ის დახმარებით — template, რომელსაც Claude Code-ს ან სხვა აგენტს აძლევ და ის საიტის სტრუქტურას, სტილსა და კომპონენტებს აღადგენს. TypeScript, 25,000+ ვარსკვლავი — სწრაფი prototyping-ისა და redesign-ისთვის მოსახერხებელი საწყისი წერტილი.",
+      "descEn": "Clone any website with one command using AI coding agents",
+      "stars": 26000
+    },
+    {
       "id": "qwen-code",
       "label": "Qwen Code",
       "category": "coding",
@@ -293,6 +302,15 @@
       "desc": "free-claude-code ღია კოდის ხელსაწყოა Claude Code-ის უფასოდ გამოყენების სამი არხით — ტერმინალში, VS Code გაფართოებად ან Discord bot-ით. სამი ინტერფეისი ერთ პაკეტში: ლოკალურად კოდის წერისას CLI/IDE, გუნდურ მუშაობაზე Discord-ით. Python-ში დაწერილია, MIT ლიცენზია, 2026 წლის იანვრიდან 34,000+ ვარსკვლავი დააგროვა.",
       "descEn": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "stars": 35000
+    },
+    {
+      "id": "herdr",
+      "label": "herdr",
+      "category": "coding",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "desc": "herdr აგენტების multiplexer-ია, რომელიც შენს ტერმინალში ცხოვრობს — რამდენიმე coding agent-ს ერთდროულად მართავ ერთი ინტერფეისიდან. Rust-ში დაწერილი სიჩქარისთვის, 11,000+ ვარსკვლავი. cmux-ის მსგავსი იდეა, მაგრამ cross-platform terminal multiplexer-ის სახით — თუ Claude Code + Codex + opencode ერთდროულად გიმუშავია, herdr მათ შორის გადართვას ამარტივებს.",
+      "descEn": "agent multiplexer that lives in your terminal.",
+      "stars": 12000
     },
     {
       "id": "ml-intern",
@@ -410,6 +428,15 @@
       "desc": "Claude Plugins Official Anthropic-მართული Claude Code Plugin-ების ოფიციალური კატალოგია — მხოლოდ შემოწმებული, მაღალი ხარისხის plugin-ები. Python-ში, code.claude.com/docs-ის ლინკი. GitHub org-ი `anthropics` (note: Anthropic-ის ძირითადი org-ი ჩვეულებრივ `anthropic` ეწოდება — plugin-ის ინსტალაციამდე დამოუკიდებლად შეამოწმე ოფიციალურობა). 30,000+ ვარსკვლავი.",
       "descEn": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "stars": 30000
+    },
+    {
+      "id": "anthropic-cybersecurity-skills",
+      "label": "Anthropic Cybersecurity Skills",
+      "category": "plugins",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "Anthropic Cybersecurity Skills 817 სტრუქტურირებული კიბერუსაფრთხოების skill-ია AI აგენტებისთვის — 6 framework-ზე მიბმული (MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF, MITRE F3). 29 უსაფრთხოების დომენი, agentskills.io სტანდარტი. Claude Code-თან, Copilot-თან, Codex CLI-თან, Cursor-თან და 20+ პლატფორმასთან მუშაობს. Apache 2.0, 24,000+ ⭐ — უსაფრთხოების გუნდებისთვის მზა skill-pack.",
+      "descEn": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": 25000
     },
     {
       "id": "claude-skills",
@@ -626,6 +653,15 @@
       "desc": "Draw.io MCP draw.io-ს (JGraph Ltd) ოფიციალური MCP სერვერია — AI ასისტენტს diagrams.net-ში ქსელის სქემების, UML-ის, flowchart-ების და სხვა დიაგრამების ავტომატური შექმნის საშუალება ეძლევა. JavaScript-ში. ბუნებრივი ენით სისტემის არქიტექტურა — draw.io ფაილი → browser-ში გახსნა. 4 ინტეგრაციის მეთოდი, 4,400+ ვარსკვლავი.",
       "descEn": "Official MCP server for draw.io (JGraph Ltd) — lets an AI assistant automatically create network diagrams, UML, flowcharts and other diagrams in diagrams.net from natural language. JavaScript, four integration methods, 3,000+ stars.",
       "stars": 4500
+    },
+    {
+      "id": "ui-skills",
+      "label": "UI Skills",
+      "category": "design",
+      "url": "https://github.com/ibelick/ui-skills",
+      "desc": "UI Skills design engineer-ებისთვის განკუთვნილი skill-ების კრებულია — ინტერფეისის დიზაინის ცოდნა, რომელსაც AI აგენტს აძლევ, რომ generic-ის ნაცვლად გემოვნებიანი UI ააწყოს. ibelick-ის (motion-primitives-ისა და prompt-kit-ის ავტორი) პროექტი, TypeScript. 3,500+ ვარსკვლავი — design-to-code workflow-ისთვის.",
+      "descEn": "Skills for Design Engineers",
+      "stars": 3500
     },
     {
       "id": "skill",
@@ -887,6 +923,15 @@
       "desc": "Lightpanda არის headless ბრაუზერი, რომელიც ნულიდან Zig-ში დაიწერა სპეციალურად AI სამუშაო ნაკადებისა და automation-ისთვის. Chrome-თან შედარებით 11-ჯერ სწრაფია და 9-ჯერ ნაკლებ RAM-ს მოიხმარს, რაც მას სერვერულ გარემოში მასშტაბირებისთვის ეკონომიურ ალტერნატივად აქცევს. Puppeteer-ისა და Playwright-ის სკრიპტებთან თავსებადია, ანუ migration ნაკლები ძალისხმევით ხდება. Zig-ის low-level კონტროლი სრულ JavaScript-ის ინტერპრეტაციასთან ერთად გამოყენებულია web scraping-ის ინსტრუმენტებით დატვირთულ სერვერებზე.",
       "descEn": "Lightpanda: the headless browser designed for AI and automation",
       "stars": 31000
+    },
+    {
+      "id": "page-agent",
+      "label": "page-agent",
+      "category": "scraping",
+      "url": "https://github.com/alibaba/page-agent",
+      "desc": "page-agent JavaScript in-page GUI აგენტია — ვებ-ინტერფეისებს ბუნებრივი ენით მართავს პირდაპირ გვერდზე. Alibaba-ს ღია პროექტი, TypeScript-ში. სთხოვ „დააჭირე login-ს და შეავსე ფორმა\" და აგენტი რეალურ DOM-ზე მოქმედებს — ვებ-ავტომატიზაციისა და agentic browsing-ისთვის. 23,000+ ვარსკვლავი. browser-use-ისა და Stagehand-ის in-page ალტერნატივა.",
+      "descEn": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 24000
     },
     {
       "id": "stagehand",
@@ -1186,6 +1231,15 @@
       "stars": 13000
     },
     {
+      "id": "orca",
+      "label": "Orca",
+      "category": "frameworks",
+      "url": "https://github.com/stablyai/orca",
+      "desc": "Orca ADE-ია (agent development environment) პარალელური აგენტების „ფლოტის\" სამართავად — ნებისმიერ coding agent-ს უშვებ შენივე subscription-ით, ერთდროულად რამდენიმეს. desktop-ზეც და mobile-ზეც ხელმისაწვდომია. TypeScript, 12,000+ ვარსკვლავი. თუ ერთდროულად ბევრ აგენტს ამუშავებ სხვადასხვა ამოცანაზე, orca მათ ერთ ინტერფეისში აერთიანებს — cmux-ისა და herdr-ის მსგავსი orchestration ფენა, უფრო სრული UI-ით.",
+      "descEn": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 12000
+    },
+    {
       "id": "agent-framework",
       "label": "Microsoft Agent Framework",
       "category": "frameworks",
@@ -1202,6 +1256,15 @@
       "desc": "OpenSandbox არის Alibaba-ს Python sandbox runtime, რომელიც AI აგენტებს კოდის უსაფრთხო გარემოში გასაშვებად ემსახურება. „Sandbox\" ნიშნავს, რომ AI-ს კოდი იზოლირებულ კონტეინერში სრულდება — host სისტემაზე წვდომა, ქსელის ბოროტად გამოყენება ან არასასურველი ფაილების შეცვლა გამორიცხულია. Python, Java, JavaScript, C# — ოთხი ძირითადი ენა მხარდაჭერილია. ღია კოდი, MIT ლიცენზიით; Alibaba Cloud-ის კომერციული sandbox სერვისის ოპენ სორს ვარიანტია.",
       "descEn": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "stars": 12000
+    },
+    {
+      "id": "flue",
+      "label": "flue",
+      "category": "frameworks",
+      "url": "https://github.com/withastro/flue",
+      "desc": "flue „sandbox agent framework\"-ია Astro-ს გუნდისგან — AI აგენტების იზოლირებულ sandbox-ში გაშვების framework. TypeScript-ში, Astro-ს ეკოსისტემასთან შესაბამისობით. ახალი, სწრაფად მზარდი პროექტი (7,000+ ⭐) იმ დეველოპერებისთვის, ვისაც აგენტების უსაფრთხო, კონტროლირებად გარემოში გაშვება სჭირდება.",
+      "descEn": "The sandbox agent framework.",
+      "stars": 7100
     },
     {
       "id": "openspace",
@@ -1762,6 +1825,15 @@
       "stars": 42000
     },
     {
+      "id": "codebase-memory-mcp",
+      "label": "codebase-memory-mcp",
+      "category": "codeintel",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "codebase-memory-mcp მაღალწარმადი code intelligence MCP სერვერია — მთელ კოდბაზას persistent knowledge graph-ად ინდექსავს, საშუალო რეპოს მილიწამებში. 158 ენა, sub-ms queries და ტოკენების 99%-ით დაზოგვა. ერთი static binary დამოკიდებულებების გარეშე, C-ში დაწერილი. აქტიური განვითარება — v0.8.1 (2026 წლის ივნისი), 26,000+ ვარსკვლავი. zilliztech-ის claude-context-ის სწრაფი, self-contained ალტერნატივა.",
+      "descEn": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "stars": 27000
+    },
+    {
       "id": "code-review-graph",
       "label": "Code Review Graph",
       "category": "codeintel",
@@ -1778,6 +1850,15 @@
       "desc": "Claude Context Zilliz-ის MCP plugin-ია, რომელიც Claude Code-სა და სხვა coding agent-ებს მთელ codebase-ზე semantic code search-ს აძლევს. ფაილების სრულად ჩატვირთვის ნაცვლად კოდს embeddings-ად ინახავს vector database-ში (Milvus/Zilliz Cloud) და მოთხოვნისას მხოლოდ რელევანტურ ფრაგმენტებს აბრუნებს კონტექსტში — დიდ monorepo-ებზე token ხარჯს და discovery rounds-ს ამცირებს. TypeScript-ში, MIT ლიცენზია, `@zilliz/claude-context-mcp` npm პაკეტით ინსტალირდება. მუშაობისთვის OpenAI API key და Milvus/Zilliz Cloud endpoint/token სჭირდება. 11,000+ ვარსკვლავი.",
       "descEn": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "stars": 12000
+    },
+    {
+      "id": "agentsview",
+      "label": "agentsview",
+      "category": "codeintel",
+      "url": "https://github.com/kenn-io/agentsview",
+      "desc": "agentsview local-first ხელსაწყოა coding agent-ების სესიების ძებნის, ანალიტიკისა და ტოკენების ხარჯის სტატისტიკისთვის — Claude Code-ს, Codex-ს და 20+ სხვა აგენტს უჭერს მხარს. Go-ში დაწერილი, მთელი ისტორია შენს მანქანაზე რჩება. თუ რამდენიმე აგენტს იყენებ და გინდა ნახო რაზე იხარჯება ტოკენები — ეს dashboard-ი გამოგადგება.",
+      "descEn": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. ",
+      "stars": 3700
     },
     {
       "id": "claude-mem",
@@ -1823,6 +1904,15 @@
       "desc": "agentmemory AI coding agent-ებს persistent მეხსიერებას აძლევს — lifecycle hooks-ით ჩუმად იწერს რას აკეთებს agent-ი 12+ ხელსაწყოში (Claude Code, Copilot CLI, Cursor, Gemini CLI), დაკვირვებებს searchable structured memory-ად კუმშავს (keyword + vector + knowledge graph hybrid, 95.2% retrieval accuracy R@5) და ახალ session-ში რელევანტურ კონტექსტს უბრუნებს. SQLite-ზე მუშაობს გარე ბაზის გარეშე და 53-tool MCP server-ად ეშვება — ~92%-ით ამცირებს ტოკენებს. TypeScript, Apache-2.0, v0.9.24 (2026 წლის 29 მაისი), 23,000+ ვარსკვლავი, GitHub Trending #5 — **Claude Mem**-ისა და **mem0**-ის MCP-native კონკურენტი.",
       "descEn": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "stars": 23000
+    },
+    {
+      "id": "freellmapi",
+      "label": "freellmapi",
+      "category": "tokens",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "desc": "freellmapi OpenAI-თავსებადი proxy-ია, რომელიც 16 LLM პროვაიდერის უფასო tier-ს (~1.7 მილიარდი ტოკენი თვეში) ერთ `/v1` endpoint-ს უკან აერთიანებს. smart routing, ავტომატური failover და დაშიფრული key-ები. TypeScript, 15,000+ ვარსკვლავი. free-llm-api-resources-ის მუშა, კოდში ჩასმადი ვერსია — რამდენიმე უფასო tier ერთ API-დ იქცევა (მხოლოდ პერსონალური ექსპერიმენტებისთვის).",
+      "descEn": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 15000
     },
     {
       "id": "ollama",
@@ -2032,6 +2122,15 @@
       "stars": 73000
     },
     {
+      "id": "opencut",
+      "label": "OpenCut",
+      "category": "media",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "OpenCut ღია კოდის ვიდეო-რედაქტორია — CapCut-ის უფასო, პრივატულობაზე ორიენტირებული ალტერნატივა. ბრაუზერშიც და desktop-ზეც მუშაობს, ვიდეო შენს მანქანას არ ტოვებს (watermark-ისა და subscription-ის გარეშე). TypeScript, 61,000+ ვარსკვლავი — 2026-ის ერთ-ერთი ყველაზე სწრაფად მზარდი creator-tool. AI media-გენერაციის workflow-ს ადამიანური მონტაჟით ავსებს.",
+      "descEn": "The open-source CapCut alternative",
+      "stars": 62000
+    },
+    {
       "id": "vibevoice",
       "label": "VibeVoice",
       "category": "media",
@@ -2074,6 +2173,15 @@
       "url": "https://github.com/huggingface/diffusers",
       "desc": "Hugging Face Diffusers — state-of-the-art diffusion model-ების Python ბიბლიოთეკა სურათების, ვიდეოების და აუდიოს გენერაციისთვის. Stable Diffusion, FLUX, SDXL, CogVideoX, Wan — ყველა ძირითადი generative model ამ ბიბლიოთეკის მეშვეობით ეშვება. LoRA, ControlNet, IP-Adapter — პოპულარული fine-tuning ტექნიკები ჩაშენებულია. Transformers-ის „diffusion counterpart\" Hugging Face-ისგან, ერთი unified API-ით ყველა გენერაციული მოდელისთვის. AI ხელოვნებაში Python pipeline-ების სტანდარტი.",
       "descEn": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+      "stars": 34000
+    },
+    {
+      "id": "openmontage",
+      "label": "OpenMontage",
+      "category": "media",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "OpenMontage მსოფლიოში პირველი ღია კოდის აგენტური ვიდეო-პროდაქშენ სისტემაა — 12 pipeline, 52 tool და 500+ agent skill. AI coding assistant-ს (Claude Code, Cursor, Copilot) სრულ ვიდეო-სტუდიად აქცევს: აღწერ იდეას ბუნებრივ ენაზე, ის კი კვლევას, სცენარს, ასეტების გენერაციასა და მონტაჟს თავად აკეთებს. რეალურ footage-საც იყენებს (Archive.org, NASA, Wikimedia), არა მხოლოდ Ken Burns ეფექტს. Python, AGPL-3.0, 33,000+ ⭐.",
+      "descEn": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "stars": 34000
     },
     {
@@ -2221,6 +2329,15 @@
       "stars": 87000
     },
     {
+      "id": "system-prompts-leaks",
+      "label": "system_prompts_leaks",
+      "category": "resources",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "system_prompts_leaks მთავარი AI სისტემების ამოღებული system prompt-ების კრებულია — Anthropic (Claude Opus 4.8, Claude Code, Claude Design), OpenAI (ChatGPT, Codex), Google (Gemini, Antigravity), xAI Grok, Cursor, Copilot, Perplexity და სხვა. რეგულარულად ახლდება. prompt engineering-ის შესასწავლად ერთ-ერთი ყველაზე ღირებული რესურსი — ხედავ როგორ ამუშავებენ frontier ლაბები რეალურ აგენტებს. 49,000+ ⭐.",
+      "descEn": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 50000
+    },
+    {
       "id": "claude-cookbooks",
       "label": "Anthropic Cookbook",
       "category": "resources",
@@ -2273,6 +2390,15 @@
       "desc": "Free LLM API Resources — 26-ზე მეტი უფასო LLM inference სერვისის კურირებული სია API-ზე წვდომით: OpenRouter, Google AI Studio, NVIDIA NIM, Mistral, Groq, Cerebras, Together AI და სხვა. ყოველი სერვისისთვის — ხელმისაწვდომი მოდელები, rate limits, registration requirements. Python-ში, cheahjs-ის მიერ, community-ის განახლებებით. prototype-ებისა და სასწავლო პროექტებისთვის, სადაც გადასახადი არ გსურს — ყველაზე სრული სია.",
       "descEn": "A list of free LLM inference resources accessible via API.",
       "stars": 24000
+    },
+    {
+      "id": "awesome-claude-code-subagents",
+      "label": "awesome-claude-code-subagents",
+      "category": "resources",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "desc": "awesome-claude-code-subagents 100+ სპეციალიზებული Claude Code subagent-ის კრებულია — full-stack development-ის ფართო სპექტრზე (backend, frontend, DevOps, data, security და სხვა). მზა subagent-ები, რომლებსაც პირდაპირ ჩააგდებ შენს Claude Code setup-ში. VoltAgent-ის მიერ შენახული, 22,000+ ვარსკვლავი — Claude Code-ის subagent ეკოსისტემის ერთ-ერთი მთავარი catalog.",
+      "descEn": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
+      "stars": 23000
     },
     {
       "id": "agentskills",
@@ -2425,6 +2551,11 @@
       "type": "cluster"
     },
     {
+      "source": "ai-website-cloner-template",
+      "target": "claw-code",
+      "type": "cluster"
+    },
+    {
       "source": "qwen-code",
       "target": "claw-code",
       "type": "cluster"
@@ -2451,6 +2582,11 @@
     },
     {
       "source": "free-claude-code",
+      "target": "claw-code",
+      "type": "cluster"
+    },
+    {
+      "source": "herdr",
       "target": "claw-code",
       "type": "cluster"
     },
@@ -2511,6 +2647,11 @@
     },
     {
       "source": "claude-plugins-official",
+      "target": "superpowers",
+      "type": "cluster"
+    },
+    {
+      "source": "anthropic-cybersecurity-skills",
       "target": "superpowers",
       "type": "cluster"
     },
@@ -2626,6 +2767,11 @@
     },
     {
       "source": "drawio-mcp",
+      "target": "skills-2",
+      "type": "cluster"
+    },
+    {
+      "source": "ui-skills",
       "target": "skills-2",
       "type": "cluster"
     },
@@ -2761,6 +2907,11 @@
     },
     {
       "source": "browser",
+      "target": "firecrawl",
+      "type": "cluster"
+    },
+    {
+      "source": "page-agent",
       "target": "firecrawl",
       "type": "cluster"
     },
@@ -2925,12 +3076,22 @@
       "type": "cluster"
     },
     {
+      "source": "orca",
+      "target": "autogpt",
+      "type": "cluster"
+    },
+    {
       "source": "agent-framework",
       "target": "autogpt",
       "type": "cluster"
     },
     {
       "source": "opensandbox",
+      "target": "autogpt",
+      "type": "cluster"
+    },
+    {
+      "source": "flue",
       "target": "autogpt",
       "type": "cluster"
     },
@@ -3220,12 +3381,22 @@
       "type": "cluster"
     },
     {
+      "source": "codebase-memory-mcp",
+      "target": "graphify",
+      "type": "cluster"
+    },
+    {
       "source": "code-review-graph",
       "target": "graphify",
       "type": "cluster"
     },
     {
       "source": "claude-context",
+      "target": "graphify",
+      "type": "cluster"
+    },
+    {
+      "source": "agentsview",
       "target": "graphify",
       "type": "cluster"
     },
@@ -3246,6 +3417,11 @@
     },
     {
       "source": "agentmemory",
+      "target": "claude-mem",
+      "type": "cluster"
+    },
+    {
+      "source": "freellmapi",
       "target": "claude-mem",
       "type": "cluster"
     },
@@ -3355,6 +3531,11 @@
       "type": "cluster"
     },
     {
+      "source": "opencut",
+      "target": "comfyui",
+      "type": "cluster"
+    },
+    {
       "source": "vibevoice",
       "target": "comfyui",
       "type": "cluster"
@@ -3376,6 +3557,11 @@
     },
     {
       "source": "diffusers",
+      "target": "comfyui",
+      "type": "cluster"
+    },
+    {
+      "source": "openmontage",
       "target": "comfyui",
       "type": "cluster"
     },
@@ -3455,6 +3641,11 @@
       "type": "cluster"
     },
     {
+      "source": "system-prompts-leaks",
+      "target": "build-your-own-x",
+      "type": "cluster"
+    },
+    {
       "source": "claude-cookbooks",
       "target": "build-your-own-x",
       "type": "cluster"
@@ -3481,6 +3672,11 @@
     },
     {
       "source": "free-llm-api-resources",
+      "target": "build-your-own-x",
+      "type": "cluster"
+    },
+    {
+      "source": "awesome-claude-code-subagents",
       "target": "build-your-own-x",
       "type": "cluster"
     },
@@ -3546,6 +3742,11 @@
     },
     {
       "source": "claude-code",
+      "target": "ai-website-cloner-template",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
       "target": "qwen-code",
       "type": "hub"
     },
@@ -3557,6 +3758,11 @@
     {
       "source": "claude-code",
       "target": "free-claude-code",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "herdr",
       "type": "hub"
     },
     {
@@ -3617,6 +3823,11 @@
     {
       "source": "claude-code",
       "target": "claude-plugins-official",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "anthropic-cybersecurity-skills",
       "type": "hub"
     },
     {
@@ -3856,6 +4067,11 @@
     },
     {
       "source": "claude-code",
+      "target": "agentsview",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
       "target": "claude-mem",
       "type": "hub"
     },
@@ -3881,12 +4097,22 @@
     },
     {
       "source": "claude-code",
+      "target": "openmontage",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
       "target": "hyperframes",
       "type": "hub"
     },
     {
       "source": "claude-code",
       "target": "system-prompts-and-models-of-ai-tools",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "system-prompts-leaks",
       "type": "hub"
     },
     {
@@ -3902,6 +4128,11 @@
     {
       "source": "claude-code",
       "target": "12-factor-agents",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "awesome-claude-code-subagents",
       "type": "hub"
     },
     {
@@ -4065,6 +4296,11 @@
       "type": "cross"
     },
     {
+      "source": "tencentdb-agent-memory",
+      "target": "codebase-memory-mcp",
+      "type": "cross"
+    },
+    {
       "source": "llama-cpp",
       "target": "whisper-cpp",
       "type": "cross"
@@ -4080,6 +4316,11 @@
       "type": "cross"
     },
     {
+      "source": "system-prompts-and-models-of-ai-tools",
+      "target": "system-prompts-leaks",
+      "type": "cross"
+    },
+    {
       "source": "llms-from-scratch",
       "target": "ai-engineering-from-scratch",
       "type": "cross"
@@ -4087,6 +4328,11 @@
     {
       "source": "ragflow",
       "target": "claude-mem",
+      "type": "cross"
+    },
+    {
+      "source": "ragflow",
+      "target": "codebase-memory-mcp",
       "type": "cross"
     },
     {
