@@ -1,0 +1,57 @@
+name: Refresh graph stars
+
+# Daily: fetch live stargazer counts into site/public/data/graph.json and commit.
+# The commit (under site/**) is made with GITHUB_TOKEN, which does NOT auto-trigger
+# pages-deploy (anti-loop), so we dispatch the deploy explicitly when stars changed.
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # daily 05:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Refresh stars
+        working-directory: site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/refresh-stars.mjs
+
+      - name: Detect change
+        id: detect
+        run: |
+          if git diff --quiet -- site/public/data/graph.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.detect.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/public/data/graph.json
+          git commit -m "chore(graph): daily star refresh [skip ci]"
+          git push
+
+      - name: Trigger redeploy
+        if: steps.detect.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run pages-deploy.yml --repo ${{ github.repository }}
