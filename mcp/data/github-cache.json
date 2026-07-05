@@ -1078,5 +1078,61 @@
   "BerriAI/litellm": {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
     "fetchedAt": "2026-06-17T00:00:00.000Z"
+  },
+  "JCodesMore/ai-website-cloner-template": {
+    "description": "Clone any website with one command using AI coding agents",
+    "fetchedAt": "2026-07-05T20:58:01.934Z"
+  },
+  "ogulcancelik/herdr": {
+    "description": "agent multiplexer that lives in your terminal.",
+    "fetchedAt": "2026-07-05T20:58:02.302Z"
+  },
+  "mukul975/Anthropic-Cybersecurity-Skills": {
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+    "fetchedAt": "2026-07-05T20:58:02.680Z"
+  },
+  "ibelick/ui-skills": {
+    "description": "Skills for Design Engineers",
+    "fetchedAt": "2026-07-05T20:58:03.091Z"
+  },
+  "alibaba/page-agent": {
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "fetchedAt": "2026-07-05T20:58:03.485Z"
+  },
+  "stablyai/orca": {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "fetchedAt": "2026-07-05T20:58:03.865Z"
+  },
+  "withastro/flue": {
+    "description": "The sandbox agent framework.",
+    "fetchedAt": "2026-07-05T20:58:04.262Z"
+  },
+  "DeusData/codebase-memory-mcp": {
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "fetchedAt": "2026-07-05T20:58:04.633Z"
+  },
+  "kenn-io/agentsview": {
+    "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. ",
+    "fetchedAt": "2026-07-05T20:58:05.030Z"
+  },
+  "tashfeenahmed/freellmapi": {
+    "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "fetchedAt": "2026-07-05T20:58:05.401Z"
+  },
+  "OpenCut-app/OpenCut": {
+    "description": "The open-source CapCut alternative",
+    "fetchedAt": "2026-07-05T20:58:05.773Z"
+  },
+  "calesthio/OpenMontage": {
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "fetchedAt": "2026-07-05T20:58:06.154Z"
+  },
+  "asgeirtj/system_prompts_leaks": {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "fetchedAt": "2026-07-05T20:58:06.529Z"
+  },
+  "VoltAgent/awesome-claude-code-subagents": {
+    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
+    "fetchedAt": "2026-07-05T20:58:06.912Z"
   }
 }
