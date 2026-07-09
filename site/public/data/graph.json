@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T22:15:44.532Z",
+  "generated": "2026-07-09T22:41:47.943Z",
   "categories": [
     {
       "id": "coding",
@@ -85,7 +85,7 @@
       "url": "https://github.com/ultraworkers/claw-code",
       "desc": "Claw Code არის Claude Code-ისა და სხვა კომერციული coding agent-ების ღია კოდის ალტერნატივა, Rust-ში დაწერილი `oh-my-codex`-ის ბაზაზე. მუშაობს Claude-თან, OpenAI-თან, Grok-თან და ნებისმიერ OpenAI-თავსებად მოდელ API-სთან — შენ ირჩევ რომელ AI-ს ენდობი და რამდენს იხდი. Rust-ის არქიტექტურა მაქსიმალურ სიჩქარეს უზრუნველყოფს და რესურსების მინიმალურ მოხმარებას. 2026 წლის 31 მარტს გამოიცა და სწრაფად დააგროვა **193,000+ ვარსკვლავი** — ერთ-ერთი ყველაზე სწრაფად მზარდი AI ხელსაწყო GitHub-ის ისტორიაში.",
       "descEn": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
-      "stars": 194000
+      "stars": 195000
     },
     {
       "id": "opencode",
@@ -94,7 +94,7 @@
       "url": "https://github.com/anomalyco/opencode",
       "desc": "opencode სრულად ღია კოდის coding agent-ია ტერმინალში — Claude Code-ისა და Cursor-ის უფასო, self-hosted ალტერნატივა. `anomalyco` org-ის მიერ შენახული, TypeScript-ში დაწერილი, ლამაზი TUI ინტერფეისით. ნებისმიერი AI მოდელით მუშაობს — Anthropic, OpenAI, Google Gemini, Ollama და სხვა. 175,000+ ვარსკვლავით ერთ-ერთი ყველაზე პოპულარული ღია coding agent-ია 2025 წლის მეორე ნახევრიდან.",
       "descEn": "The open source coding agent.",
-      "stars": 180000
+      "stars": 183000
     },
     {
       "id": "claude-code-2",
@@ -121,7 +121,7 @@
       "url": "https://github.com/zed-industries/zed",
       "desc": "Zed — Atom-ისა და Tree-sitter-ის შემქმნელების მაღალწარმადი, Rust-ში დაწერილი კოდის რედაქტორი. 2026-ში ღრმად ინტეგრირდა agentic ფუნქციები — ჩაშენებული AI აგენტი, skills და MCP მხარდაჭერა. VS Code-ისა და Cursor-ის სიჩქარეზე ორიენტირებული ალტერნატივა.",
       "descEn": "High-performance, multiplayer code editor in Rust from the creators of Atom — now with built-in AI agent, skills and MCP support.",
-      "stars": 86000
+      "stars": 87000
     },
     {
       "id": "codex",
@@ -130,7 +130,7 @@
       "url": "https://github.com/openai/codex",
       "desc": "Codex CLI არის OpenAI-ის ოფიციალური, მსუბუქი coding agent ტერმინალისთვის — Rust-ში დაწერილია სიჩქარისა და სტაბილურობისთვის. კოდს sandbox-ში იზოლირებულად ასრულებს, approval-mode ფლაგებით შეგიძლია ზუსტად განსაზღვრო რა ნებართვები აქვს. ChatGPT-ის ანგარიშით (Plus, Pro, Business, Edu ან Enterprise) პირდაპირ ავტორიზდები — ცალკე API key-ის გარეშე იმდენივე მოდელი გაქვს, რამდენსაც შენი გამოწერა მოიცავს. OpenAI-ის პირდაპირი პასუხი Claude Code-ზე — ანალოგიური ფილოსოფია, სხვა backend-ით. დამატებით `codex app` გრაფიკულ ვერსიასაც უშვებს.",
       "descEn": "Lightweight coding agent that runs in your terminal",
-      "stars": 94000
+      "stars": 96000
     },
     {
       "id": "openhands",
@@ -139,7 +139,7 @@
       "url": "https://github.com/OpenHands/OpenHands",
       "desc": "OpenHands (ყოფილი OpenDevin) ავტონომიური AI სოფტვერ-ინჟინერია — ქმნის და რედაქტირებს ფაილებს, ასრულებს shell ბრძანებებს, ვებ ბრაუზერს იყენებს და API-ებს უძახებს, ადამიანის ჩარევის გარეშე. Docker კონტეინერში იზოლირებულად მუშაობს, ვებ UI-ითაც და CLI-ითაც. 200-ზე მეტი contributor-ი, 60+ LLM backend (Anthropic, OpenAI, Gemini, Ollama) — SWE-bench-ის ღია კოდის ბენჩმარკ-ლიდერი. Cognition AI-ის Devin-ის ღია ალტერნატივა Python-ში.",
       "descEn": "🙌 OpenHands: AI-Driven Development",
-      "stars": 79000
+      "stars": 80000
     },
     {
       "id": "cline",
@@ -157,7 +157,7 @@
       "url": "https://github.com/earendil-works/pi",
       "desc": "Pi coding agent-ის სრული toolkit-ია ერთ monorepo-ში — interactive CLI agent, unified LLM API (Anthropic, OpenAI, Google, Groq ერთ ინტერფეისში), agent runtime და TUI/web UI ბიბლიოთეკები, Slack bot-ისა და vLLM deployment-ის ჩათვლით. interchangeable კომპონენტების არქიტექტურა საშუალებას გაძლევს საკუთარი coding agent ააწყო მზა ნაწილებისგან. TypeScript (93.5%), MIT, v0.77.0 (2026 წლის 28 მაისი), 63,000+ ვარსკვლავი. **opencode**-ისა და **Cline**-ის უფრო „ლეგოსებრივი\", toolkit-ზე ორიენტირებული ალტერნატივა — badlogic-ის (Mario Zechner) სწრაფად მზარდი პროექტი.",
       "descEn": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "stars": 66000
+      "stars": 68000
     },
     {
       "id": "gpt-engineer",
@@ -175,7 +175,7 @@
       "url": "https://github.com/code-yeongyu/oh-my-openagent",
       "desc": "omo (**ახლანდელი სახელი**; ადრე oh-my-openagent, უფრო ადრე oh-my-opencode) ერთი AI coding session-ს სრულ multi-agent სისტემად აქცევს — სპეციალიზებული AI-ები პარალელურად ასრულებენ სხვადასხვა ამოცანებს ერთ workflow-ში. TypeScript-ში დაწერილი orchestration framework, რომელიც Claude Code-თან, Codex-თან, opencode-თან და Cursor-თან მუშაობს. Oh My ClaudeCode-ისგან სრულიად განსხვავებული პროექტია — ეს ზოგადი agent harness-ია, ის კი Claude Code-სპეციფიკური. 62,000+ ვარსკვლავი, 2025 წლის ბოლოს გამოჩნდა (repo URL ჯერ ძველ სახელს ინახავს).",
       "descEn": "omo; the best agent harness - previously oh-my-opencode",
-      "stars": 64000
+      "stars": 65000
     },
     {
       "id": "aider",
@@ -193,7 +193,7 @@
       "url": "https://github.com/aaif-goose/goose",
       "desc": "Goose ღია კოდის, გაფართოებადი AI agent-ია. თავდაპირველად Block-ის (Square/Cash App-ის ფინტექ კომპანია) შექმნილი, 2026-ში პროექტი **Agentic AI Foundation**-ში (Linux Foundation) გადავიდა — სახელი და ოფიციალური owner ახლა `aaif-goose`, კოდი neutral governance-ქვეშ. კოდის წერის მიღმა სრული სამუშაო ციკლი — ინსტალაცია, გაშვება, ტესტირება, მონაცემთა ანალიზი და ავტომატიზაცია. Rust-ში დაწერილია, 15+ AI პროვაიდერს (Anthropic, OpenAI, Google, Ollama) და 70+ MCP გაფართოებას უჭერს მხარს.",
       "descEn": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": 50000
+      "stars": 51000
     },
     {
       "id": "claude-code-router",
@@ -301,7 +301,7 @@
       "url": "https://github.com/kilo-org/kilocode",
       "desc": "Kilocode VS Code-ის AI coding agent-ია, kilo.ai-ის agentic engineering platform-ის ღია კოდის გული. 500+ AI მოდელს უჭერს მხარს, ბუნებრივი ენის ბრძანებებით კოდს წერს, ტესტავს და deploy-ს. TypeScript, 1.5 მილიონზე მეტი ინსტალაცია. OpenRouter-ის coding agent-ების სიაში წამყვანი — Roo Code-ისა და Cline-ის პირდაპირი კონკურენტი.",
       "descEn": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "stars": 25000
+      "stars": 26000
     },
     {
       "id": "cmux",
@@ -310,7 +310,7 @@
       "url": "https://github.com/manaflow-ai/cmux",
       "desc": "cmux Ghostty-ს საფუძველზე აშენებული macOS terminal emulator-ია, სპეციალურად AI coding agent-ებისთვის ოპტიმიზებული. ვერტიკალური tabs, push notifications და პარალელური სესიების მარტივი მართვა — თუ ერთდროულად რამდენიმე AI agent-ს ამუშავებ (Claude Code + Codex + opencode), ეს terminal-ი სამართავს გამარტივებს. Swift-ში დაწერილია, macOS-only.",
       "descEn": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-      "stars": 23000
+      "stars": 24000
     },
     {
       "id": "devika",
@@ -337,7 +337,7 @@
       "url": "https://github.com/can1357/oh-my-pi",
       "desc": "oh-my-pi — ტერმინალის AI coding agent Mario Zechner-ის Pi-ს ბაზაზე: hash-anchored edits, ოპტიმიზებული tool harness, LSP, browser და subagents. რეალური debugger მხარდაჭერა და multi-provider routing. MIT.",
       "descEn": "AI coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, browser and subagents, built on Pi.",
-      "stars": 15000
+      "stars": 16000
     },
     {
       "id": "free-claude-code",
@@ -346,7 +346,7 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "desc": "free-claude-code ღია კოდის ხელსაწყოა Claude Code-ის უფასოდ გამოყენების სამი არხით — ტერმინალში, VS Code გაფართოებად ან Discord bot-ით. სამი ინტერფეისი ერთ პაკეტში: ლოკალურად კოდის წერისას CLI/IDE, გუნდურ მუშაობაზე Discord-ით. Python-ში დაწერილია, MIT ლიცენზია, 2026 წლის იანვრიდან 34,000+ ვარსკვლავი დააგროვა.",
       "descEn": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "stars": 38000
+      "stars": 39000
     },
     {
       "id": "herdr",
@@ -373,7 +373,7 @@
       "url": "https://github.com/obra/superpowers",
       "desc": "Superpowers agentic skills framework-ია AI coding agent-ებისთვის — software development methodology, რომელიც AI-ს „ჯერ დაფიქრდი, მერე დაწერე\" პრინციპს ასწავლის. სანამ კოდი ეწერება, ჯერ სპეციფიკაცია, დიზაინ დოკუმენტი და test plan იქმნება. Claude Code-ს, Codex-ს, Cursor-ს და Gemini CLI-ს უჭერს მხარს. Shell scripts, MIT ლიცენზია, 229,000+ ვარსკვლავი. Spec Kit-ის (GitHub-ისა) და GSD-ის იდეური წინამორბედი.",
       "descEn": "An agentic skills framework & software development methodology that works.",
-      "stars": 241000
+      "stars": 247000
     },
     {
       "id": "ecc",
@@ -382,7 +382,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "desc": "Everything Claude Code Claude Code-ის, Codex-ის, opencode-ისა და Cursor-ის ყოვლისმომცველი performance optimization სისტემაა — skills, memory, security scanning და research-first workflow ერთ პაკეტში. JavaScript, ecc.tools — ყველაზე პოპულარული Claude Code enhancement collection 216,000+ ვარსკვლავით. AI-ს „ინსტინქტების\" (instincts) სისტემა განასხვავებს სხვა skill-pack-ებისგან — agent-ი ავტომატურად ადაპტირდება სიტუაციებზე წინასწარ განსაზღვრული behavior-ებით.",
       "descEn": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 223000
+      "stars": 226000
     },
     {
       "id": "spec-kit",
@@ -391,7 +391,7 @@
       "url": "https://github.com/github/spec-kit",
       "desc": "Spec Kit GitHub-ის ოფიციალური Spec-Driven Development toolkit-ია — AI-ს „ჯერ გეგმა, მერე კოდი\" პრინციპს ასწავლის. `/specify`, `/plan`, `/tasks`, `/implement` slash-commands-ით AI ჯერ სრულ სპეციფიკაციას ქმნის, შემდეგ კი კოდირებაზე გადადის. Claude Code-ს, Codex CLI-ს, Gemini CLI-ს, Cursor-ს, Copilot-ს, Windsurf-ს და Qwen Code-ს უჭერს მხარს. GitHub-ის ოფიციალური პასუხი Superpowers-ისა და GSD-ის მსგავს მეთოდოლოგიებზე — 112,000+ ვარსკვლავი.",
       "descEn": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 116000
+      "stars": 118000
     },
     {
       "id": "andrej-karpathy-skills",
@@ -400,7 +400,7 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "desc": "Karpathy Skills ერთი CLAUDE.md ფაილია, რომელიც Andrej Karpathy-ს (OpenAI-ისა და Tesla AI-ს ყოფილი ხელმძღვანელი) LLM coding pitfalls-ის შენიშვნებიდანაა გამომდინარე. AI-ს ჰალუცინაციებს, ზედმეტ refactoring-ს და ცუდ debugging-ს ებრძვის წინასწარ განსაზღვრული rules-ით. Forrest Chang-ის მიერ შექმნილი 2026 წლის იანვარში — 176,000+ ვარსკვლავი, GitHub Trending-ზე #1-ზე ყოფნა. Andrej Karpathy-ს სახელი ატარებს, მაგრამ მის მიერ ოფიციალურად შექმნილი არ არის.",
       "descEn": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 184000
+      "stars": 188000
     },
     {
       "id": "get-shit-done",
@@ -418,7 +418,7 @@
       "url": "https://github.com/mattpocock/skills",
       "desc": "Matt Pocock-ის (Total TypeScript-ის ავტორი, ერთ-ერთი ყველაზე ცნობილი TypeScript ინსტრუქტორი მსოფლიოში) პირადი `.claude/skills/` დირექტორიის გაზიარებული ვერსიაა — სლოგანი: *\"Skills for Real Engineers. Straight from my .claude directory\"*. Shell-ში, MIT ლიცენზია, 2026 წლის თებერვალში გამოქვეყნდა და უკვე 130,000+ ვარსკვლავი დააგროვა. Pocock-ის ყოველდღიური workflow-ის რეალური ანარეკლი — TypeScript-ის, React-ის და modern web development-ის სპეციფიკური skills, რომლებსაც ის თვითონ იყენებს professional კონტექსტში. ვინც TypeScript-ში ან React-ში სერიოზულად მუშაობს Claude Code-ით, ეს კოლექცია უპირველესად განსახილველია.",
       "descEn": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 150000
+      "stars": 158000
     },
     {
       "id": "bmad-method",
@@ -463,7 +463,34 @@
       "url": "https://github.com/kepano/obsidian-skills",
       "desc": "Obsidian Skills Obsidian-ის CEO-ს, Steph Ango-ს (kepano) მიერ შექმნილი agent skills პაკეტია. AI coding agent-ებს ასწავლის Obsidian-ის Markdown ფორმატს, Bases მონაცემთა სტრუქტურას, JSON Canvas-ს და CLI-ს. Claude Code, Codex ან ნებისმიერი MCP-თავსებადი agent Obsidian vault-ში ფაილების შექმნას, ძიებასა და რედაქტირებას შეძლებს. Obsidian-ს იყენებ ცოდნის ბაზად? ეს skill-ი AI-ს ამ ბაზაში მუშაობის ექსპერტად აქცევს.",
       "descEn": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "stars": 39000
+      "stars": 40000
+    },
+    {
+      "id": "academic-research-skills",
+      "label": "Academic Research Skills",
+      "category": "plugins",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills Claude Code skill suite-ია, რომელიც სამეცნიერო ნაშრომის სრულ ციკლს ფარავს — literature search, paper writing, peer review და revision. ოთხი ურთიერთჩაწნული skill, 10-საფეხურიანი pipeline, 13+ agent literature exploration-ისთვის და 12 agent წერისთვის; ჩაშენებული anti-hallucination და citation-fabrication detection gates ციტატების ფაბრიკაციას ამოიცნობს. Python, CC BY-NC 4.0 (არა-კომერციული ლიცენზია — გასათვალისწინებელია), v3.9.2 (2026 წლის 18 მაისი), export Markdown/DOCX/APA-7 LaTeX-ში. 2026 წლის GitHub Trending #3, 31,000+ ვარსკვლავი — აკადემიური და კვლევითი workflow-ის პირველი სპეციალიზებული skill კოლექციაში.",
+      "descEn": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": 37000
+    },
+    {
+      "id": "last30days-skill",
+      "label": "last30days-skill",
+      "category": "plugins",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "last30days-skill Claude Code/Codex skill-ია, რომელიც ერთ ბრძანებაში ნებისმიერი თემის სრულ კვლევას აკეთებს — **Reddit, X/Twitter, YouTube, Hacker News, Polymarket** და ვები პარალელურად დამუშავდება და **grounded summary** მიიღება წყაროებით. Python-ში, 2026 წლის იანვრიდან 43,000+ ვარსკვლავი დააგროვა. **2026 აპრილის ტოპ-ტრენდული Claude Code skill-ებიდან** — competitive analysis, trend research, product research-ისთვის იდეალური. AI Pulse Georgia-ს მიგნებებისთვის — ქართული ჟურნალისტიკის, SMM-ის და product კვლევის acceleratore.",
+      "descEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 49000
+    },
+    {
+      "id": "agent-skills",
+      "label": "Agent Skills",
+      "category": "plugins",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Agent Skills Google-ის Chrome DevRel-ის ხელმძღვანელის Addy Osmani-ს production-grade engineering skills კოლექციაა AI coding agent-ებისთვის. 20+ Markdown workflow — spec-driven development, TDD, code review, shipping და სხვა — agent-ს senior engineer-ის მიდგომებს ასწავლის. Shell-ში, 60,000+ ვარსკვლავი. Agent Skills Spec-ისგან განსხვავება: ეს Osmani-ს კონკრეტული skill-ების კოლექციაა, ის კი ფართო სპეციფიკაციის სტანდარტია.",
+      "descEn": "Production-grade engineering skills for AI coding agents.",
+      "stars": 70000
     },
     {
       "id": "awesome-copilot",
@@ -475,40 +502,13 @@
       "stars": 36000
     },
     {
-      "id": "academic-research-skills",
-      "label": "Academic Research Skills",
-      "category": "plugins",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "desc": "Academic Research Skills Claude Code skill suite-ია, რომელიც სამეცნიერო ნაშრომის სრულ ციკლს ფარავს — literature search, paper writing, peer review და revision. ოთხი ურთიერთჩაწნული skill, 10-საფეხურიანი pipeline, 13+ agent literature exploration-ისთვის და 12 agent წერისთვის; ჩაშენებული anti-hallucination და citation-fabrication detection gates ციტატების ფაბრიკაციას ამოიცნობს. Python, CC BY-NC 4.0 (არა-კომერციული ლიცენზია — გასათვალისწინებელია), v3.9.2 (2026 წლის 18 მაისი), export Markdown/DOCX/APA-7 LaTeX-ში. 2026 წლის GitHub Trending #3, 31,000+ ვარსკვლავი — აკადემიური და კვლევითი workflow-ის პირველი სპეციალიზებული skill კოლექციაში.",
-      "descEn": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": 35000
-    },
-    {
-      "id": "last30days-skill",
-      "label": "last30days-skill",
-      "category": "plugins",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "desc": "last30days-skill Claude Code/Codex skill-ია, რომელიც ერთ ბრძანებაში ნებისმიერი თემის სრულ კვლევას აკეთებს — **Reddit, X/Twitter, YouTube, Hacker News, Polymarket** და ვები პარალელურად დამუშავდება და **grounded summary** მიიღება წყაროებით. Python-ში, 2026 წლის იანვრიდან 43,000+ ვარსკვლავი დააგროვა. **2026 აპრილის ტოპ-ტრენდული Claude Code skill-ებიდან** — competitive analysis, trend research, product research-ისთვის იდეალური. AI Pulse Georgia-ს მიგნებებისთვის — ქართული ჟურნალისტიკის, SMM-ის და product კვლევის acceleratore.",
-      "descEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 48000
-    },
-    {
-      "id": "agent-skills",
-      "label": "Agent Skills",
-      "category": "plugins",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "desc": "Agent Skills Google-ის Chrome DevRel-ის ხელმძღვანელის Addy Osmani-ს production-grade engineering skills კოლექციაა AI coding agent-ებისთვის. 20+ Markdown workflow — spec-driven development, TDD, code review, shipping და სხვა — agent-ს senior engineer-ის მიდგომებს ასწავლის. Shell-ში, 60,000+ ვარსკვლავი. Agent Skills Spec-ისგან განსხვავება: ეს Osmani-ს კონკრეტული skill-ების კოლექციაა, ის კი ფართო სპეციფიკაციის სტანდარტია.",
-      "descEn": "Production-grade engineering skills for AI coding agents.",
-      "stars": 68000
-    },
-    {
       "id": "claude-plugins-official",
       "label": "Claude Plugins Official",
       "category": "plugins",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "Claude Plugins Official Anthropic-მართული Claude Code Plugin-ების ოფიციალური კატალოგია — მხოლოდ შემოწმებული, მაღალი ხარისხის plugin-ები. Python-ში, code.claude.com/docs-ის ლინკი. GitHub org-ი `anthropics` (note: Anthropic-ის ძირითადი org-ი ჩვეულებრივ `anthropic` ეწოდება — plugin-ის ინსტალაციამდე დამოუკიდებლად შეამოწმე ოფიციალურობა). 30,000+ ვარსკვლავი.",
       "descEn": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 31000
+      "stars": 32000
     },
     {
       "id": "anthropic-cybersecurity-skills",
@@ -526,7 +526,7 @@
       "url": "https://github.com/alirezarezvani/claude-skills",
       "desc": "Claude Skills 338 production-ready Claude Code skill-ისა და plugin-ის ბიბლიოთეკაა 13 AI coding ხელსაწყოსთვის (Claude Code, Codex, Gemini CLI, Cursor, Aider და სხვა). ინჟინერიის მიღმა ფარავს marketing-ს, product-ს, compliance-ს, finance-ს და C-level advisory-ს — 533 dependency-free Python CLI tool, 25 „POWERFUL-tier\" skill, persona-ები (მაგ. Startup CTO) და security auditor skill-ების შესამოწმებლად. Python, MIT, v2.9.0 (2026 წლის 28 მაისი), 18,000+ ვარსკვლავი. **Matt Pocock Skills**-ისა და **Agent Skills**-ისგან განსხვავება — ეს ბიზნეს- და მრავალდომენიან breadth-ზეა ფოკუსირებული, არა მხოლოდ engineering-ზე.",
       "descEn": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "stars": 19000
+      "stars": 21000
     },
     {
       "id": "claude-code-game-studios",
@@ -535,7 +535,7 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "desc": "Claude Code Game Studios Claude Code-ს სრულფასოვან თამაშების სტუდიად აქცევს — **49 AI აგენტი და 72 workflow skill**, ნამდვილი game development სტუდიის იერარქიის ანარეკლი. Producer, Designer, Artist, Programmer, QA Tester როლებში სპეციალიზებული agent-ები ერთობლივად მუშაობენ ვიდეო თამაშების შესაქმნელად. Shell-ში, 2026 წლის თებერვლიდან 21,000+ ვარსკვლავი დააგროვა. game dev-ის Claude Code-ზე აწყობის ერთ-ერთი ყველაზე მასშტაბური setup — ქართული indie გუნდებისთვის მზა workflow-ები.",
       "descEn": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "stars": 22000
+      "stars": 23000
     },
     {
       "id": "codex-plugin-cc",
@@ -544,7 +544,7 @@
       "url": "https://github.com/openai/codex-plugin-cc",
       "desc": "Codex Plugin არის OpenAI-ის ოფიციალური Claude Code plugin — Codex CLI-ის agent-ს Claude Code-ის შიგნიდან გამოძახების საშუალებას გაძლევს. კოდის review-ისა და ამოცანების დელეგირებისთვის — OpenAI-ს Codex-ი და Anthropic-ს Claude Code ერთ workflow-ში. JavaScript, 2026 წლის მარტიდან ხელმისაწვდომია. ცალკე რეპოა openai/codex CLI-სგან (რომელიც terminal agent-ია — ეს კი Claude Code-ის plugin-ია).",
       "descEn": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": 22000
+      "stars": 26000
     },
     {
       "id": "n8n-skills",
@@ -553,7 +553,7 @@
       "url": "https://github.com/czlonkowski/n8n-skills",
       "desc": "n8n Skills Claude Code-ს n8n ავტომატიზაციის ექსპერტად აქცევს — 7 ურთიერთშემავსებელი skill, 525+ n8n node-ის ცოდნა, 2,653+ კონფიგურაციის მაგალითი. Shell-ში, n8n-skills.com. n8n-MCP-სთან (ასევე ამ კოლექციაში) ერთად გამოყენება კიდევ უფრო ძლიერ workflow-ების საშენებლად. n8n workflow-ებს AI-ით ავტომატურად ვინც ქმნის, ეს skill-ი აუცილებელია.",
       "descEn": "n8n skillset for Claude Code to build flawless n8n workflows",
-      "stars": 5600
+      "stars": 5700
     },
     {
       "id": "claude-code-setup",
@@ -571,7 +571,7 @@
       "url": "https://github.com/erekle1/georgian-payments-skills",
       "desc": "Georgian Payments Skills ქართული საბანკო API-ების ცოდნას AI ასისტენტებს სძენს — TBC Bank-ის (Checkout, TPay) და Bank of Georgia-ს (iPay, Installments, Open Banking) ინტეგრაციები. Python-ში, საქართველოში შექმნილი. ქართულ საგადახდო სისტემებთან მომუშავე დეველოპერებისთვის — AI-ს ექსპერტ-დონის ლოკალური ცოდნა, რომელიც სხვაგან არ არსებობს. 8 ვარსკვლავი — ახალი ლოკალური resource.",
       "descEn": "Teaches AI assistants the Georgian banking APIs — TBC Bank (Checkout, TPay) and Bank of Georgia (iPay, Installments, Open Banking) integrations. Written in Python, built in Georgia. Expert-level local knowledge for developers working with Georgian payment systems that does not exist elsewhere.",
-      "stars": 8
+      "stars": 9
     },
     {
       "id": "skills-2",
@@ -580,7 +580,7 @@
       "url": "https://github.com/anthropics/skills",
       "desc": "Anthropic Skills — **Anthropic-ის ოფიციალური** Agent Skills რეპოზიტორია და მთელი skills ეკოსისტემის ფუნდამენტი. შიგნით 17 example skill — მათ შორის **frontend-design** (generic „AI slop\" დიზაინისგან თავის დასაღწევი წესები), mcp-builder, webapp-testing, canvas-design, brand-guidelines და skill-creator — პლუს ის 4 production document skill (docx, pdf, pptx, xlsx), რომლებიც Claude-ში ფაილების რეალურ შექმნას უზრუნველყოფს და აქ source-available სახითაა გამოქვეყნებული. აქვეა Agent Skills სპეციფიკაცია (agentskills.io) და skill template. ერთი ბრძანებით ეყენება: `/plugin marketplace add anthropics/skills`. Python-ში; 2025 წლის სექტემბრიდან **151,000+ ვარსკვლავი** — GitHub-ის ისტორიის ერთ-ერთი ყველაზე სწრაფად მზარდი რეპო. Skills ეკოსისტემისთვის იგივეა, რაც modelcontextprotocol/servers MCP-სთვის — **Agent Skills Spec**-ის (ასევე ამ კოლექციაში) reference implementation.",
       "descEn": "Public repository for Agent Skills",
-      "stars": 156000
+      "stars": 159000
     },
     {
       "id": "excalidraw",
@@ -589,7 +589,7 @@
       "url": "https://github.com/excalidraw/excalidraw",
       "desc": "Excalidraw — virtual whiteboard hand-drawn სტილის diagrams-ისთვის, TypeScript-ში, MIT ლიცენზიით. AI engineers-ისთვის **de facto სტანდარტი** გახდა agent architectures-ის, system designs-ის, RAG pipeline-ების და LLM workflow-ების ვიზუალიზაციისთვის — Anthropic-ის, OpenAI-ის და სხვა AI კომპანიების engineering blog-ებსა და ტექნიკურ დოკუმენტაციაში მუდმივად ჩანს. Excalidraw+ commercial ვერსიაში ჩაშენებულია text-to-diagram AI ფიჩერი (OpenAI integration) რომელიც ბუნებრივი ენიდან diagram-ს ქმნის, plus mermaid-ის ნატივიური მხარდაჭერა — ანუ Claude/GPT-ით mermaid syntax გენერაცია და Excalidraw-ში refine ერთიანი workflow-ია. AI არქიტექტურის დოკუმენტაციისთვის, presentation-ისთვის ან Claude Code-ის output-ის ვიზუალიზაციისთვის — ერთ-ერთი მთავარი ხელსაწყო engineering-ის ეკოსისტემაში.",
       "descEn": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "stars": 126000
+      "stars": 127000
     },
     {
       "id": "ui",
@@ -616,7 +616,7 @@
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "desc": "UI UX Pro Max AI coding agent-ებს professional UI/UX დიზაინის ინტელიგენციას სძენს — 50 დიზაინ სტილი, 161 ფერთა პალიტრა და 25 დიაგრამის ტიპი ერთ skill-ში. React-ს, Vue-ს, Flutter-ს, SwiftUI-ს და სხვა ფრეიმვორკებს უჭერს მხარს. Python-ში, 92,000+ ვარსკვლავი — Claude Code-ის, Cursor-ის და სხვა agent-ების visual output-ს მნიშვნელოვნად აუმჯობესებს. დიზაინერის გარეშე ლამაზი UI-ის ასაშენებლად.",
       "descEn": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-      "stars": 98000
+      "stars": 101000
     },
     {
       "id": "awesome-design-md",
@@ -625,7 +625,7 @@
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "desc": "Awesome DESIGN.md — 55-ზე მეტი Markdown ფაილის კოლექცია, პოპულარური brand design systems-ის (Stripe, Google, Apple, Linear) სტილის მიხედვით შექმნილი. DESIGN.md ფაილი პროექტში ჩასვი და Claude Code-ს, Cursor-ს ან სხვა coding agent-ს უთხარი — UI ავტომატურად შენი brand-ის სტილში გენერირდება. VoltAgent-ის მიერ, 2026 წლის მარტიდან. ვიზუალური კოდ-გენერაციის სამუშაო პროცესებში — ყველაზე სწრაფი გზა brand-consistent UI-სკენ კოდის ხელით წერის გარეშე.",
       "descEn": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "stars": 94000
+      "stars": 96000
     },
     {
       "id": "screenshot-to-code",
@@ -643,7 +643,7 @@
       "url": "https://github.com/tldraw/tldraw",
       "desc": "tldraw — მოდერნული infinite canvas SDK და whiteboard აპლიკაცია, TypeScript-ში, real-time collaboration-ით. **Excalidraw-ის ყველაზე სერიოზული მეტოქე**: Excalidraw hand-drawn aesthetic-ით ცნობილია, tldraw უფრო ნათელი, კონტრასტული, professional ვიზუალით. ჩაშენებადი React კომპონენტი — საკუთარ აპლიკაციაში ერთი `<Tldraw />` import-ით ჩასვამ, ნულიდან whiteboard აპლიკაცია არ გჭირდება. **AI-ფიჩერი** [tldraw/make-real](https://github.com/tldraw/make-real)-ის სახით ცალკე ცოცხლობს: სკეტჩი → მუშა HTML/React component-ი ერთი ღილაკით (OpenAI/Claude backend-ით). Lightspeed Venture Partners-ის მიერ დაფინანსებული, 47,000+ ვარსკვლავი. ვინც app-შიგნით whiteboard ფუნქცია სჭირდება (Figma-ის, Miro-ს ალტერნატივა) ან Excalidraw-ის უფრო strict ვიზუალურ ალტერნატივას ეძებს — tldraw პირველი არჩევანია.",
       "descEn": "very good whiteboard infinite canvas SDK",
-      "stars": 48000
+      "stars": 49000
     },
     {
       "id": "open-design",
@@ -652,7 +652,7 @@
       "url": "https://github.com/nexu-io/open-design",
       "desc": "Open Design — Anthropic-ის ფასიანი **Claude Design**-ის სრულად ღია წყაროს ალტერნატივა, რომელიც 2026 წლის 28 აპრილს გამოვიდა და სწრაფად დააგროვა 65,000+ ვარსკვლავი (4,000+ fork — organic signal). შიგნით **19 skill** და **71 brand-grade design system**: prompt-დან HTML/CSS prototype-ი, slides, infographic-ი, კარუსელი, ანიმაცია და MP4 export. **BYOK მოდელი** — საკუთარი Claude/GPT/Gemini/Kimi/GLM/Ollama key-ით ეშვება, lock-in-ის გარეშე. Sandbox-ში preview, HTML/PDF/PPTX/MP4 export. TypeScript-ში, Apache 2.0. Claude Code-ში, Codex-ში, Cursor-ში, OpenCode-ში, Qwen Code-ში, Hermes-სა და Kimi CLI-ში მუშაობს — agent-agnostic. **Huashu Design**-ის და **UI UX Pro Max**-ის ბუნებრივი დამატება — 2026-ის design-skill სტეკის ერთ-ერთი მთავარი ბურჯი, კოლექციის ერთ-ერთი ყველაზე სწრაფად მზარდი ჩანაწერი.",
       "descEn": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-      "stars": 73000
+      "stars": 75000
     },
     {
       "id": "agent-skills-2",
@@ -661,7 +661,7 @@
       "url": "https://github.com/vercel-labs/agent-skills",
       "desc": "Vercel Agent Skills — **Vercel-ის ოფიციალური** skill კოლექცია AI coding agent-ებისთვის: 8 skill, რომლებიც Vercel Engineering-ის შიდა handbook-ებს აგენტებისთვის გასაგებ ფორმატად აქცევს. **web-design-guidelines** UI კოდს 100+ წესით ამოწმებს (accessibility, focus states, forms, animation, typography, dark mode, i18n) — Vercel-ის ცნობილი Web Interface Guidelines-ის packaged ვერსია; **react-best-practices** 40+ React/Next.js performance წესს მოიცავს; **vercel-deploy-claimable** კი აპს პირდაპირ claude.ai საუბრიდან deploy-ს უკეთებს live preview URL-ით. `npx skills add vercel-labs/agent-skills`-ით ეყენება. JavaScript, MIT, skills.sh რეესტრის canonical მაგალითი. 2025 წლის დეკემბრიდან 27,000+ ვარსკვლავი. ვიზუალურ design skill-ებისგან (UI UX Pro Max, Open Design) განსხვავებით აქცენტი engineering correctness-ზეა — accessibility და performance, არა მხოლოდ ესთეტიკა.",
       "descEn": "Vercel's official collection of agent skills",
-      "stars": 28000
+      "stars": 29000
     },
     {
       "id": "impeccable",
@@ -670,7 +670,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "desc": "Impeccable **Paul Bakaus**-ის (ex-Google DevRel, Disney Interactive, jQuery UI core contributor — ერთ-ერთი ყველაზე ცნობილი front-end ინჟინერი 2010-იანების ვებზე) design-language skill-ია AI coding agent-ებისთვის — სლოგანი: *„The design language that makes your AI harness better at design\"*. Claude Code-ში, Codex-ში, Cursor-ში, OpenCode-ში და სხვა MCP-თავსებად client-ებში მუშაობს. JavaScript-ში, **Apache 2.0** ლიცენზიით, impeccable.style. 2025 წლის ნოემბერში გამოვიდა და 38,000+ ვარსკვლავი (1,500+ fork — organic signal) დააგროვა. **Open Design**-ის, **UI UX Pro Max**-ის და **Huashu Design**-ის ბუნებრივი მონათესავე — სამივესთან ერთად stacked design-skill კონფიგურაცია AI-ის visual output-ის ხარისხს professional დონეზე აყვანს.",
       "descEn": "The design language that makes your AI harness better at design.",
-      "stars": 42000
+      "stars": 44000
     },
     {
       "id": "openui",
@@ -688,7 +688,7 @@
       "url": "https://github.com/leonxlnx/taste-skill",
       "desc": "Taste-Skill leonxlnx-ის skill-ია, რომელიც AI coding agent-ებს **„გემოვნებას\" აძლევს** — სლოგანი: *„stops the AI from generating boring, generic slop\"*. AI-ის default-ად ერთფეროვან, sterile, „generic AI slop\" output-ს ებრძვის წინასწარ აღწერილი taste curation rules-ით — როდის უნდა გადაუხვიოს AI-მ default ფორმულირებებიდან და როდის უნდა შესთავაზოს ნამდვილად საინტერესო კონცეფცია. Shell-ში, **MIT** ლიცენზიით, tasteskill.dev. 2026 წლის თებერვალში გამოვიდა და უკვე 44,000+ ვარსკვლავი დააგროვა — AI output-ის ხარისხის ერთ-ერთი ყველაზე ციტირებადი skill. **Karpathy Skills**-ის (AI coding pitfalls-ის წინააღმდეგ) და **Caveman**-ის (verbosity reduction) ბუნებრივი დამატება — სამივე ერთად AI-ის output-ის ფუნდამენტურ ნაკლს ასწორებს. UI UX Pro Max-ისგან განსხვავება: ეს content/copy/idea-taste-ზე ფოკუსირებულია, ის კი visual design-ზე.",
       "descEn": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": 53000
+      "stars": 58000
     },
     {
       "id": "figma-context-mcp",
@@ -706,7 +706,7 @@
       "url": "https://github.com/alchaincyf/huashu-design",
       "desc": "Huashu Design (画术 Design) HTML-native დიზაინის skill-ია Claude Code-ისთვის — high-fidelity prototypes, პრეზენტაციები/slides, ანიმაციები და MP4 export ერთ skill-ში. **20 design philosophy** და **5-dimensional design review** სისტემით agent-ს professional UI/UX დონეზე ფიქრის უნარს ასძენს. Agent-agnostic — Claude Code-სთან, Codex-სთან და სხვა MCP-თავსებად client-ებთან მუშაობს. HTML-ში, 2026 წლის აპრილში გამოქვეყნდა და უკვე 18,000+ ვარსკვლავი დააგროვა — ჩინური AI ეკოსისტემიდან გამოსული ერთ-ერთი ყველაზე ციტირებადი design skill. ვინც AI-ით ლამაზ visual artifacts-ს (პრეზენტაციებს, prototype-ებს, demo videos-ებს) აკეთებს, UI UX Pro Max-ისა და Architecture Diagram Generator-ის ბუნებრივი დამატებაა.",
       "descEn": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
-      "stars": 20000
+      "stars": 21000
     },
     {
       "id": "stop-slop",
@@ -724,7 +724,7 @@
       "url": "https://github.com/google-labs-code/design.md",
       "desc": "DESIGN.md — Google Labs-ის ოფიციალური ფორმატის სპეციფიკაცია, რომლითაც ბრენდის ვიზუალური იდენტობა (ფერები, ტიპოგრაფია, სპეისინგი, კომპონენტების ქცევა, ინტერაქციების შაბლონები) სტრუქტურირებულად აღუწერ AI coding agent-ებს. DESIGN.md ფაილი პროექტის root-ში ჩასვი და Claude Code-ს, Cursor-ს ან Codex-ს უკვე მუდმივი, თანმიმდევრული გაგება აქვს შენი design system-ის — UI ყოველ ახალ ფიჩერზე ერთ სტილში გენერირდება, stylistic drift-ისა და ჰალუცინაციების გარეშე. TypeScript-ში, Apache 2.0 ლიცენზიით. 2026 წლის 10 აპრილს გამოიცა და სწრაფად დააგროვა 15,000+ ვარსკვლავი (გაშვებისას დღეში ~450 ⭐) — ვირუსული ზრდა Anthropic-ის Agent Skills Spec-ის ანალოგი, მაგრამ design systems-ის დომენში. კომპანიონი `awesome-design-md` (რომელიც ასევე გვაქვს) ამ სპეციფიკაციით შექმნილ 55+ მაგალითს გვაწვდის — ეს მათი ფუნდამენტი სტანდარტია.",
       "descEn": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "stars": 23000
+      "stars": 25000
     },
     {
       "id": "interface-design",
@@ -742,7 +742,7 @@
       "url": "https://github.com/Cocoon-AI/architecture-diagram-generator",
       "desc": "Architecture Diagram Generator Claude AI-ის skill-ია, რომელიც ტექსტური სისტემის აღწერიდან standalone HTML/SVG დიაგრამებს ქმნის — dark theme-ით, ფერების სემანტიკური კოდირებით (cyan: frontend, emerald: backend, violet: databases, amber: cloud, rose: security). HTML-ში, Cocoon-AI-ის მიერ. დიზაინის ცოდნა არ სჭირდება — სისტემის ბუნებრივ ენაში აღწერა საკმარისია. 5,900+ ვარსკვლავი.",
       "descEn": "Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.",
-      "stars": 6200
+      "stars": 6300
     },
     {
       "id": "drawio-mcp",
@@ -751,7 +751,7 @@
       "url": "https://github.com/jgraph/drawio-mcp",
       "desc": "Draw.io MCP draw.io-ს (JGraph Ltd) ოფიციალური MCP სერვერია — AI ასისტენტს diagrams.net-ში ქსელის სქემების, UML-ის, flowchart-ების და სხვა დიაგრამების ავტომატური შექმნის საშუალება ეძლევა. JavaScript-ში. ბუნებრივი ენით სისტემის არქიტექტურა — draw.io ფაილი → browser-ში გახსნა. 4 ინტეგრაციის მეთოდი, 4,400+ ვარსკვლავი.",
       "descEn": "Official MCP server for draw.io (JGraph Ltd) — lets an AI assistant automatically create network diagrams, UML, flowcharts and other diagrams in diagrams.net from natural language. JavaScript, four integration methods, 3,000+ stars.",
-      "stars": 4600
+      "stars": 4700
     },
     {
       "id": "skill",
@@ -760,7 +760,7 @@
       "url": "https://github.com/emilkowalski/skill",
       "desc": "Emil Kowalski Skill — design engineering-ის ერთ-ერთი ყველაზე ცნობილი სახელის (**Sonner** toast-ისა და **Vaul** drawer-ის ავტორი, ex-Vercel/Linear, animations.dev კურსის შემქმნელი) პირადი „გემოვნება\" installable skill-ად. მთელი რეპო ერთი ~680-ხაზიანი SKILL.md-ია მისი სტატიებიდან გამოხდილი ცოდნით: 4-ნაბიჯიანი animation decision framework (ხშირად გამოყენებულ ქმედებებს ანიმაცია საერთოდ არ სჭირდება), კონკრეტული რიცხვითი წესები (UI ანიმაცია 300ms-ზე ნაკლები, tooltip 125-200ms, ease-in არასდროს), spring physics, @starting-style და clip-path ტექნიკები, prefers-reduced-motion accessibility. UI code review-ზე სავალდებულო Before/After/Why ცხრილის ფორმატს ითხოვს. 2026 წლის მარტიდან 2,400+ ვარსკვლავი, emilkowal.ski/skill. **Taste-Skill**-ის (ასევე ამ კოლექციაში) მონათესავე ჟანრი — „taste as a skill\" ტრენდის ერთ-ერთი საუკეთესო ნიმუში. (⚠ ლიცენზია მითითებული არ აქვს.)",
       "descEn": "A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.",
-      "stars": 3700
+      "stars": 5100
     },
     {
       "id": "ui-skills",
@@ -796,7 +796,7 @@
       "url": "https://github.com/upstash/context7",
       "desc": "Context7 არის Upstash-ის MCP სერვერი, რომელიც AI coding agent-ებს ყოველთვის განახლებულ, ვერსია-სპეციფიკურ API დოკუმენტაციას აწვდის. ჩვეულებრივ AI-ს აქვს მოძველებული ან გამოგონილი API-ების რეკომენდაციის პრობლემა — Context7 ავტომატურად ამოწმებს რომელ ვერსიას იყენებ და ზუსტ დოკუმენტაციას ჩასვამს კონტექსტში. TypeScript-ში დაწერილი, context7.com-ზე ხელმისაწვდომი. Claude Code-ს, Cursor-ს, Copilot-ს და ნებისმიერ MCP-თავსებად agent-ს მუშაობს. 57,000+ ვარსკვლავი.",
       "descEn": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
-      "stars": 58000
+      "stars": 59000
     },
     {
       "id": "chrome-devtools-mcp",
@@ -868,7 +868,7 @@
       "url": "https://github.com/exa-labs/exa-mcp-server",
       "desc": "Exa MCP Exa-ს (exa.ai) ოფიციალური MCP სერვერია — AI ასისტენტებს სემანტიკური ვებ ძიებისა და crawling-ის შესაძლებლობა აქვთ. TypeScript-ში დაწერილი. კოდის მაგალითების ძიება, კომპანიების კვლევა, real-time ვებ ინფორმაციის მოძიება — ყველა ერთ ინტერფეისში. Cursor-სა და VS Code-ში ერთი კლიკით ინსტალაცია. Perplexity MCP-ისა და Tavily MCP-ის ალტერნატივა Exa-ს neural search-ის ძლიერებით. 4,500+ ვარსკვლავი.",
       "descEn": "Exa MCP for web search and web crawling!",
-      "stars": 4600
+      "stars": 4700
     },
     {
       "id": "notion-mcp-server",
@@ -913,7 +913,7 @@
       "url": "https://github.com/perplexityai/modelcontextprotocol",
       "desc": "Perplexity MCP Perplexity AI-ის ოფიციალური MCP სერვერია — AI ასისტენტებს real-time ვებ ძიების, ღრმა კვლევისა და მსჯელობის შესაძლებლობა ეძლევა. TypeScript/Node-ში. **3 ინსტრუმენტი**: `sonar-pro` (ზოგადი search+chat), `sonar-deep-research` (კომპრეჰენსიული კვლევა), `sonar-reasoning-pro` (რთული ანალიზი). Cursor, VS Code, Kiro-ში ერთი კლიკით ინსტალაცია. Perplexity-ის citations-ზე დაფუძნებული პასუხები ჰალუცინაციებს ამცირებს. 2,300+ ვარსკვლავი.",
       "descEn": "The official MCP server implementation for the Perplexity API Platform",
-      "stars": 2300
+      "stars": 2400
     },
     {
       "id": "claude-peers-mcp",
@@ -940,7 +940,7 @@
       "url": "https://github.com/stickerdaniel/linkedin-mcp-server",
       "desc": "LinkedIn MCP LinkedIn-ის ღია კოდის MCP სერვერია — Claude-ს ან ნებისმიერ MCP-თავსებად AI ასისტენტს LinkedIn-ის profiles, companies, jobs და messages-ზე წვდომა ეძლევა. Python-ში. სამუშაოს მძებნელებისთვის (ვაკანსიების ავტო-ანალიზი), recruiters-ისთვის (კანდიდატების კვლევა) ან sales teams-ისთვის (prospect-ების ძიება). 2,300+ ვარსკვლავი — LinkedIn API-ის official SDK-ი არ არის, unofficial integration.",
       "descEn": "Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.",
-      "stars": 2600
+      "stars": 2700
     },
     {
       "id": "ai",
@@ -958,7 +958,7 @@
       "url": "https://github.com/apify/apify-mcp-server",
       "desc": "Apify MCP Apify-ის ოფიციალური MCP სერვერია — AI ასისტენტებს Apify Store-ის 1,000+ მზა web scraper-ი და automation tool ხელმისაწვდომი ხდება. Instagram, TikTok, Amazon, Google Maps, LinkedIn — ნებისმიერი ვებსაიტიდან სტრუქტურირებული მონაცემები. TypeScript-ში, mcp.apify.com. სოციალური მედიის monitoring-ისთვის, market research-ისთვის ან lead generation-ისთვის — 1,300+ ვარსკვლავი.",
       "descEn": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
-      "stars": 1400
+      "stars": 1700
     },
     {
       "id": "powerbi-modeling-mcp",
@@ -967,7 +967,7 @@
       "url": "https://github.com/microsoft/powerbi-modeling-mcp",
       "desc": "Power BI Modeling MCP Microsoft-ის ოფიციალური MCP სერვერია Power BI-ის სემანტიკური მოდელირებისთვის. AI ასისტენტს შეუძლია DAX შეკითხვების გაშვება, data models-ის შექმნა და რედაქტირება, row-level security და მრავალენოვანი თარგმანი — ბუნებრივი ენით. Power BI Desktop-თან, Fabric workspace-თან და Power BI Project ფაილებთან. Microsoft-ის ოფიციალური გამოშვება, 862 ვარსკვლავი — ჯერ ახალი, მაგრამ enterprise BI-სთვის მნიშვნელოვანი.",
       "descEn": "The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your AI agents.",
-      "stars": 909
+      "stars": 929
     },
     {
       "id": "sentry-mcp",
@@ -976,7 +976,7 @@
       "url": "https://github.com/getsentry/sentry-mcp",
       "desc": "Sentry MCP Sentry-ის ოფიციალური MCP სერვერია error tracking-ის AI-თ ინტეგრაციისთვის. AI ასისტენტს Sentry-ის error reports-ზე, stack trace-ებზე, issue frequency-ის ტრენდებსა და performance data-ზე წვდომა ეძლევა. TypeScript-ში, mcp.sentry.dev. 724 ვარსკვლავი — production bug-ების AI-ასისტირებული დიაგნოსტიკისთვის. (შენიშვნა: README-ში მითითებული 1.8K ვარსკვლავი მნიშვნელოვნად გადაჭარბებულია.)",
       "descEn": "An MCP server for interacting with Sentry via LLMs.",
-      "stars": 747
+      "stars": 753
     },
     {
       "id": "mcp-server",
@@ -994,7 +994,7 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "desc": "Firecrawl არის Mendable AI-ის (YC S23) ვებ-სკრეიპინგის API, რომელიც ნებისმიერ URL-ს AI-სთვის ოპტიმიზებულ Markdown-ად ან JSON-ად გარდაქმნის. ის წყვეტს LLM-ების ერთ-ერთ მთავარ პრობლემას — ვებ გვერდების „ჭუჭყიანი\" HTML-ის სუფთა, სტრუქტურირებულ ფორმატად გადაყვანას. scrape, crawl, search და extract ოპერაციები ერთ API-ში ერთიანდება; JavaScript-ის რენდერი და anti-bot დაცვის გვერდის ავლა ჩაშენებულია. Python და TypeScript SDK-ები გამოყოფილია, self-hosted ან cloud deployment-ი შესაძლებელია. 133,000+ ვარსკვლავით ეს კატეგორიის ყველაზე პოპულარული ინსტრუმენტია AI pipeline-ებისთვის ვებ-მონაცემების მიწოდებაში.",
       "descEn": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 141000
+      "stars": 146000
     },
     {
       "id": "browser-use",
@@ -1003,7 +1003,7 @@
       "url": "https://github.com/browser-use/browser-use",
       "desc": "Browser Use არის Python-ის ბიბლიოთეკა, რომელიც AI აგენტს ნამდვილი ბრაუზერის გამოსაყენებლად აძლევს შესაძლებლობას — ვებსაიტებზე ნავიგაცია, ფორმების შევსება, ღილაკებზე დაჭერა და ინფორმაციის ამოღება ისევე, როგორც ადამიანი. ის წყვეტს იმ პრობლემას, რომ LLM-ები ტექსტობრივი ინტერფეისებისთვის იყო განკუთვნილი, ხოლო ვების უმეტესი ნაწილი ვიზუალურია. Playwright-ზეა დაშენებული, multi-tab მხარდაჭერით, DOM-ის სტრუქტურის ავტომატური ანალიზით და OpenAI, Anthropic, Gemini მოდელებთან ინტეგრაციით. 99,000+ ვარსკვლავი და სწრაფად მზარდი ეკოსისტემა მას browser automation-ის defacto სტანდარტად აქცევს AI-native პროექტებში.",
       "descEn": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "stars": 101000
+      "stars": 103000
     },
     {
       "id": "crawl4ai",
@@ -1012,7 +1012,7 @@
       "url": "https://github.com/unclecode/crawl4ai",
       "desc": "Crawl4AI არის ღია კოდის Python web crawler, რომელიც სპეციალურად LLM-ებისა და RAG pipeline-ებისთვის არის ოპტიმიზებული. მისი მთავარი ღირსება ის არის, რომ Firecrawl-ისგან განსხვავებით, სრულად უფასოა, ლოკალურად გაშვებადია და API-ის ლიმიტები არ გააჩნია. JavaScript-ის რენდერი, semantic chunking, structured data extraction (CSS/XPath/LLM-ზე დაფუძნებული) და async crawling ჩაშენებულია. Scrapy-ზე 6-ჯერ სწრაფია benchmark-ების მიხედვით; Python AsyncIO-ზე დაშენებული. ქართული RAG სისტემებისთვის, სადაც ვებ-მონაცემების ლოკალური შეგროვება გჭირდება, ეს ყველაზე ეფექტური არჩევანია.",
       "descEn": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "stars": 70000
+      "stars": 71000
     },
     {
       "id": "playwright-mcp",
@@ -1021,7 +1021,7 @@
       "url": "https://github.com/microsoft/playwright-mcp",
       "desc": "Playwright MCP არის Microsoft-ის ოფიციალური MCP სერვერი, რომელიც Claude-ს, Cursor-ს და სხვა AI ასისტენტებს ვებ ბრაუზერის სრული კონტროლის საშუალებას აძლევს. AI ბრაუზერის accessibility tree-ს წაიკითხავს — ვიზუალური ელემენტების სტრუქტურას — სკრინშოტების გარეშე, რაც მუშაობას ბევრად ზუსტსა და სწრაფს ხდის. navigation, click, fill, screenshot, PDF export — ყველა ოპერაცია MCP პროტოკოლით ხდება ხელმისაწვდომი. TypeScript-ში დაწერილია, npm-ზე გამოქვეყნებული.",
       "descEn": "Playwright MCP server",
-      "stars": 34000
+      "stars": 35000
     },
     {
       "id": "agent-browser",
@@ -1030,7 +1030,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "desc": "Agent Browser არის Vercel Labs-ის (Next.js-ის შემქმნელი) CLI ინსტრუმენტი, რომელიც AI აგენტებისთვის ბრაუზერის ავტომატიზაციას ახორციელებს. Rust-ში დაწერილია, რაც მას სიმდიდრული სიჩქარისა და დაბალი მეხსიერების მოხმარების კომბინაციას აძლევს. ინსტრუმენტი command-line ინტერფეისს გვთავაზობს AI სამუშაო ნაკადებთან ინტეგრაციისთვის, ვიდრე ვიზუალური API-სა. Vercel ეკოსისტემის ნაწილი, 2026 წლის იანვარში გამოშვებული.",
       "descEn": "Browser automation CLI for AI agents",
-      "stars": 37000
+      "stars": 38000
     },
     {
       "id": "browser",
@@ -1039,7 +1039,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "desc": "Lightpanda არის headless ბრაუზერი, რომელიც ნულიდან Zig-ში დაიწერა სპეციალურად AI სამუშაო ნაკადებისა და automation-ისთვის. Chrome-თან შედარებით 11-ჯერ სწრაფია და 9-ჯერ ნაკლებ RAM-ს მოიხმარს, რაც მას სერვერულ გარემოში მასშტაბირებისთვის ეკონომიურ ალტერნატივად აქცევს. Puppeteer-ისა და Playwright-ის სკრიპტებთან თავსებადია, ანუ migration ნაკლები ძალისხმევით ხდება. Zig-ის low-level კონტროლი სრულ JavaScript-ის ინტერპრეტაციასთან ერთად გამოყენებულია web scraping-ის ინსტრუმენტებით დატვირთულ სერვერებზე.",
       "descEn": "Lightpanda: the headless browser designed for AI and automation",
-      "stars": 31000
+      "stars": 32000
     },
     {
       "id": "page-agent",
@@ -1066,7 +1066,7 @@
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "desc": "CloakBrowser stealth Chromium-ია, რომელიც **Playwright-ის drop-in replacement-ად** მუშაობს — fingerprint-ებს C++ source დონეზე ცვლის compile-მდე (58 patch: canvas, WebGL, audio, GPU, automation signals), JS-patch-ების ნაცვლად. reCAPTCHA v3, Cloudflare Turnstile, FingerprintJS და 30+ detection service-ს გადის; residential proxy, timezone/locale auto-detection და human-like interaction მხარდაჭერით. Python/JS, MIT (wrapper), latest 2026 წლის 21 მაისი, 26,000+ ვარსკვლავი, GitHub Trending #7. **dual-use ხელსაწყო** — README ავტორიზებული ავტომატიზაციისა და AI agent integration-ისთვისაა გათვალისწინებული; **stagehand**-ისა და **browser-use**-ის ბუნებრივი დამატება anti-bot კონტექსტში.",
       "descEn": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": 27000
+      "stars": 28000
     },
     {
       "id": "skyvern",
@@ -1084,7 +1084,7 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "Agent-Reach არის Python CLI ინსტრუმენტი, რომელიც AI აგენტს 10+ სოციალური და საინფორმაციო პლატფორმის წაკითხვის უნარს აძლევს ერთი ინტერფეისით. Twitter/X, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu და სხვა — ყველა ერთი სტანდარტული API-ით, ოფიციალური API გასაღებების გარეშე (zero API fees). Python-ში დაწერილი, 2026 წლის თებერვლიდან 30,000+ ვარსკვლავი დააგროვა — ეს ტემპი სისწრაფეზე მეტყველებს. AI კვლევის, მონიტორინგის და მონაცემთა შეგროვების სამუშაო ნაკადებისთვის გამოსაყენებელია.",
       "descEn": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 45000
+      "stars": 52000
     },
     {
       "id": "opencli",
@@ -1129,7 +1129,7 @@
       "url": "https://github.com/firecrawl/firecrawl-mcp-server",
       "desc": "Firecrawl MCP Server არის Firecrawl-ის ოფიციალური MCP ინტეგრაცია, რომელიც Claude Desktop-ს, Cursor-ს და სხვა MCP-თავსებად AI ასისტენტებს ვებ-სკრეიპინგის სრული შესაძლებლობებს უმატებს. scrape, crawl, search, deep research — 12+ ინსტრუმენტი ერთ სერვერშია, ავტომატური retry-ით და rate limiting-ით. JavaScript-ში დაწერილი, Firecrawl API-ის გასაღები საჭიროა. Cursor ან Claude-ში ინსტალაციის შემდეგ AI-ს ნებისმიერი ვებ გვერდის სკრეიპინგი შეუძლია პირდაპირ კონვერსაციიდან.",
       "descEn": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
-      "stars": 6700
+      "stars": 6800
     },
     {
       "id": "browser-harness",
@@ -1138,7 +1138,7 @@
       "url": "https://github.com/browser-use/browser-harness",
       "desc": "Browser Harness არის Browser Use გუნდის Python ფრეიმვორკი, რომელიც LLM-ებს ბრაუზერში ნებისმიერი ამოცანის შესრულების საშუალებას აძლევს self-healing მექანიზმით. „Self-healing\" ნიშნავს, რომ ვებ გვერდის სტრუქტურა ან CSS სელექტორი რომ შეიცვალოს, სისტემა ავტომატურად ადაპტირდება და სამუშაო ნაკადი არ ირღვევა. 2026 წლის აპრილში გამოშვებული, სწრაფად ვითარდება Browser Use-ის ეკოსისტემის ფარგლებში. Python-ში დაწერილი, LLM-ების ბრაუზერ-ავტომატიზაციის სიმტკიცეს ამაღლებს.",
       "descEn": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "stars": 15000
+      "stars": 16000
     },
     {
       "id": "brightdata-mcp",
@@ -1174,7 +1174,7 @@
       "url": "https://github.com/langchain-ai/langchain",
       "desc": "LangChain არის Python-ისა და JavaScript-ის ფრეიმვორკი LLM-ზე დაფუძნებული აპლიკაციებისა და AI აგენტების ასაშენებლად, Harrison Chase-მა 2022 წლის ოქტომბერში შექმნა. ის 700+ ინტეგრაციას, chains, agents, memory, document loaders და tools-ის პრიმიტივებს გვთავაზობს ერთ ეკოსისტემაში. LangGraph (გრაფ-დაფუძნებული ორკესტრაცია) და LangSmith (მონიტორინგი) LangChain-ის ეკოსისტემის ნაწილია. 139,000+ ვარსკვლავით ყველაზე ფართოდ გავრცელებული AI ფრეიმვორკია; ბევრი სხვა ფრეიმვორკი მის კონვენციებს მიჰყვება, თუმცა LangChain-ზე პირდაპირ არ არის დამოკიდებული.",
       "descEn": "The agent engineering platform",
-      "stars": 140000
+      "stars": 141000
     },
     {
       "id": "deer-flow",
@@ -1201,7 +1201,7 @@
       "url": "https://github.com/microsoft/autogen",
       "desc": "AutoGen არის Microsoft Research-ის Python ფრეიმვორკი, სადაც რამდენიმე AI აგენტი ერთმანეთთან ესაუბრება და კომპლექსურ პრობლემებს ერთობლივად წყვეტს. conversation pattern-ები, tool use, human-in-the-loop, code execution — ყველა abstractions-ი ჩაშენებულია. 2026 წლის აპრილში Semantic Kernel-თან ერთად Microsoft Agent Framework 1.0-ის ოფიციალურ ნაწილად გამოცხადდა. Python-ში, MIT ლიცენზიით. Microsoft Azure-სთან ღრმა ინტეგრაცია, enterprise AI deployments-ისთვის გამოიყენება.",
       "descEn": "A programming framework for agentic AI",
-      "stars": 59000
+      "stars": 60000
     },
     {
       "id": "crewai",
@@ -1273,7 +1273,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "desc": "RuFlo v3.5 (ყოფილი **Claude Flow**) Enterprise AI Orchestration Platform-ია — „distributed swarm intelligence\" მიდგომით რამდენიმე AI agent პარალელურად ასრულებს ერთ workflow-ს. RAG ინტეგრაცია, native Claude Code + Codex მხარდაჭერა, enterprise-დონის არქიტექტურა. TypeScript-ში, `ruvnet` (ruv.io) platform-ის ნაწილი. 59,000+ ვარსკვლავი — ერთ-ერთი ყველაზე ფუნქციონალური multi-agent orchestration ხელსაწყო Claude Code ეკოსისტემაში.",
       "descEn": "🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": 62000
+      "stars": 63000
     },
     {
       "id": "langgraph",
@@ -1282,7 +1282,7 @@
       "url": "https://github.com/langchain-ai/langgraph",
       "desc": "LangGraph არის LangChain AI-ის Python ფრეიმვორკი, სადაც AI აგენტების ლოგიკა მიმართული გრაფის სახით (nodes + edges) იგება. ეს საშუალებას იძლევა რთული სცენარები — ციკლები, ტოტები, შუალედური მდგომარეობის შენახვა — LangChain-ის ხაზოვანი chains-ის მიღმა. built-in checkpointing, human-in-the-loop და streaming ჩაშენებულია. Uber, LinkedIn, Klarna production-ში იყენებს. long-running, stateful AI სამუშაო ნაკადებისთვის — customer support, code review, research — LangGraph production-ის სტანდარტი გახდა.",
       "descEn": "Build resilient language agents as graphs.",
-      "stars": 36000
+      "stars": 37000
     },
     {
       "id": "semantic-kernel",
@@ -1426,7 +1426,7 @@
       "url": "https://github.com/stablyai/orca",
       "desc": "Orca ADE-ია (agent development environment) პარალელური აგენტების „ფლოტის\" სამართავად — ნებისმიერ coding agent-ს უშვებ შენივე subscription-ით, ერთდროულად რამდენიმეს. desktop-ზეც და mobile-ზეც ხელმისაწვდომია. TypeScript, 12,000+ ვარსკვლავი. თუ ერთდროულად ბევრ აგენტს ამუშავებ სხვადასხვა ამოცანაზე, orca მათ ერთ ინტერფეისში აერთიანებს — cmux-ისა და herdr-ის მსგავსი orchestration ფენა, უფრო სრული UI-ით.",
       "descEn": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "stars": 12000
+      "stars": 13000
     },
     {
       "id": "opensandbox",
@@ -1453,7 +1453,7 @@
       "url": "https://github.com/HKUDS/OpenSpace",
       "desc": "OpenSpace არის HKUDS-ის Python ფრეიმვორკი AI აგენტების თვითგანვითარებისთვის — AUTO-FIX, AUTO-IMPROVE, AUTO-LEARN მექანიზმებით. აგენტები ახალ სიტუაციებიდან ნასწავლ „უნარებს\" ერთმანეთს უზიარებენ distributed skill library-ის მეშვეობით. benchmark-ების მიხედვით baseline-ზე 4.2-ჯერ მაღალ შედეგს აჩვენებს 46%-ით დაბალი ხარჯებით. HKUDS nanobot-ისა და DeepTutor-ის ეკოსისტემის ნაწილია. სწრაფად დააგროვა 6,500+ ვარსკვლავი — კვლევით AI მიმართულებებში ზრდის ტემპი შთამბეჭდავია.",
       "descEn": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 6600
+      "stars": 6700
     },
     {
       "id": "open-agents",
@@ -1471,7 +1471,7 @@
       "url": "https://github.com/n8n-io/n8n",
       "desc": "n8n არის TypeScript-ში დაწერილი fair-code ავტომატიზაციის პლატფორმა 400+ ინტეგრაციით, სადაც ვიზუალური no-code builder custom JavaScript/Python კოდთან ერთად მუშაობს. Gmail, Slack, Airtable, ყველა მთავარი ღრუბელი სერვისი და AI provider-ი node-ების სახით ხელმისაწვდომია. self-hosted ან cloud deployment — fair-code ლიცენზია კომერციულ გამოყენებას self-hosted სახით ნებას რთავს. 192,000+ ვარსკვლავით Zapier-ის ყველაზე პოპულარული ღია ალტერნატივაა; AI Pulse Georgia-ს ინფრასტრუქტურის ნაწილია (aipulsegeorgia2025.app.n8n.cloud).",
       "descEn": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 194000
+      "stars": 195000
     },
     {
       "id": "langflow",
@@ -1480,7 +1480,7 @@
       "url": "https://github.com/langflow-ai/langflow",
       "desc": "Langflow არის Python-ის ვიზუალური პლატფორმა AI აგენტებისა და workflow-ების drag-and-drop ინტერფეისით ასაშენებლად — კოდის გარეშე. LangChain-ის კომპონენტები გრაფიკული ბლოკების სახით ხდება ხელმისაწვდომი: LLM-ები, vector stores, agents, tools ერთმანეთს მიებმება. MCP მხარდაჭერა, 100+ ინტეგრაცია. DataStax-ის მიერ შეძენილია. Python-ის backend, 20,000+ ორგანიზაცია production-ში იყენებს. ვინც Python-ის სტეკს ამჯობინებს და ვიზუალური AI builder სჭირდება, Langflow ოპტიმალური არჩევანია.",
       "descEn": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-      "stars": 150000
+      "stars": 151000
     },
     {
       "id": "dify",
@@ -1489,7 +1489,7 @@
       "url": "https://github.com/langgenius/dify",
       "desc": "Dify არის production-ready პლატფორმა AI აგენტების, chatbot-ებისა და RAG-ზე დაფუძნებული სისტემების ასაშენებლად ვიზუალური ინტერფეისით. ჩატბოტები, ვორქფლოუები, knowledge bases, text generators — ოთხი ძირითადი application ტიპი GUI-დან კონფიგურირდება. 145,000+ ვარსკვლავით GitHub-ის ერთ-ერთი ყველაზე ვარსკვლავიანი AI პროექტია. Google Search, DALL-E, 100+ ინსტრუმენტი ჩაშენებულია; self-hosted ან Dify Cloud. კომპანიებისთვის, ვინც AI produkts-ს კოდის სერიოზული ინვესტიციის გარეშე production-ში ქონს, ეს ძლიერი გადაწყვეტაა.",
       "descEn": "Production-ready platform for agentic workflow development.",
-      "stars": 147000
+      "stars": 148000
     },
     {
       "id": "flowise",
@@ -1516,7 +1516,7 @@
       "url": "https://github.com/openclaw/openclaw",
       "desc": "OpenClaw არის TypeScript-ის პერსონალური AI ასისტენტი, რომელიც ნებისმიერ ოპერაციულ სისტემასა და პლატფორმაზე მუშაობს. WhatsApp, Telegram, Slack, Discord, iMessage — 20+ არხი ერთი AI backend-ით ემსახურება. ხმოვანი ინტერფეისი, Canvas (ვიზუალური სამუშაო სივრცე) და real-time ინტერნეტის ძიება ჩაშენებულია. TypeScript-ში, 378,000+ ვარსკვლავი — ეს კატეგორიის ყველაზე ვარსკვლავიანი პროექტია. ინდივიდუალური მომხმარებლებისთვის ან მცირე გუნდებისთვის, ვინც ყველა კომუნიკაციის არხი ერთი AI-ით მართოს, მოსახერხებელი გადაწყვეტაა.",
       "descEn": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 381000
+      "stars": 382000
     },
     {
       "id": "open-webui",
@@ -1525,7 +1525,7 @@
       "url": "https://github.com/open-webui/open-webui",
       "desc": "Open WebUI არის ChatGPT-ის სტილის AI ინტერფეისი, რომელიც შენს საკუთარ სერვერზე ან კომპიუტერზე ეშვება — ყველა მონაცემი ლოკალურია, ღრუბელში არაფერი მიდის. Ollama-ს, OpenAI API-ის, Claude-ის, Gemini-სა და ათეულობით სხვა provider-ის მხარდაჭერა ჩაშენებულია. RAG (საკუთარი დოკუმენტების კითხვა), ხმოვანი ზარები, agent builder, multi-user auth — ყველა ფუნქცია ერთ სამართავ panel-ში. 355,000+ კომუნიტის წევრი; 141,000+ ვარსკვლავი. ორგანიზაციებისთვის, ვინც privacy-first AI-ს ქმნის, defacto ინსტრუმენტია.",
       "descEn": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 143000
+      "stars": 144000
     },
     {
       "id": "hermes-agent",
@@ -1534,7 +1534,7 @@
       "url": "https://github.com/nousresearch/hermes-agent",
       "desc": "Hermes Agent არის Nous Research-ის Python AI აგენტი, რომელიც გამოცდილებიდან სწავლობს და სესიებს შორის მეხსიერებას ინახავს — „იზრდება\" მომხმარებელთან ერთად. Telegram-ში, Discord-ში, Slack-ში, WhatsApp-ში და ავტომატურ განრიგზე მუშაობს. 194,000+ ვარსკვლავით ამ კოლექციის ერთ-ერთი ყველაზე სწრაფად მზარდი პროექტია. Nous Research ცნობილია მაღალხარისხიანი ღია LLM მოდელებით (Hermes სერია); ეს აგენტი იმავე ფილოსოფიას ახორციელებს — ძლიერი, ღია, multi-channel მზა აგენტი OpenClaw-ის ოჯახიდან.",
       "descEn": "The agent that grows with you",
-      "stars": 205000
+      "stars": 210000
     },
     {
       "id": "gpt4all",
@@ -1552,7 +1552,7 @@
       "url": "https://github.com/lobehub/lobehub",
       "desc": "LobeChat არის TypeScript/Next.js-ის ღია ChatGPT ალტერნატივა, სადაც ნებისმიერი LLM სერვერი — OpenAI, Claude, Gemini, Ollama, Mistral — ერთ ინტერფეისში ხდება ხელმისაწვდომი. multi-agent collaboration, plugin marketplace, ხმოვანი ჩეთი, დოკუმენტების ანალიზი, knowledge base — ყველა ფუნქცია self-hosted-ში ან Lobe Cloud-ში. privacy-first, multi-user auth ჩაშენებული. 78,000+ ვარსკვლავი, მსოფლიოში ასობით self-hosted instance. ორგანიზაციებისთვის, ვინც ყველა LLM-ს ერთ კონტროლირებად ინტერფეისში ქონს, LobeChat სრული გადაწყვეტაა.",
       "descEn": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-      "stars": 79000
+      "stars": 80000
     },
     {
       "id": "affine",
@@ -1570,7 +1570,7 @@
       "url": "https://github.com/Mintplex-Labs/anything-llm",
       "desc": "AnythingLLM არის Mintplex Labs-ის JavaScript all-in-one AI პლატფორმა — RAG, agents, chat, multi-user auth და 20+ LLM provider ერთ desktop ან server აპლიკაციაში. განსაკუთრებული ღირებულება desktop ვერსიაა: ინსტალაციის შემდეგ კომპლექსური კონფიგურაციის გარეშე მუშაობს, ყველა მონაცემი ლოკალური რჩება. საკუთარი კომპანიის დოკუმენტების (HR, legal, technical) AI-ით შესამოწმებლად privacy-first გადაწყვეტაა. 61,000+ ვარსკვლავი; კონკურენტებს (Dify, Open WebUI) „setup-free\" გამოცდილებით სჯობნის.",
       "descEn": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
-      "stars": 62000
+      "stars": 63000
     },
     {
       "id": "paperclip",
@@ -1579,7 +1579,7 @@
       "url": "https://github.com/paperclipai/paperclip",
       "desc": "Paperclip არის TypeScript-ის ღია კოდის AI ორკესტრაციის პლატფორმა ბიზნეს პროცესების ავტომატიზაციისთვის — „zero-human companies\" (ადამიანის მინიმალური მონაწილეობით მუშაობა) ფილოსოფიით. AI აგენტების გუნდს აწყობ, ბიუჯეტის ლიმიტებს, audit log-ს და progress tracking-ს ჩაშენებული მართვის panel-ით. 2026 წლის მარტში გამოშვებული, სწრაფად 70,000+ ვარსკვლავი დააგროვა. ბიზნეს ხელმძღვანელებისთვის, ვინც AI automation-ს ეფექტურ ფინანსურ კონტროლთან ერთად ქმნის.",
       "descEn": "Open-source orchestration for zero-human companies",
-      "stars": 72000
+      "stars": 73000
     },
     {
       "id": "mirofish",
@@ -1588,7 +1588,7 @@
       "url": "https://github.com/666ghj/MiroFish",
       "desc": "MiroFish არის Python-ის „გროვის ინტელექტის\" (swarm intelligence) სიმულაციის ძრავა, სადაც ათასობით AI აგენტი ინდივიდუალური პიროვნებითა და მეხსიერებით სიმულირდება ბაზრის ან სხვა სისტემების პროგნოზირებისთვის. თითოეულ აგენტს განსხვავებული ქცევის მოდელი აქვს, კოლექტიური გადაწყვეტილება კი ემერჯენტულია — არარომელი ცენტრალური „ტვინი\" არ არსებობს. Docker-ით ადვილად ეშვება. ეს არის სიმულაციური/კვლევითი ინსტრუმენტი, არა agent builder framework.",
       "descEn": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 67000
+      "stars": 68000
     },
     {
       "id": "jan",
@@ -1606,7 +1606,7 @@
       "url": "https://github.com/santifer/career-ops",
       "desc": "Career-Ops Claude Code-ზე აგებული AI-ს სამუშაოს ძიების სისტემაა — 14 skill mode, Go-ში დაწერილი dashboard, PDF CV გენერაცია და batch processing ვაკანსიების ავტომატური შეფასებისთვის. ვაკანსიების პოვნა, A-F სკალით შეფასება, CV-ს პოზიციაზე მორგება. JavaScript, career-ops.org. 53,000+ ვარსკვლავი — AI-ს job search-ზე გამოყენების ერთ-ერთი ყველაზე სრული open-source implementation.",
       "descEn": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 57000
+      "stars": 59000
     },
     {
       "id": "librechat",
@@ -1651,7 +1651,7 @@
       "url": "https://github.com/ItzCrazyKns/Vane",
       "desc": "Vane (ყოფილი **Perplexica**) — TypeScript-ის ღია კოდის AI საძიებო ძრავა, Perplexity AI-ს self-hosted ალტერნატივა. ინტერნეტში ეძებს, შედეგებს ამუშავებს და პასუხს წყაროებიანად გასცემს, ჩვეულებრივ ბრაუზერ-ძიებაზე ბევრად უფრო კონტექსტუალურად. Ollama-ს ლოკალური მოდელებით მუშაობს. 35,000+ ვარსკვლავი; შენი მონაცემების გარეთ გასვლის გარეშე web research-ისთვის — Perplexity-ს ანალოგი ყველაზე ახლო, self-hosted.",
       "descEn": "Vane is an AI-powered answering engine.",
-      "stars": 35000
+      "stars": 36000
     },
     {
       "id": "onyx",
@@ -1705,7 +1705,25 @@
       "url": "https://github.com/multica-ai/multica",
       "desc": "Multica არის TypeScript-ის ღია კოდის managed agents პლატფორმა, რომელიც AI კოდირების აგენტებს (coding agents) რეალური გუნდის წევრებად აქცევს. ამოცანების მინიჭება, პროგრესის მონიტორინგი, გამოცდილების დაგროვება (compounding skills) — ყოველი ციკლით AI უფრო კარგად ასრულებს ამ გუნდის სპეციფიკურ ამოცანებს. 2026 წლის იანვარში გამოშვებული, სწრაფად 36,000+ ვარსკვლავამდე გაიზარდა. ტექნიკური გუნდებისთვის, ვინც Claude Code-ის, Codex-ის ან სხვა coding agent-ების სამართავ ინსტრუმენტს ეძებს.",
       "descEn": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "stars": 38000
+      "stars": 39000
+    },
+    {
+      "id": "nemoclaw",
+      "label": "NemoClaw",
+      "category": "business",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "desc": "NemoClaw — **NVIDIA-ის ოფიციალური** ღია კოდის ხელსაწყო, რომელიც OpenClaw-ს უფრო უსაფრთხოდ უშვებს NVIDIA OpenShell-ის გარემოში managed inference-ით. ანუ კორპორატიული პოლისი, audit log-ი, sandbox-ი და GPU-ის მართული წვდომა — ყველა OpenClaw-ის capability, მაგრამ enterprise-დონის უსაფრთხოებით. TypeScript-ში, Apache 2.0 ლიცენზია, 2026 წლის მარტში გამოიცა. ორგანიზაციებისთვის, რომლებიც OpenClaw-ის ღირებულებას სურვილობენ თანამშრომლების მანქანებზე ჩაშვების გარეშე — datacenter-ში, IT-ის სრული კონტროლის ქვეშ.",
+      "descEn": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+      "stars": 22000
+    },
+    {
+      "id": "pm-skills",
+      "label": "PM Skills",
+      "category": "business",
+      "url": "https://github.com/phuryn/pm-skills",
+      "desc": "PM Skills — პროდუქტ-მენეჯმენტის skill-ებისა და plugin-ების marketplace Claude Code-სა და Cowork-ისთვის: 68 skill 9 plugin-ში, discovery-დან strategy-მდე. Teresa Torres-ისა და Marty Cagan-ის მეთოდები slash-ბრძანებებად. PM-ებისთვის სტრუქტურირებული workflow-ები.",
+      "descEn": "A marketplace of product-management skills, commands and plugins for Claude Code and Cowork — discovery to strategy.",
+      "stars": 23000
     },
     {
       "id": "meetily",
@@ -1717,31 +1735,13 @@
       "stars": 22000
     },
     {
-      "id": "nemoclaw",
-      "label": "NemoClaw",
-      "category": "business",
-      "url": "https://github.com/NVIDIA/NemoClaw",
-      "desc": "NemoClaw — **NVIDIA-ის ოფიციალური** ღია კოდის ხელსაწყო, რომელიც OpenClaw-ს უფრო უსაფრთხოდ უშვებს NVIDIA OpenShell-ის გარემოში managed inference-ით. ანუ კორპორატიული პოლისი, audit log-ი, sandbox-ი და GPU-ის მართული წვდომა — ყველა OpenClaw-ის capability, მაგრამ enterprise-დონის უსაფრთხოებით. TypeScript-ში, Apache 2.0 ლიცენზია, 2026 წლის მარტში გამოიცა. ორგანიზაციებისთვის, რომლებიც OpenClaw-ის ღირებულებას სურვილობენ თანამშრომლების მანქანებზე ჩაშვების გარეშე — datacenter-ში, IT-ის სრული კონტროლის ქვეშ.",
-      "descEn": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "stars": 21000
-    },
-    {
-      "id": "pm-skills",
-      "label": "PM Skills",
-      "category": "business",
-      "url": "https://github.com/phuryn/pm-skills",
-      "desc": "PM Skills — პროდუქტ-მენეჯმენტის skill-ებისა და plugin-ების marketplace Claude Code-სა და Cowork-ისთვის: 68 skill 9 plugin-ში, discovery-დან strategy-მდე. Teresa Torres-ისა და Marty Cagan-ის მეთოდები slash-ბრძანებებად. PM-ებისთვის სტრუქტურირებული workflow-ები.",
-      "descEn": "A marketplace of product-management skills, commands and plugins for Claude Code and Cowork — discovery to strategy.",
-      "stars": 22000
-    },
-    {
       "id": "qwenpaw",
       "label": "QwenPaw",
       "category": "business",
       "url": "https://github.com/agentscope-ai/QwenPaw",
       "desc": "QwenPaw — Alibaba-ს AgentScope გუნდის Python-ის პერსონალური AI ასისტენტი, რომელიც ლოკალურად ან ღრუბელში მსუბუქად დაყენდება და მრავალი chat აპლიკაციით ხელმისაწვდომი ხდება. easily extensible capabilities — plugin-ების ფართო ეკოსისტემა და Qwen მოდელებთან შერწყმა. Apache 2.0 ლიცენზია, 2026 წლის თებერვალში გამოიცა და უკვე 17,000+ ვარსკვლავი. ჩინური ეკოსისტემის OpenClaw-ის პასუხი, განსაკუთრებით ვინც Qwen მოდელებით მუშაობს.",
       "descEn": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 20000
+      "stars": 21000
     },
     {
       "id": "deepresearch",
@@ -1804,7 +1804,7 @@
       "url": "https://github.com/cosmicstack-labs/mercury-agent",
       "desc": "Mercury Agent — TypeScript-ის ღია კოდის პერსონალური AI აგენტი, რომელიც 24/7 ეშვება და CLI-ის ან Telegram-ის გავლით მუშაობს. „Soul-driven\" დიზაინით — აქვს დახვეწილი permission-hardened ხელსაწყოების სისტემა და ტოკენების budget-ი (ანუ ხარჯი არ გაგექცევა). რამდენიმე არხიდან ერთდროულად მისაწვდომი (CLI + Telegram bot ერთ instance-ზე). MIT ლიცენზია, 2026 წლის 20 აპრილს გამოიცა და სწრაფად გაიზარდა. იმათთვის, ვინც პერსონალურ AI თანაშემწეს ეძებს, რომელიც ნაცვლად იმისა რომ მუდმივად ბრაუზერში გადახვიდე, თავად მოგმართოს Telegram-ში მნიშვნელოვან მოვლენებზე.",
       "descEn": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
-      "stars": 2700
+      "stars": 2900
     },
     {
       "id": "agentic-inbox",
@@ -1813,7 +1813,7 @@
       "url": "https://github.com/cloudflare/agentic-inbox",
       "desc": "agentic-inbox **Cloudflare-ის ოფიციალური** self-hosted ელფოსტის კლიენტია ჩაშენებული AI agent-ით, რომელიც მთლიანად Cloudflare Workers-ზე (edge network) მუშაობს. AI ავტომატურად ალაგებს წერილებს, საპასუხო ტექსტს სწერს, მნიშვნელოვნობის მიხედვით ასორტირებს — ინბოქსის „თვით-მართვადი\" ვერსია. TypeScript-ში, 2026 წლის 10 აპრილს გამოიცა. Gmail-ის AI ფუნქციების privacy-first ღია ალტერნატივა — შენი domain, შენი მონაცემები, Cloudflare-ის სიჩქარე. ქართული ბიზნესებისთვის, ვინც domain email-ს უკვე Cloudflare-ზე ინახავს.",
       "descEn": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
-      "stars": 5000
+      "stars": 5400
     },
     {
       "id": "tradingagents",
@@ -1822,7 +1822,7 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "TradingAgents multi-agent სავაჭრო framework-ია, რომელიც რეალური სავაჭრო ფირმის სტრუქტურას ბაძავს — fundamental ანალიტიკოსი, sentiment ექსპერტი, technical ანალიტიკოსი, trader და risk manager აგენტები ერთად განიხილავენ ბაზრის მდგომარეობას და იღებენ გადაწყვეტილებებს. მრავალ LLM provider-ს (OpenAI, Google, Anthropic, DeepSeek) უჭერს მხარს, აქვს interactive CLI, backtesting, paper trading, Docker და checkpoint recovery. Python, Apache-2.0, v0.2.5 (2026 წლის 11 მაისი), 86,000+ ვარსკვლავი — TauricResearch-ის arXiv ნაშრომზე დაფუძნებული (კვლევითი ხელსაწყო, არა საინვესტიციო რჩევა). **ai-hedge-fund**-ისა და **FinceptTerminal**-ის მონათესავე, ოღონდ ფინანსური AI აგენტების ღია სამყაროს ყველაზე დიდი პროექტი.",
       "descEn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 90000
+      "stars": 91000
     },
     {
       "id": "openbb",
@@ -1903,7 +1903,7 @@
       "url": "https://github.com/run-llama/llama_index",
       "desc": "LlamaIndex — Python-ის ფრეიმვორკი, რომელიც AI-ს ნებისმიერ მონაცემთა წყაროსთან — ფაილები, მონაცემთა ბაზები, API-ები, ვებ გვერდები — სამუშაოდ ამზადებს. პირველ რიგში RAG pipeline-ების ასაწყობად გამოიყენება: დოკუმენტების indexing-იდან ძიებამდე და პასუხის გენერაციამდე ერთ ჩარჩოში. 300-ზე მეტი ინტეგრაცია — OpenAI, Anthropic, Hugging Face, Pinecone, Weaviate, PostgreSQL. 2024 წლიდან OCR-ისა და document agent-ების პლატფორმადაც განვითარდა. Python-ში დაწერილი, Apache 2.0 ლიცენზია, საწარმოო გამოყენებისთვის მომზადებული.",
       "descEn": "LlamaIndex is the leading document agent and OCR platform",
-      "stars": 50000
+      "stars": 51000
     },
     {
       "id": "milvus",
@@ -1948,7 +1948,7 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "desc": "Open Notebook — Google NotebookLM-ის **ღია კოდის, self-hosted ალტერნატივა** სრული data sovereignty-ით. წყაროებად PDF, ვიდეო, აუდიო, ვებ-გვერდები და Office დოკუმენტები შეგაქვს, notebook-ებად აწყობ და მასალას ესაუბრები — full-text + vector ძიება, წყაროების ციტირება, AI ჩანაწერები და **multi-speaker podcast გენერაცია** (1-4 ხმა, კონფიგურირებადი Episode Profiles — NotebookLM-ის ფიქსირებულ 2-სპიკერიან ფორმატზე ბევრად მოქნილი). 18+ AI პროვაიდერი (OpenAI, Anthropic, Google, Ollama, LM Studio, DeepSeek...) — სრულად ლოკალურადაც მუშაობს. Docker Compose-ით 2 წუთში ეშვება (SurrealDB + Next.js), აქვს REST API — რაც NotebookLM-ს საერთოდ არ აქვს. ავტორი Luis Novo (lfnovo), MIT, open-notebook.ai. **30,000+ ვარსკვლავი** — წამყვანი ღია NotebookLM-ალტერნატივა.",
       "descEn": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "stars": 34000
+      "stars": 35000
     },
     {
       "id": "storm",
@@ -2011,7 +2011,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "desc": "gbrain — TypeScript-ში დაწერილი AI აგენტის პერსონალური „ტვინი\", რომელიც ელ-ფოსტას, კალენდარს, შეხვედრებს და იდეებს ერთ ადგილზე აგროვებს და ინახავს. ჰიბრიდული ძიება (ვექტორული + keyword) სწრაფ და ზუსტ retrieval-ს უზრუნველყოფს. MCP სერვერი Claude-ისა და სხვა LLM-ებისთვის ჩაშენებულია. ლოკალურად PGLite-ით ან Supabase-ით ეშვება. 2026 წლის აპრილში გამოჩნდა, სწრაფად მოიპოვა ტრექშენი AI personal assistant builders-ში.",
       "descEn": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "stars": 24000
+      "stars": 25000
     },
     {
       "id": "hindsight",
@@ -2029,7 +2029,7 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "desc": "TencentDB Agent Memory — სრულად ლოკალური გრძელვადიანი მეხსიერება AI აგენტებისთვის, 4-დონიანი პროგრესული pipeline-ით, გარე API-ზე დამოკიდებულების გარეშე. TypeScript, Tencent Cloud-ის მიერ.",
       "descEn": "Fully local long-term memory for AI agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "stars": 6300
+      "stars": 6400
     },
     {
       "id": "mcp-crawl4ai-rag",
@@ -2047,7 +2047,7 @@
       "url": "https://github.com/dcostenco/prism-coder",
       "desc": "Prism MCP — AI აგენტებისთვის შექმნილი HIPAA-სტანდარტის კოგნიტური არქიტექტურა, MCP პროტოკოლით. ჩაშენებული on-device LLM (prism-coder:7b), Hebbian learning-ი და ACT-R spreading activation-ი მეხსიერების ორგანიზაციას ადამიანის შემეცნებითი მოდელის მსგავსად ახდენს. API key-ები არ სჭირდება — სრულად ლოკალურად მუშაობს. multi-agent Hivemind სინქრონიზაცია, adversarial evaluation და ვიზუალური dashboard ჩაშენებულია. TypeScript-ში დაწერილი, ექიმებისა და regulated industries-ისთვის ვარგისი კონფიდენციალობის გათვალისწინებით.",
       "descEn": "Persistent memory + local AI for coding agents. 1.7B–32B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
-      "stars": 149
+      "stars": 151
     },
     {
       "id": "understand-anything",
@@ -2056,7 +2056,7 @@
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "desc": "Understand Anything — ნებისმიერ კოდს ინტერაქტიულ knowledge graph-ად აქცევს, რომელშიც ნავიგაცია, ძიება და ბუნებრივ ენაზე კითხვების დასმა შეგიძლია. კოდბაზის სწრაფი გასაგებად. TypeScript, 2026-ის ერთ-ერთი ყველაზე სწრაფად მზარდი code-intelligence რეპო.",
       "descEn": "Turn any codebase into an interactive knowledge graph you can explore, search and ask questions about.",
-      "stars": 69000
+      "stars": 71000
     },
     {
       "id": "graphify",
@@ -2065,7 +2065,7 @@
       "url": "https://github.com/safishamsi/graphify",
       "desc": "Graphify კოდის, დოკუმენტაციის, PDF-ების, სურათების და ვიდეოების queryable knowledge graph-ად გარდაქმნის AI coding agent-ებისთვის. Claude Code-ს, Codex-ს, opencode-ს, Cursor-ს, Gemini CLI-ს და სხვებს უჭერს მხარს. Python-ში, graphifylabs.ai. Graph-ზე დაფუძნებული კითხვების მეთოდი AI-ის ტოკენებს 71-ჯერ ამცირებს ფაილების პირდაპირ კითხვასთან შედარებით. 67,000+ ვარსკვლავი — 2026 წლის აპრილში სწრაფად გაიზარდა.",
       "descEn": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
-      "stars": 74000
+      "stars": 78000
     },
     {
       "id": "codegraph",
@@ -2074,7 +2074,7 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "desc": "CodeGraph კოდბაზის წინასწარ-ინდექსირებულ semantic knowledge graph-ს აშენებს AI coding agent-ებისთვის — ფუნქციები, კლასები, import-ები და call-ურთიერთობები ლოკალურ SQLite ბაზაში, 20+ ენისთვის. იმის ნაცვლად, რომ Claude Code-მა ან Cursor-მა ყოველ მოთხოვნაზე ფაილები თავიდან წაიკითხოს, პირდაპირ ამ ინდექსს ეკითხება — შედეგად ~22% იაფი და ~50%-ით ნაკლები tool call. TypeScript, MIT, v0.9.7 (2026 წლის 28 მაისი), სრულად ლოკალური, გარე API-ს გარეშე. 2026 წლის 21 მაისის GitHub Trending #1, 49,000+ ვარსკვლავი — **Graphify**-ისა და **GitNexus**-ის ბუნებრივი მონათესავე code-intelligence მიმართულებაში.",
       "descEn": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "stars": 56000
+      "stars": 58000
     },
     {
       "id": "gitnexus",
@@ -2083,7 +2083,7 @@
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "desc": "GitNexus — ბრაუზერში სრულად მომუშავე კოდის ინტელიჯენსის ხელსაწყო, სერვერის გარეშე. GitHub-ის repo ან ZIP ჩააგდე და ნახავ ყველა ფაილს, ფუნქციასა და მათ ურთიერთდამოკიდებლობას ინტერაქტიული knowledge graph-ის სახით. ჩაშენებული Graph RAG Agent ამ graph-ს იყენებს, რომ კოდზე ბუნებრივ ენაზე დასმულ კითხვებს უპასუხოს. TypeScript-ში დაწერილი, სრულად client-side, backend deploy-ი არ სჭირდება. კოდის კომპლექსური ბაზის სწრაფი გასაგებად გამოსადეგია.",
       "descEn": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": 43000
+      "stars": 44000
     },
     {
       "id": "codebase-memory-mcp",
@@ -2119,7 +2119,7 @@
       "url": "https://github.com/kenn-io/agentsview",
       "desc": "agentsview local-first ხელსაწყოა coding agent-ების სესიების ძებნის, ანალიტიკისა და ტოკენების ხარჯის სტატისტიკისთვის — Claude Code-ს, Codex-ს და 20+ სხვა აგენტს უჭერს მხარს. Go-ში დაწერილი, მთელი ისტორია შენს მანქანაზე რჩება. თუ რამდენიმე აგენტს იყენებ და გინდა ნახო რაზე იხარჯება ტოკენები — ეს dashboard-ი გამოგადგება.",
       "descEn": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. ",
-      "stars": 3700
+      "stars": 3800
     },
     {
       "id": "claude-mem",
@@ -2128,7 +2128,7 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "desc": "Claude Mem Claude Code-ის მეხსიერების plugin-ია — ავტომატურად ჩაწერს რასაც Claude coding session-ში აკეთებს, Claude-ის agent SDK-ით კომპრესსავს და შემდეგ session-ში რელევანტურ კონტექსტს უბრუნებს. TypeScript-ში, claude-mem.ai. ანუ ყოველ ჯერზე ხელახლა ახსნა აღარ სჭირდება — Claude „ახსოვს\" რაზე მუშაობდი. 82,000+ ვარსკვლავი.",
       "descEn": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "stars": 85000
+      "stars": 86000
     },
     {
       "id": "caveman",
@@ -2137,7 +2137,7 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "desc": "Caveman Claude Code-ის (და სხვა agent-ების) ტოკენების მოხმარებას 65%-ით ამცირებს — AI-ს ასწავლის „გამოქვაბულის ადამიანივით\" ლაპარაკს, ზედმეტი სიტყვების გამოტოვებით. ხარისხი არ ეცემა, მხოლოდ verbosity მცირდება. Lite, Full და Ultra ინტენსივობის დონეები. Python-ში, Julius Brussee-ის მიერ. 40+ coding agent-ს უჭერს მხარს (Claude Code, Codex, Gemini CLI, Cursor). 2026 წლის აპრილში გამოჩნდა, 73,000+ ვარსკვლავი — AI ხარჯების შემამცირებელი ყველაზე პოპულარული skill.",
       "descEn": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": 78000
+      "stars": 85000
     },
     {
       "id": "headroom",
@@ -2146,7 +2146,7 @@
       "url": "https://github.com/chopratejas/headroom",
       "desc": "Headroom LLM აპლიკაციებისთვის context optimization layer-ია — AI-ს გადასაცემ მონაცემებს (ფაილები, ლოგები, RAG შედეგები) 70-95%-ით ამცირებს პასუხის ხარისხის დაკარგვის გარეშე. Python-ში, headroom-docs.vercel.app. Claude Code-ში, Codex-ში და Aider-ში ერთი ბრძანებით ეშვება. AI ხარჯების მნიშვნელოვნად შემცირებისა და უფრო გრძელი სამუშაო სესიების შესაძლებლობისთვის — 29,000+ ვარსკვლავი.",
       "descEn": "The Context Optimization Layer for LLM Applications",
-      "stars": 53000
+      "stars": 57000
     },
     {
       "id": "new-api",
@@ -2182,7 +2182,7 @@
       "url": "https://github.com/rohitg00/agentmemory",
       "desc": "agentmemory AI coding agent-ებს persistent მეხსიერებას აძლევს — lifecycle hooks-ით ჩუმად იწერს რას აკეთებს agent-ი 12+ ხელსაწყოში (Claude Code, Copilot CLI, Cursor, Gemini CLI), დაკვირვებებს searchable structured memory-ად კუმშავს (keyword + vector + knowledge graph hybrid, 95.2% retrieval accuracy R@5) და ახალ session-ში რელევანტურ კონტექსტს უბრუნებს. SQLite-ზე მუშაობს გარე ბაზის გარეშე და 53-tool MCP server-ად ეშვება — ~92%-ით ამცირებს ტოკენებს. TypeScript, Apache-2.0, v0.9.24 (2026 წლის 29 მაისი), 23,000+ ვარსკვლავი, GitHub Trending #5 — **Claude Mem**-ისა და **mem0**-ის MCP-native კონკურენტი.",
       "descEn": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": 24000
+      "stars": 25000
     },
     {
       "id": "freellmapi",
@@ -2200,7 +2200,7 @@
       "url": "https://github.com/ollama/ollama",
       "desc": "Ollama — ყველაზე მარტივი გზა LLM-ების ლოკალურად გასაშვებად. ერთი ბრძანებით — `ollama run llama4` — და Llama, Mistral, Qwen, DeepSeek, Gemma, Phi და ასობით სხვა მოდელი მზადაა. Go-ში დაწერილი, macOS, Windows, Linux-ზე მუშაობს, GPU-ს გარეშეც. REST API ჩაშენებულია — ნებისმიერი OpenAI SDK-ის კლიენტი Ollama-სთანაც მუშაობს base URL-ის შეცვლით. პირადი მონაცემები კომპიუტერს არ ტოვებს, სრულად უფასოა.",
       "descEn": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "stars": 175000
+      "stars": 176000
     },
     {
       "id": "transformers",
@@ -2218,7 +2218,7 @@
       "url": "https://github.com/microsoft/markitdown",
       "desc": "MarkItDown — Microsoft-ის Python ხელსაწყო, რომელიც ფაილებსა და office-დოკუმენტებს (PDF, Word, Excel, PowerPoint, სურათები, აუდიო, HTML) Markdown-ად აქცევს LLM-ებისა და ტექსტ-ანალიზისთვის. RAG-ის მონაცემთა მომზადების დომინანტი ხელსაწყო.",
       "descEn": "Microsoft Python tool that converts files and office documents (PDF, Word, Excel, PPT, images, audio) into Markdown for LLMs.",
-      "stars": 161000
+      "stars": 163000
     },
     {
       "id": "llama-cpp",
@@ -2263,7 +2263,7 @@
       "url": "https://github.com/BerriAI/litellm",
       "desc": "LiteLLM — ერთიანი gateway/proxy 100+ LLM API-სთვის: OpenAI, Anthropic, Gemini, Azure, Bedrock, VertexAI და ლოკალური მოდელები (vLLM, Ollama) ერთ, OpenAI-თავსებად ფორმატში. შენი კოდი ერთხელ წერ და პროვაიდერს ცვლი კოდის გადაწერის გარეშე. Python SDK + proxy server (AI Gateway) cost tracking-ით, guardrails-ით, rate limiting-ით, load balancing-ითა და fallback-ებით. 50,000+ ვარსკვლავი — AI ინფრასტრუქტურის ერთ-ერთი ყველაზე ფართოდ გამოყენებული ხელსაწყო production-ში მრავალ LLM-ის სამართავად.",
       "descEn": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
-      "stars": 52000
+      "stars": 53000
     },
     {
       "id": "textgen",
@@ -2308,7 +2308,7 @@
       "url": "https://github.com/langfuse/langfuse",
       "desc": "Langfuse — ღია AI engineering პლატფორმა: LLM eval, observability, მეტრიკები, prompt management, playground და datasets. აგენტური workflow-ების trace-ვა, prompt-ების ვერსირება და LLM-as-a-judge შეფასება ერთ ადგილას. agentic აპლიკაციების production-მონიტორინგისთვის.",
       "descEn": "Open-source LLM engineering platform — observability, evals, prompt management, metrics, playground and datasets.",
-      "stars": 30000
+      "stars": 31000
     },
     {
       "id": "sglang",
@@ -2389,7 +2389,7 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "desc": "SkillSpector — NVIDIA-ის უსაფრთხოების სკანერი AI agent skill-ებისთვის. ინსტალაციამდე ამოწმებს prompt injection-ს, data exfiltration-სა და supply-chain რისკებს — 64 pattern 16 კატეგორიაში, risk score და CI/CD ინტეგრაცია. skill-ების კოლექციის ბუნებრივი დამცველი.",
       "descEn": "Security scanner for AI agent skills — detects prompt injection, data exfiltration and supply-chain risks before install.",
-      "stars": 11000
+      "stars": 12000
     },
     {
       "id": "stable-diffusion-webui",
@@ -2407,7 +2407,7 @@
       "url": "https://github.com/comfy-org/ComfyUI",
       "desc": "ComfyUI — diffusion model-ებით სურათებისა და ვიდეოების გენერაციის ყველაზე მოქნილი პლატფორმა, node-based ვიზუალური ინტერფეისით. პროცესებს ბლოკ-სქემის სახით ვხატავთ — ყოველი node ერთ ოპერაციას ასრულებს (sampling, upscaling, LoRA გამოყენება, inpainting). Python-ში დაწერილი, REST API ჩაშენებული, 1 000-ზე მეტი community extension ხელმისაწვდომია. Stable Diffusion, FLUX, SDXL, Wan, CogVideoX და სხვა მოდელები მხარდაჭერილია. AI ხელოვნებისა და ვიდეო კონტენტის პროფესიონალებს შორის ინდუსტრიული სტანდარტია.",
       "descEn": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 119000
+      "stars": 120000
     },
     {
       "id": "moneyprinterturbo",
@@ -2416,7 +2416,7 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "desc": "MoneyPrinterTurbo — AI დიდი მოდელით ერთ კლიკში HD მოკლე ვიდეოს გენერაცია: თემიდან სცენარი, ვიდეო-მასალა, სუბტიტრები და ფონური მუსიკა ავტომატურად. Python, ერთ-ერთი ყველაზე პოპულარული AI ვიდეო-ხელსაწყო.",
       "descEn": "Generate HD short videos with one click using an AI LLM — script, footage, subtitles and music, fully automated.",
-      "stars": 94000
+      "stars": 96000
     },
     {
       "id": "stable-diffusion",
@@ -2515,7 +2515,7 @@
       "url": "https://github.com/OpenBMB/VoxCPM",
       "desc": "VoxCPM2 — tokenizer-free multilingual text-to-speech სისტემა OpenBMB-ისგან (Tsinghua University-ის კვლევითი ჯგუფი). 30 ენაზე მუშაობს language tag-ის გარეშე, 3 წამიანი ნიმუშიდან ხმის კლონირება, 48kHz სტუდიური ხარისხი. 2 მილიარდი პარამეტრი, 8GB VRAM-ზე ეშვება, Apache 2.0 ლიცენზია. Minimax benchmark-ზე 85.4% ხმის მსგავსება. ElevenLabs-ის ღია ალტერნატივა — კომერციული სერვისის გარეშე სტუდიური ხარისხის TTS.",
       "descEn": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 32000
+      "stars": 33000
     },
     {
       "id": "hunyuanvideo",
@@ -2533,7 +2533,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "desc": "Hyperframes — HeyGen-ის (AI avatar video-ს წამყვანი კომპანია) TypeScript framework, რომელიც HTML/CSS-ს ვიდეოდ გარდაქმნის. სპეციალურად AI აგენტებისთვის შექმნილი: აგენტი HTML-ს წერს, Hyperframes ვიდეოდ render-ავს — კოდირების ვიდეო pipeline. რეპოში არის [Claude-სპეციფიკური design guide](https://github.com/heygen-com/hyperframes/blob/main/docs/guides/claude-design-hyperframes.md) — Claude.ai-ში ვიდეო template-ის პირველ draft-ს ქმნი, ZIP-ით ჩამოგაქვს, შემდეგ Claude Code-ი ფინიშავს ანიმაციებს. Remotion-ის კონკურენტი declarative agent-first მიდგომით — Plain HTML + GSAP, React-ის გარეშე. 2026 მარტში გამოვიდა, Apache 2.0.",
       "descEn": "Write HTML. Render video. Built for agents.",
-      "stars": 32000
+      "stars": 33000
     },
     {
       "id": "supertonic",
@@ -2560,7 +2560,7 @@
       "url": "https://github.com/hexgrad/kokoro",
       "desc": "Kokoro — მცირე, მაგრამ ხარისხიანი ღია TTS მოდელი (82M პარამეტრი), Apache 2.0. ლოკალურად სწრაფი მეტყველების სინთეზი მინიმალური რესურსით — ერთ-ერთი ყველაზე პოპულარული მსუბუქი TTS 2026-ში.",
       "descEn": "A small, high-quality open TTS model (82M params, Apache 2.0) — fast local speech synthesis with minimal resources.",
-      "stars": 7700
+      "stars": 7800
     },
     {
       "id": "realtimetts",
@@ -2578,7 +2578,7 @@
       "url": "https://github.com/browser-use/video-use",
       "desc": "video-use — Browser Use გუნდის ხელსაწყო ვიდეო მონტაჟისთვის AI კოდინგ აგენტების მეშვეობით. ბუნებრივ ენაზე გაიცი ინსტრუქცია (ფრაგმენტების შეერთება, subtitle-ების დამატება, audio-ს ჩანაცვლება, speed-ის შეცვლა) და AI FFmpeg-ის სკრიპტს ავტომატურად წერს და ახორციელებს. Python-ში, 2026 წლის აპრილში გამოჩნდა. agentic media processing-ის ახალი მიმართულების ადრეული demo — NLE (non-linear editor) UI-ის გარეშე, პროგრამული ვიდეო workflow-ებისთვის.",
       "descEn": "Edit videos with coding agents",
-      "stars": 12000
+      "stars": 15000
     },
     {
       "id": "skills-3",
@@ -2587,7 +2587,7 @@
       "url": "https://github.com/remotion-dev/skills",
       "desc": "Remotion Skills Remotion-ის (React-ში ვიდეოების პროგრამული შექმნის ფრეიმვორკი) ოფიციალური agent skills-ია. AI coding agent-ებს Remotion-ის ექსპერტიზას სძენს — კომპოზიცია, რენდერინგი, ტაიმინგი, animation. TypeScript-ში. თუ data visualizations-ს, reels-ს ან ანიმაციებს React კომპონენტებიდან ქმნი, ეს skill-ი AI-ს ყველა ნიუანსს ასწავლის — Remotion-ის ოფიციალური გუნდის მიერ.",
       "descEn": "Agent Skills",
-      "stars": 3800
+      "stars": 3900
     },
     {
       "id": "build-your-own-x",
@@ -2596,7 +2596,7 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "desc": "Build Your Own X — GitHub-ის ყველაზე ვარსკვლავიანი სასწავლო რეპოზიტორიებს შორის, CodeCrafters-ის მიერ: tutorial-ების კატალოგი, სადაც ტექნოლოგიებს ნულიდან ადგენ. Git, Docker, database, operating system, programming language, LLM, neural network, web browser, game engine — ათასობით ნაბიჯ-ნაბიჯ სახელმძღვანელო კატეგორიებით. Markdown-ში, ენა-ნეიტრალური. CodeCrafters-ის ინტერაქტიული platforma-ს კომპანიური სია. პროგრამირების სიღრმის გაგებისთვის — system-level ცოდნის შეძენის საუკეთესო რესურსი.",
       "descEn": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 521000
+      "stars": 523000
     },
     {
       "id": "public-apis",
@@ -2605,7 +2605,7 @@
       "url": "https://github.com/public-apis/public-apis",
       "desc": "Public APIs — GitHub-ის ერთ-ერთი ყველაზე ვარსკვლავიანი რეპოზიტორია, ასობით კატეგორიზებული უფასო API-ს კოლექტიური სია. ამინდი, მუსიკა, ფინანსები, რუკები, სპორტი, სახელმწიფო მონაცემები, AI სერვისები — authentication-ის, CORS-ის და ლიცენზიის ინფორმაციით. Python-ში დაწერილი ვალიდაციის სკრიპტებით, community-maintained. AI აგენტის workflow-ების ასაწყობისას — პირველი გაჩერება, სანამ API-ის ძებნას შეუდგები.",
       "descEn": "A collective list of free APIs",
-      "stars": 445000
+      "stars": 447000
     },
     {
       "id": "system-prompts-and-models-of-ai-tools",
@@ -2614,7 +2614,7 @@
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "desc": "System Prompts Collection — 25-ზე მეტი AI ხელსაწყოს leaked და public system prompt-ების კოლექცია: Claude Code, Cursor, Devin AI, v0, Lovable, Replit, Windsurf, Manus, Perplexity, Kiro, Warp, Xcode და სხვა. prompt engineering-ის შეუცვლელი სასწავლო მასალა — ფრონტიერ კომპანიები სისტემურ prompt-ებს რა სტრუქტურით, ენით და ლოგიკით წერენ. AI Agent-ების ასაწყობად, product prompt engineering-ისთვის, ან კონკურენტული ანალიზისთვის. Community-ის მიერ განახლდება.",
       "descEn": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 141000
+      "stars": 142000
     },
     {
       "id": "awesome-llm-apps",
@@ -2632,7 +2632,7 @@
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "desc": "LLMs from Scratch — Sebastian Raschka-ს (Lightning AI-ის მკვლევარი) წიგნის \"Build a Large Language Model (From Scratch)\" Jupyter Notebook კოლექცია. ChatGPT-ის მსგავსი LLM PyTorch-ში ნულიდან: attention mechanism, tokenization, pre-training, fine-tuning, RLHF — ყველა ეტაპი კოდით. Manning Publications-ის ბესტსელერი, ღია Jupyter notebooks-ით. AI-ის შიდა მექანიზმის გასაგებად ყველაზე სრული, პრაქტიკული სასწავლო კურსი — კვლევისა და საინჟინრო გაგებისთვის.",
       "descEn": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": 98000
+      "stars": 99000
     },
     {
       "id": "awesome-mcp-servers",
@@ -2650,7 +2650,7 @@
       "url": "https://github.com/karpathy/autoresearch",
       "desc": "AutoResearch არის Andrej Karpathy-ს (OpenAI-ის ყოფილი კვლევის ხელმძღვანელი, Tesla AI-ის ყოფილი ხელმძღვანელი) ექსპერიმენტული Python პროექტი, სადაც AI აგენტები nanochat-ის ერთ-GPU-ზე ტრენინგს ავტომატურად წარმართავენ. პროექტი ავლენს „automated ML research\" ცნებას — აგენტები ექსპერიმენტებს ჩაატარებენ, შედეგებს შეაფასებენ და ციკლს ადამიანის ჩარევის გარეშე გაიმეორებენ. Karpathy-ს ავტორიტეტის გამო სწრაფად დაიგროვა 87,000+ ვარსკვლავი, თუმცა ეს კვლევითი/სადემონსტრაციო პროექტია, არა production-ready ფრეიმვორკი. ML კვლევის ავტომატიზაციით დაინტერესებულთათვის საყურადღებო მიმართულებაა.",
       "descEn": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 89000
+      "stars": 90000
     },
     {
       "id": "system-prompts-leaks",
@@ -2659,7 +2659,7 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "desc": "system_prompts_leaks მთავარი AI სისტემების ამოღებული system prompt-ების კრებულია — Anthropic (Claude Opus 4.8, Claude Code, Claude Design), OpenAI (ChatGPT, Codex), Google (Gemini, Antigravity), xAI Grok, Cursor, Copilot, Perplexity და სხვა. რეგულარულად ახლდება. prompt engineering-ის შესასწავლად ერთ-ერთი ყველაზე ღირებული რესურსი — ხედავ როგორ ამუშავებენ frontier ლაბები რეალურ აგენტებს. 49,000+ ⭐.",
       "descEn": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": 50000
+      "stars": 51000
     },
     {
       "id": "claude-cookbooks",
@@ -2677,7 +2677,7 @@
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "desc": "Awesome Claude Code — Claude Code-ის (Anthropic) ecosystem-ის კურირებული სია: skills, hooks, slash-commands, agent orchestrators, applications, plugins. Claude Code-ის მაქსიმალურად ეფექტური გამოყენებისთვის — community-ის საუკეთესო workflow-ები, automation scripts, ინტეგრაციები ერთ ადგილზე. Python-ში, community-maintained. Claude Code-ის ახალი მომხმარებლებისთვის — გამოყენების შაბლონების, advanced workflows-ების სწრაფი შესწავლის პირველი გაჩერება.",
       "descEn": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-      "stars": 48000
+      "stars": 49000
     },
     {
       "id": "ai-engineering-from-scratch",
@@ -2713,7 +2713,7 @@
       "url": "https://github.com/cheahjs/free-llm-api-resources",
       "desc": "Free LLM API Resources — 26-ზე მეტი უფასო LLM inference სერვისის კურირებული სია API-ზე წვდომით: OpenRouter, Google AI Studio, NVIDIA NIM, Mistral, Groq, Cerebras, Together AI და სხვა. ყოველი სერვისისთვის — ხელმისაწვდომი მოდელები, rate limits, registration requirements. Python-ში, cheahjs-ის მიერ, community-ის განახლებებით. prototype-ებისა და სასწავლო პროექტებისთვის, სადაც გადასახადი არ გსურს — ყველაზე სრული სია.",
       "descEn": "A list of free LLM inference resources accessible via API.",
-      "stars": 24000
+      "stars": 26000
     },
     {
       "id": "awesome-claude-code-subagents",
@@ -2731,7 +2731,7 @@
       "url": "https://github.com/agentskills/agentskills",
       "desc": "Agent Skills Spec AI agent-ებისთვის skills-ის მიცემის ღია სტანდარტისა და სპეციფიკაციის კოლექციაა — write-once, use-everywhere პრინციპით. სრული სპეციფიკაციის დოკუმენტი, reference SDK და მაგალითი skill-ები. Python-ში, agentskills.io — დამოუკიდებელი, community-driven პროექტი. Claude Code, Codex და სხვა platform-ები ამ სტანდარტს მიჰყვებიან, თუმცა ეს Anthropic-ის ოფიციალური სტანდარტი არ არის.",
       "descEn": "Specification and documentation for Agent Skills",
-      "stars": 21000
+      "stars": 23000
     },
     {
       "id": "awesome-ai-agent-papers",
@@ -2749,7 +2749,7 @@
       "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
       "desc": "Awesome AI Agents 2026 — 300+ AI აგენტის, ფრეიმვორკისა და ხელსაწყოს ყოვლისმომცველი სია 20+ კატეგორიად, ყოველთვიური განახლებით. agentic ეკოსისტემის სანავიგაციო რუკა.",
       "descEn": "A comprehensive, monthly-updated list of 300+ AI agents, frameworks and tools across 20+ categories.",
-      "stars": 1300
+      "stars": 1400
     },
     {
       "id": "awesome-cli-coding-agents",
@@ -2758,7 +2758,7 @@
       "url": "https://github.com/bradAGI/awesome-cli-coding-agents",
       "desc": "Awesome CLI Coding Agents — ტერმინალში მომუშავე AI coding-აგენტებისა და მათი ორკესტრატორების კურირებული კატალოგი: Pi, OpenCode, Aider, Goose, Claude Code, Codex, Gemini CLI, parallel runners და agent ინფრასტრუქტურა.",
       "descEn": "Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them.",
-      "stars": 670
+      "stars": 753
     },
     {
       "id": "hyperframes-2",
@@ -2995,11 +2995,6 @@
       "type": "cluster"
     },
     {
-      "source": "awesome-copilot",
-      "target": "superpowers",
-      "type": "cluster"
-    },
-    {
       "source": "academic-research-skills",
       "target": "superpowers",
       "type": "cluster"
@@ -3011,6 +3006,11 @@
     },
     {
       "source": "agent-skills",
+      "target": "superpowers",
+      "type": "cluster"
+    },
+    {
+      "source": "awesome-copilot",
       "target": "superpowers",
       "type": "cluster"
     },
@@ -3655,17 +3655,17 @@
       "type": "cluster"
     },
     {
-      "source": "meetily",
-      "target": "openclaw",
-      "type": "cluster"
-    },
-    {
       "source": "nemoclaw",
       "target": "openclaw",
       "type": "cluster"
     },
     {
       "source": "pm-skills",
+      "target": "openclaw",
+      "type": "cluster"
+    },
+    {
+      "source": "meetily",
       "target": "openclaw",
       "type": "cluster"
     },
@@ -4336,11 +4336,6 @@
     },
     {
       "source": "claude-code",
-      "target": "awesome-copilot",
-      "type": "hub"
-    },
-    {
-      "source": "claude-code",
       "target": "academic-research-skills",
       "type": "hub"
     },
@@ -4352,6 +4347,11 @@
     {
       "source": "claude-code",
       "target": "agent-skills",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "awesome-copilot",
       "type": "hub"
     },
     {
@@ -4951,12 +4951,12 @@
     },
     {
       "source": "claude-mem",
-      "target": "letta",
+      "target": "gbrain",
       "type": "cross"
     },
     {
       "source": "claude-mem",
-      "target": "gbrain",
+      "target": "letta",
       "type": "cross"
     },
     {
