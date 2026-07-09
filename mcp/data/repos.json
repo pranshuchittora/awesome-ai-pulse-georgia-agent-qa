@@ -1,48 +1,48 @@
 {
-  "generated": "2026-07-05T22:14:00.693Z",
-  "totalRepos": 265,
+  "generated": "2026-07-09T22:15:44.532Z",
+  "totalRepos": 300,
   "categories": [
     {
       "slug": "coding",
       "emoji": "🤖",
       "english": "Coding Agents",
       "georgian": "კოდინგ აგენტები",
-      "count": 27
+      "count": 32
     },
     {
       "slug": "plugins",
       "emoji": "⚡",
       "english": "Claude Code Plugins & Skills",
       "georgian": "Claude Code პლაგინები და უნარები",
-      "count": 19
+      "count": 23
     },
     {
       "slug": "design",
       "emoji": "🎨",
       "english": "Design & UI",
       "georgian": "დიზაინი და UI",
-      "count": 21
+      "count": 23
     },
     {
       "slug": "mcp",
       "emoji": "🔌",
       "english": "MCP Integrations",
       "georgian": "MCP ინტეგრაციები",
-      "count": 21
+      "count": 23
     },
     {
       "slug": "scraping",
       "emoji": "🕷️",
       "english": "Web Scraping & Browser",
       "georgian": "ვებ სკრეიპინგი და ბრაუზერი",
-      "count": 17
+      "count": 19
     },
     {
       "slug": "frameworks",
       "emoji": "🧬",
       "english": "AI Agent Frameworks & Orchestration",
       "georgian": "AI აგენტების ფრეიმვორკები",
-      "count": 29
+      "count": 34
     },
     {
       "slug": "workflow",
@@ -56,21 +56,21 @@
       "emoji": "💼",
       "english": "AI Assistants & Business Agents",
       "georgian": "AI ასისტენტები და ბიზნეს-აგენტები",
-      "count": 28
+      "count": 34
     },
     {
       "slug": "finance",
       "emoji": "💰",
       "english": "Finance AI",
       "georgian": "ფინანსური AI",
-      "count": 5
+      "count": 6
     },
     {
       "slug": "memory",
       "emoji": "🧠",
       "english": "Memory, RAG & Vector DBs",
       "georgian": "მეხსიერება, RAG და Vector DB",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "codeintel",
@@ -84,28 +84,28 @@
       "emoji": "💸",
       "english": "Token & Cost Optimization",
       "georgian": "ტოკენების დაზოგვა და ხარჯი",
-      "count": 6
+      "count": 8
     },
     {
       "slug": "infra",
       "emoji": "⚙️",
       "english": "Model Inference & LLM Tooling",
       "georgian": "ინფერენსი და LLM ხელსაწყოები",
-      "count": 20
+      "count": 22
     },
     {
       "slug": "media",
       "emoji": "🎬",
       "english": "Media Generation",
       "georgian": "მედია-გენერაცია",
-      "count": 21
+      "count": 22
     },
     {
       "slug": "resources",
       "emoji": "📚",
       "english": "Resources & Learning",
       "georgian": "რესურსები და სასწავლო მასალები",
-      "count": 19
+      "count": 21
     }
   ],
   "repos": [
@@ -130,6 +130,17 @@
       "categoryEmoji": "🤖",
       "categoryGeorgian": "კოდინგ აგენტები",
       "descriptionEn": "The open source coding agent."
+    },
+    {
+      "name": "Claude Code",
+      "url": "https://github.com/anthropics/claude-code",
+      "stars": "137K",
+      "description": "Claude Code — Anthropic-ის ოფიციალური agentic coding tool, რომელიც პირდაპირ ტერმინალში ცხოვრობს, შენს კოდბაზას ესმის და ბუნებრივი ენის ბრძანებებით რუტინულ ამოცანებს თავად ასრულებს. ამ მთელი კოლექციის სახელობითი ცენტრი — პლაგინების, skill-ებისა და MCP სერვერების უმეტესობა სწორედ Claude Code-ის ეკოსისტემისთვისაა. 137,000+ ვარსკვლავი.",
+      "starsNumeric": 137000,
+      "categorySlug": "coding",
+      "categoryEmoji": "🤖",
+      "categoryGeorgian": "კოდინგ აგენტები",
+      "descriptionEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
     {
       "name": "Gemini CLI",
@@ -242,6 +253,17 @@
       "descriptionEn": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
     },
     {
+      "name": "claude-code-router",
+      "url": "https://github.com/musistudio/claude-code-router",
+      "stars": "36K",
+      "description": "claude-code-router — Claude Code-ს ნებისმიერ მოდელზე გადაამისამართებს (DeepSeek, Qwen, Gemini, ლოკალური), request-ებს routing-ითა და transform-ით მართავს. ხარჯის დაზოგვა და მოდელის არჩევის მოქნილობა. 36,000+ ⭐.",
+      "starsNumeric": 36000,
+      "categorySlug": "coding",
+      "categoryEmoji": "🤖",
+      "categoryGeorgian": "კოდინგ აგენტები",
+      "descriptionEn": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic."
+    },
+    {
       "name": "Tabby",
       "url": "https://github.com/TabbyML/tabby",
       "stars": "34K",
@@ -262,6 +284,17 @@
       "categoryEmoji": "🤖",
       "categoryGeorgian": "კოდინგ აგენტები",
       "descriptionEn": "⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI"
+    },
+    {
+      "name": "GPT Pilot",
+      "url": "https://github.com/Pythagora-io/gpt-pilot",
+      "stars": "34K",
+      "description": "GPT Pilot — AI dev, რომელიც მთელ აპს წერს zero-დან: აანალიზებს მოთხოვნებს, წერს კოდს, უშვებს, debug-ს აკეთებს და ადამიანს მხოლოდ საკვანძო წერტილებში ეკითხება. Pythagora-ს პროექტი. 34,000+ ⭐.",
+      "starsNumeric": 34000,
+      "categorySlug": "coding",
+      "categoryEmoji": "🤖",
+      "categoryGeorgian": "კოდინგ აგენტები",
+      "descriptionEn": "The first real AI developer"
     },
     {
       "name": "Void",
@@ -361,6 +394,28 @@
       "categoryEmoji": "🤖",
       "categoryGeorgian": "კოდინგ აგენტები",
       "descriptionEn": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents"
+    },
+    {
+      "name": "Devika",
+      "url": "https://github.com/stitionai/devika",
+      "stars": "20K",
+      "description": "Devika — ღია AI software engineer: მაღალ-დონის დავალებას ანაწილებს, იკვლევს, წერს კოდს რამდენიმე ენაზე. Devin-ის ღია ალტერნატივა. 20,000+ ⭐.",
+      "starsNumeric": 20000,
+      "categorySlug": "coding",
+      "categoryEmoji": "🤖",
+      "categoryGeorgian": "კოდინგ აგენტები",
+      "descriptionEn": "Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin."
+    },
+    {
+      "name": "avante.nvim",
+      "url": "https://github.com/yetone/avante.nvim",
+      "stars": "18K",
+      "description": "avante.nvim — Cursor-ის მაგვარი AI-ასისტენტი Neovim-ში: inline edit, agentic ცვლილებები და code-suggestions პირდაპირ რედაქტორში. 18,000+ ⭐.",
+      "starsNumeric": 18000,
+      "categorySlug": "coding",
+      "categoryEmoji": "🤖",
+      "categoryGeorgian": "კოდინგ აგენტები",
+      "descriptionEn": "Use your Neovim like using Cursor AI IDE!"
     },
     {
       "name": "oh-my-pi",
@@ -473,6 +528,39 @@
       "descriptionEn": "Skills for Real Engineers. Straight from my .claude directory."
     },
     {
+      "name": "BMAD-METHOD",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "stars": "50K",
+      "description": "BMAD-METHOD — universal agentic agile-development method: სპეციალიზებული AI აგენტები (analyst, PM, architect, dev, QA) სტრუქტურირებულ workflow-ში მართავენ პროექტს იდეიდან კოდამდე. Claude Code/Cursor/Gemini-თან თავსებადი. 50,000+ ⭐.",
+      "starsNumeric": 50000,
+      "categorySlug": "plugins",
+      "categoryEmoji": "⚡",
+      "categoryGeorgian": "Claude Code პლაგინები და უნარები",
+      "descriptionEn": "Breakthrough Method for Agile Ai Driven Development"
+    },
+    {
+      "name": "awesome-cursorrules",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "stars": "40K",
+      "description": "awesome-cursorrules — Cursor-ის `.cursorrules` ფაილების კანონიკური კრებული სხვადასხვა ენისა და framework-ისთვის. AI coding agent-ის ქცევის კონფიგურაცია მზა რецептებით. 40,000+ ⭐.",
+      "starsNumeric": 40000,
+      "categorySlug": "plugins",
+      "categoryEmoji": "⚡",
+      "categoryGeorgian": "Claude Code პლაგინები და უნარები",
+      "descriptionEn": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors"
+    },
+    {
+      "name": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "stars": "38K",
+      "description": "wshobson/agents — 80+ production-ready Claude Code subagent სპეციალიზებული როლებით (backend, frontend, security, data, SRE და სხვ.). მზა subagent-ები პირდაპირ ჩასაგდებად. 38,000+ ⭐.",
+      "starsNumeric": 38000,
+      "categorySlug": "plugins",
+      "categoryEmoji": "⚡",
+      "categoryGeorgian": "Claude Code პლაგინები და უნარები",
+      "descriptionEn": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI"
+    },
+    {
       "name": "Oh My ClaudeCode",
       "url": "https://github.com/yeachan-heo/oh-my-claudecode",
       "stars": "37K",
@@ -493,6 +581,17 @@
       "categoryEmoji": "⚡",
       "categoryGeorgian": "Claude Code პლაგინები და უნარები",
       "descriptionEn": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI."
+    },
+    {
+      "name": "awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "stars": "36K",
+      "description": "awesome-copilot — GitHub-ის ოფიციალური კრებული Copilot-ის customization-ებისა: custom instructions, prompt files, chat modes. cross-agent config staple. 36,000+ ⭐.",
+      "starsNumeric": 36000,
+      "categorySlug": "plugins",
+      "categoryEmoji": "⚡",
+      "categoryGeorgian": "Claude Code პლაგინები და უნარები",
+      "descriptionEn": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
     },
     {
       "name": "Academic Research Skills",
@@ -638,6 +737,17 @@
       "descriptionEn": "Virtual whiteboard for sketching hand-drawn like diagrams"
     },
     {
+      "name": "shadcn/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "stars": "119K",
+      "description": "shadcn/ui — copy-paste კომპონენტების და დიზაინ-სისტემის დისტრიბუციის პლატფორმა, რომელსაც v0, Claude და AI UI-გენერატორების უმეტესობა default-ად აგენერირებს. ღია კოდი, ღია კომპონენტები, ნებისმიერ framework-თან. 118,000+ ვარსკვლავი — AI-გენერირებული ინტერფეისების de-facto output ფენა.",
+      "starsNumeric": 119000,
+      "categorySlug": "design",
+      "categoryEmoji": "🎨",
+      "categoryGeorgian": "დიზაინი და UI",
+      "descriptionEn": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+    },
+    {
       "name": "Mermaid",
       "url": "https://github.com/mermaid-js/mermaid",
       "stars": "89K",
@@ -669,6 +779,17 @@
       "categoryEmoji": "🎨",
       "categoryGeorgian": "დიზაინი და UI",
       "descriptionEn": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI."
+    },
+    {
+      "name": "screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "stars": "73K",
+      "description": "screenshot-to-code — ჩააგდებ screenshot-ს, mockup-ს ან Figma frame-ს და LLM მას სუფთა კოდად აქცევს (HTML/Tailwind/React/Vue). design-to-code-ის კანონიკური პროექტი. 73,000+ ⭐.",
+      "starsNumeric": 73000,
+      "categorySlug": "design",
+      "categoryEmoji": "🎨",
+      "categoryGeorgian": "დიზაინი და UI",
+      "descriptionEn": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
     },
     {
       "name": "tldraw",
@@ -869,6 +990,17 @@
       "descriptionEn": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors"
     },
     {
+      "name": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "stars": "46K",
+      "description": "chrome-devtools-mcp — Chrome DevTools-ის ოფიციალური MCP სერვერი: AI აგენტს აძლევს ბრაუზერის კონტროლს, network და console ინსპექციას, performance-ტრეისებს. 46,000+ ⭐.",
+      "starsNumeric": 46000,
+      "categorySlug": "mcp",
+      "categoryEmoji": "🔌",
+      "categoryGeorgian": "MCP ინტეგრაციები",
+      "descriptionEn": "Chrome DevTools for coding agents"
+    },
+    {
       "name": "GitHub MCP",
       "url": "https://github.com/github/github-mcp-server",
       "stars": "31K",
@@ -900,6 +1032,17 @@
       "categoryEmoji": "🔌",
       "categoryGeorgian": "MCP ინტეგრაციები",
       "descriptionEn": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent"
+    },
+    {
+      "name": "A2A",
+      "url": "https://github.com/a2aproject/A2A",
+      "stars": "25K",
+      "description": "A2A (Agent2Agent) — Google-ის ღია პროტოკოლი აგენტებს შორის ურთიერთქმედებისთვის: სხვადასხვა framework-ზე აგებული აგენტები ერთმანეთს აღმოაჩენენ და თანამშრომლობენ. MCP-ის დამატებითი, აგენტ-აგენტ ფენა. 25,000+ ⭐.",
+      "starsNumeric": 25000,
+      "categorySlug": "mcp",
+      "categoryEmoji": "🔌",
+      "categoryGeorgian": "MCP ინტეგრაციები",
+      "descriptionEn": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications."
     },
     {
       "name": "n8n-MCP",
@@ -1221,6 +1364,28 @@
       "descriptionEn": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots."
     },
     {
+      "name": "Agent-S",
+      "url": "https://github.com/simular-ai/Agent-S",
+      "stars": "12K",
+      "description": "Agent-S — ღია computer-use agent framework: აგენტი კომპიუტერს იყენებს ადამიანივით — ხედავს ეკრანს, აჭერს, წერს — GUI-ს ვიზუალურ დაფუძნებით. 12,000+ ⭐.",
+      "starsNumeric": 12000,
+      "categorySlug": "scraping",
+      "categoryEmoji": "🕷️",
+      "categoryGeorgian": "ვებ სკრეიპინგი და ბრაუზერი",
+      "descriptionEn": "Agent S: an open agentic framework that uses computers like a human"
+    },
+    {
+      "name": "UI-TARS",
+      "url": "https://github.com/bytedance/UI-TARS",
+      "stars": "11K",
+      "description": "UI-TARS — ByteDance-ის native GUI-agent vision მოდელი: ეკრანის სქრიншოтს პირდაპირ მოქმედებად აქცევს (computer-use), ცალკე parsing-ის გარეშე. 11,000+ ⭐.",
+      "starsNumeric": 11000,
+      "categorySlug": "scraping",
+      "categoryEmoji": "🕷️",
+      "categoryGeorgian": "ვებ სკრეიპინგი და ბრაუზერი",
+      "descriptionEn": "Pioneering Automated GUI Interaction with Native Agents"
+    },
+    {
       "name": "Firecrawl MCP Server",
       "url": "https://github.com/firecrawl/firecrawl-mcp-server",
       "stars": "6.7K",
@@ -1285,6 +1450,17 @@
       "categoryEmoji": "🧬",
       "categoryGeorgian": "AI აგენტების ფრეიმვორკები",
       "descriptionEn": "The agent engineering platform"
+    },
+    {
+      "name": "DeerFlow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "stars": "77K",
+      "description": "DeerFlow — ByteDance-ის ღია long-horizon „SuperAgent\" harness, რომელიც sandbox-ებით, მეხსიერებით, tool-ებით, skill-ებითა და subagent-ებით იკვლევს, წერს კოდს და ქმნის. ერთ-ერთი ყველაზე მაღალ-ვარსკვლავიანი agent harness GitHub-ზე. 77,000+ ⭐.",
+      "starsNumeric": 77000,
+      "categorySlug": "frameworks",
+      "categoryEmoji": "🧬",
+      "categoryGeorgian": "AI აგენტების ფრეიმვორკები",
+      "descriptionEn": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
     },
     {
       "name": "MetaGPT",
@@ -1452,6 +1628,17 @@
       "descriptionEn": "A lightweight, powerful framework for multi-agent workflows"
     },
     {
+      "name": "deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "stars": "26K",
+      "description": "deepagents — LangChain-ის „deep agents\" framework: გრძელ, მრავალ-ნაბიჯიან ამოცანებზე მომუშავე აგენტები დაგეგმვის, subagent-ებისა და file-system-ის ინსტრუმენტებით. 26,000+ ⭐.",
+      "starsNumeric": 26000,
+      "categorySlug": "frameworks",
+      "categoryEmoji": "🧬",
+      "categoryGeorgian": "AI აგენტების ფრეიმვორკები",
+      "descriptionEn": "The batteries-included agent harness."
+    },
+    {
       "name": "Vercel AI SDK",
       "url": "https://github.com/vercel/ai",
       "stars": "25K",
@@ -1496,6 +1683,17 @@
       "descriptionEn": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
     },
     {
+      "name": "Generative Agents",
+      "url": "https://github.com/joonspk-research/generative_agents",
+      "stars": "22K",
+      "description": "Generative Agents — Stanford-ის landmark კვლევა („Smallville\"): 25 AI აგენტი ცხოვრობს ვირტუალურ ქალაქში, ინახავს მოგონებებს, გეგმავს და ურთიერთობს ადამიანივით. multi-agent სიმულაციის საფუძველი. 22,000+ ⭐.",
+      "starsNumeric": 22000,
+      "categorySlug": "frameworks",
+      "categoryEmoji": "🧬",
+      "categoryGeorgian": "AI აგენტების ფრეიმვორკები",
+      "descriptionEn": "Generative Agents: Interactive Simulacra of Human Behavior"
+    },
+    {
       "name": "Pydantic AI",
       "url": "https://github.com/pydantic/pydantic-ai",
       "stars": "18K",
@@ -1505,6 +1703,28 @@
       "categoryEmoji": "🧬",
       "categoryGeorgian": "AI აგენტების ფრეიმვორკები",
       "descriptionEn": "AI Agent Framework, the Pydantic way"
+    },
+    {
+      "name": "Agent Zero",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "stars": "18K",
+      "description": "Agent Zero — პერსონალური, ორგანულად მზარდი agent framework: არა წინასწარ განსაზღვრული, არამედ სწავლადი და self-improving; კომპიუტერს იყენებს ინსტრუმენტად. 18,000+ ⭐.",
+      "starsNumeric": 18000,
+      "categorySlug": "frameworks",
+      "categoryEmoji": "🧬",
+      "categoryGeorgian": "AI აგენტების ფრეიმვორკები",
+      "descriptionEn": "Agent Zero AI framework"
+    },
+    {
+      "name": "SuperAGI",
+      "url": "https://github.com/TransformerOptimus/SuperAGI",
+      "stars": "18K",
+      "description": "SuperAGI — dev-first ღია ავტონომიური agent პლატფორმა: აგენტების აგება, გაშვება და მართვა GUI-ით, tool-ებით, concurrent agent-ებითა და telemetry-ით. 18,000+ ⭐.",
+      "starsNumeric": 18000,
+      "categorySlug": "frameworks",
+      "categoryEmoji": "🧬",
+      "categoryGeorgian": "AI აგენტების ფრეიმვორკები",
+      "descriptionEn": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably."
     },
     {
       "name": "Pipecat",
@@ -1771,6 +1991,17 @@
       "descriptionEn": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active."
     },
     {
+      "name": "Strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars": "40K",
+      "description": "Strix — ღია ავტონომიური AI აგენტები, რომლებიც აპლიკაციებს რეალური ჰაკერივით ამოწმებენ (dynamic security testing) და ნამდვილ დაუცველობებს პოულობენ false-positive-ების გარეშე. 40,000+ ⭐ (მხოლოდ ავტორიზებული testing-ისთვის).",
+      "starsNumeric": 40000,
+      "categorySlug": "business",
+      "categoryEmoji": "💼",
+      "categoryGeorgian": "AI ასისტენტები და ბიზნეს-აგენტები",
+      "descriptionEn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
       "name": "Khoj",
       "url": "https://github.com/khoj-ai/khoj",
       "stars": "35K",
@@ -1870,6 +2101,17 @@
       "descriptionEn": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
     },
     {
+      "name": "Meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "stars": "22K",
+      "description": "Meetily — privacy-first AI meeting assistant: ლოკალური, რეალურ-დროიანი transcription (Parakeet/Whisper), speaker diarization და Ollama-ზე summarization. 100% ლოკალური, cloud-ის გარეშე. 22,000+ ⭐.",
+      "starsNumeric": 22000,
+      "categorySlug": "business",
+      "categoryEmoji": "💼",
+      "categoryGeorgian": "AI ასისტენტები და ბიზნეს-აგენტები",
+      "descriptionEn": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  "
+    },
+    {
       "name": "NemoClaw",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "stars": "21K",
@@ -1901,6 +2143,50 @@
       "categoryEmoji": "💼",
       "categoryGeorgian": "AI ასისტენტები და ბიზნეს-აგენტები",
       "descriptionEn": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    },
+    {
+      "name": "Tongyi DeepResearch",
+      "url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "stars": "20K",
+      "description": "Tongyi DeepResearch — Alibaba-ს ავტონომიური deep-research აგენტი: რთულ კითხვას მრავალ-ნაბიჯიანი ვებ-ძებნითა და მსჯელობით პასუხობს, გამყარებული ანგარიშით. 20,000+ ⭐.",
+      "starsNumeric": 20000,
+      "categorySlug": "business",
+      "categoryEmoji": "💼",
+      "categoryGeorgian": "AI ასისტენტები და ბიზნეს-აგენტები",
+      "descriptionEn": "Tongyi Deep Research, the Leading Open-source Deep Research Agent"
+    },
+    {
+      "name": "DB-GPT",
+      "url": "https://github.com/eosphoros-ai/DB-GPT",
+      "stars": "19K",
+      "description": "DB-GPT — data/SQL agent framework: ბუნებრივი ენით ესაუბრები ბაზას, ის კი query-ებს წერს, აანალიზებს და BI-ს აკეთებს privacy-first, ლოკალურ გარემოში. 19,000+ ⭐.",
+      "starsNumeric": 19000,
+      "categorySlug": "business",
+      "categoryEmoji": "💼",
+      "categoryGeorgian": "AI ასისტენტები და ბიზნეს-აგენტები",
+      "descriptionEn": "open-source agentic AI data assistant for the next generation of AI + Data products."
+    },
+    {
+      "name": "PentAGI",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "stars": "19K",
+      "description": "PentAGI — სრულად ავტონომიური AI აგენტი penetration testing-ისთვის: თავად გეგმავს და ატარებს უსაფრთხოების ტესტებს იზოლირებულ გარემოში. 19,000+ ⭐ (მხოლოდ ავტორიზებული testing-ისთვის).",
+      "starsNumeric": 19000,
+      "categorySlug": "business",
+      "categoryEmoji": "💼",
+      "categoryGeorgian": "AI ასისტენტები და ბიზნეს-აგენტები",
+      "descriptionEn": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "name": "WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "stars": "16K",
+      "description": "WrenAI — GenBI / text-to-SQL აგენტი: ბუნებრივი ენის კითხვას ზუსტ SQL-ად, ჩარტებად და insight-ებად აქცევს ბიზნეს-ანალიტიკისთვის. 16,000+ ⭐.",
+      "starsNumeric": 16000,
+      "categorySlug": "business",
+      "categoryEmoji": "💼",
+      "categoryGeorgian": "AI ასისტენტები და ბიზნეს-აგენტები",
+      "descriptionEn": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more."
     },
     {
       "name": "Rowboat",
@@ -1956,6 +2242,17 @@
       "categoryEmoji": "💰",
       "categoryGeorgian": "ფინანსური AI",
       "descriptionEn": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "stars": "70K",
+      "description": "OpenBB — ღია data platform ანალიტიკოსების, quant-ებისა და AI აგენტებისთვის; ღია Bloomberg-Terminal ალტერნატივა, ახლა AI-agent workspace-ითაც. 70,000+ ⭐ — ღია ფინანსური მონაცემების de-facto სტანდარტი.",
+      "starsNumeric": 70000,
+      "categorySlug": "finance",
+      "categoryEmoji": "💰",
+      "categoryGeorgian": "ფინანსური AI",
+      "descriptionEn": "Open Data Platform for analysts, quants and AI agents."
     },
     {
       "name": "AI Hedge Fund",
@@ -2132,6 +2429,17 @@
       "categoryEmoji": "🧠",
       "categoryGeorgian": "მეხსიერება, RAG და Vector DB",
       "descriptionEn": "Build Real-Time Knowledge Graphs for AI Agents"
+    },
+    {
+      "name": "cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "stars": "27K",
+      "description": "cognee — AI აგენტების მეხსიერება knowledge-graph-ითა და semantic layer-ით: მონაცემებს (ტექსტი, კოდი, დოკუმენტები) დააკავშირებს და მდგრად, გამოთხოვად მეხსიერებად აქცევს. 27,000+ ⭐.",
+      "starsNumeric": 27000,
+      "categorySlug": "memory",
+      "categoryEmoji": "🧠",
+      "categoryGeorgian": "მეხსიერება, RAG და Vector DB",
+      "descriptionEn": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine."
     },
     {
       "name": "Letta",
@@ -2332,6 +2640,28 @@
       "descriptionEn": "The Context Optimization Layer for LLM Applications"
     },
     {
+      "name": "new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "stars": "42K",
+      "description": "new-api — LLM gateway/proxy: ბევრი provider ერთ OpenAI-თავსებად endpoint-ს უკან, გამოყენების აღრიცხვით, key-მართვითა და ხარჯის კონტროლით. one-api-ის აქტიური fork. 42,000+ ⭐.",
+      "starsNumeric": 42000,
+      "categorySlug": "tokens",
+      "categoryEmoji": "💸",
+      "categoryGeorgian": "ტოკენების დაზოგვა და ხარჯი",
+      "descriptionEn": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥"
+    },
+    {
+      "name": "one-api",
+      "url": "https://github.com/songquanpeng/one-api",
+      "stars": "36K",
+      "description": "one-api — LLM API gateway: OpenAI, Anthropic, Gemini, Azure და სხვა ერთ ინტერფეისში, key-distribution-ითა და billing-ით. new-api-ის წინამორბედი. 36,000+ ⭐.",
+      "starsNumeric": 36000,
+      "categorySlug": "tokens",
+      "categoryEmoji": "💸",
+      "categoryGeorgian": "ტოკენების დაზოგვა და ხარჯი",
+      "descriptionEn": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI."
+    },
+    {
       "name": "toon",
       "url": "https://github.com/toon-format/toon",
       "stars": "25K",
@@ -2418,6 +2748,17 @@
       "categoryEmoji": "⚙️",
       "categoryGeorgian": "ინფერენსი და LLM ხელსაწყოები",
       "descriptionEn": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+    },
+    {
+      "name": "Daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "stars": "72K",
+      "description": "Daytona — უსაფრთხო, ელასტიური infrastructure AI-გენერირებული კოდის გასაშვებად: აგენტებისთვის იზოლირებული, მყისიერი dev-გარემოები და sandbox-ები. 72,000+ ვარსკვლავი — agent runtime-ების ერთ-ერთი flagship.",
+      "starsNumeric": 72000,
+      "categorySlug": "infra",
+      "categoryEmoji": "⚙️",
+      "categoryGeorgian": "ინფერენსი და LLM ხელსაწყოები",
+      "descriptionEn": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
     },
     {
       "name": "Unsloth",
@@ -2552,6 +2893,17 @@
       "descriptionEn": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw."
     },
     {
+      "name": "E2B",
+      "url": "https://github.com/e2b-dev/E2B",
+      "stars": "13K",
+      "description": "E2B — code-interpreting sandbox AI აგენტებისთვის: აგენტების გენერირებული კოდი უსაფრთხო, იზოლირებულ cloud-გარემოში ეშვება, მილიწამებში სტარტით. 13,000+ ⭐.",
+      "starsNumeric": 13000,
+      "categorySlug": "infra",
+      "categoryEmoji": "⚙️",
+      "categoryGeorgian": "ინფერენსი და LLM ხელსაწყოები",
+      "descriptionEn": "Open-source, secure environment with real-world tools for enterprise-grade agents."
+    },
+    {
       "name": "Arize Phoenix",
       "url": "https://github.com/Arize-ai/phoenix",
       "stars": "10K",
@@ -2583,6 +2935,17 @@
       "categoryEmoji": "⚙️",
       "categoryGeorgian": "ინფერენსი და LLM ხელსაწყოები",
       "descriptionEn": "Security scanner for AI agent skills — detects prompt injection, data exfiltration and supply-chain risks before install."
+    },
+    {
+      "name": "Stable Diffusion WebUI",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "stars": "164K",
+      "description": "Stable Diffusion WebUI — Stable Diffusion-ის კანონიკური, ბრაუზერში მომუშავე ინტერფეისი (Gradio-ზე). txt2img, img2img, inpainting, extensions და უამრავი მოდელი ერთ UI-ში. 164,000+ ვარსკვლავი — ღია image-generation-ის ერთ-ერთი ყველაზე გავრცელებული ხელსაწყო.",
+      "starsNumeric": 164000,
+      "categorySlug": "media",
+      "categoryEmoji": "🎬",
+      "categoryGeorgian": "მედია-გენერაცია",
+      "descriptionEn": "Stable Diffusion web UI"
     },
     {
       "name": "ComfyUI",
@@ -2849,6 +3212,17 @@
       "descriptionEn": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
     },
     {
+      "name": "Awesome LLM Apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": "117K",
+      "description": "Awesome LLM Apps — 100+ გაშვებადი AI agent და RAG აპლიკაცია სრული კოდით: clone, customize, ship. GitHub-ის ერთ-ერთი ყველაზე სწრაფად მზარდი AI სასწავლო რეპო — პრაქტიკული მაგალითები frontier მოდელებზე. 117,000+ ვარსკვლავი.",
+      "starsNumeric": 117000,
+      "categorySlug": "resources",
+      "categoryEmoji": "📚",
+      "categoryGeorgian": "რესურსები და სასწავლო მასალები",
+      "descriptionEn": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
       "name": "LLMs from Scratch",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "stars": "98K",
@@ -2858,6 +3232,17 @@
       "categoryEmoji": "📚",
       "categoryGeorgian": "რესურსები და სასწავლო მასალები",
       "descriptionEn": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+    },
+    {
+      "name": "Awesome MCP Servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": "91K",
+      "description": "Awesome MCP Servers — MCP სერვერების კანონიკური, ~90K-ვარსკვლავიანი catalog: ათასობით tool და connector აგენტებისთვის (ბაზები, dev-ხელსაწყოები, სერვისები). MCP ეკოსისტემის მთავარი discovery-რესურსი.",
+      "starsNumeric": 91000,
+      "categorySlug": "resources",
+      "categoryEmoji": "📚",
+      "categoryGeorgian": "რესურსები და სასწავლო მასალები",
+      "descriptionEn": "A collection of MCP servers."
     },
     {
       "name": "AutoResearch",

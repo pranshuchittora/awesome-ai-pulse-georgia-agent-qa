@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T22:14:00.693Z",
+  "generated": "2026-07-09T22:15:44.532Z",
   "categories": [
     {
       "id": "coding",
@@ -97,6 +97,15 @@
       "stars": 180000
     },
     {
+      "id": "claude-code-2",
+      "label": "Claude Code",
+      "category": "coding",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code — Anthropic-ის ოფიციალური agentic coding tool, რომელიც პირდაპირ ტერმინალში ცხოვრობს, შენს კოდბაზას ესმის და ბუნებრივი ენის ბრძანებებით რუტინულ ამოცანებს თავად ასრულებს. ამ მთელი კოლექციის სახელობითი ცენტრი — პლაგინების, skill-ებისა და MCP სერვერების უმეტესობა სწორედ Claude Code-ის ეკოსისტემისთვისაა. 137,000+ ვარსკვლავი.",
+      "descEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 137000
+    },
+    {
       "id": "gemini-cli",
       "label": "Gemini CLI",
       "category": "coding",
@@ -187,6 +196,15 @@
       "stars": 50000
     },
     {
+      "id": "claude-code-router",
+      "label": "claude-code-router",
+      "category": "coding",
+      "url": "https://github.com/musistudio/claude-code-router",
+      "desc": "claude-code-router — Claude Code-ს ნებისმიერ მოდელზე გადაამისამართებს (DeepSeek, Qwen, Gemini, ლოკალური), request-ებს routing-ითა და transform-ით მართავს. ხარჯის დაზოგვა და მოდელის არჩევის მოქნილობა. 36,000+ ⭐.",
+      "descEn": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+      "stars": 36000
+    },
+    {
       "id": "tabby",
       "label": "Tabby",
       "category": "coding",
@@ -203,6 +221,15 @@
       "desc": "Continue ღია კოდის AI კოდირების გაფართოებაა VS Code-ისა და JetBrains-ისთვის. ნებისმიერი AI მოდელი — Claude, GPT, Gemini, Mistral, Ollama ლოკალური მოდელები — ერთ ინტერფეისში. chat, autocomplete, edit და agent რეჟიმები, CI-ში ჩართვადი AI checks. TypeScript-ში დაწერილია, სრულად კონფიგურირებადი, 33,000+ ვარსკვლავი. გამოწერა არ სჭირდება — Copilot-ის უფასო ალტერნატივა.",
       "descEn": "⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI",
       "stars": 35000
+    },
+    {
+      "id": "gpt-pilot",
+      "label": "GPT Pilot",
+      "category": "coding",
+      "url": "https://github.com/Pythagora-io/gpt-pilot",
+      "desc": "GPT Pilot — AI dev, რომელიც მთელ აპს წერს zero-დან: აანალიზებს მოთხოვნებს, წერს კოდს, უშვებს, debug-ს აკეთებს და ადამიანს მხოლოდ საკვანძო წერტილებში ეკითხება. Pythagora-ს პროექტი. 34,000+ ⭐.",
+      "descEn": "The first real AI developer",
+      "stars": 34000
     },
     {
       "id": "void",
@@ -284,6 +311,24 @@
       "desc": "cmux Ghostty-ს საფუძველზე აშენებული macOS terminal emulator-ია, სპეციალურად AI coding agent-ებისთვის ოპტიმიზებული. ვერტიკალური tabs, push notifications და პარალელური სესიების მარტივი მართვა — თუ ერთდროულად რამდენიმე AI agent-ს ამუშავებ (Claude Code + Codex + opencode), ეს terminal-ი სამართავს გამარტივებს. Swift-ში დაწერილია, macOS-only.",
       "descEn": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "stars": 23000
+    },
+    {
+      "id": "devika",
+      "label": "Devika",
+      "category": "coding",
+      "url": "https://github.com/stitionai/devika",
+      "desc": "Devika — ღია AI software engineer: მაღალ-დონის დავალებას ანაწილებს, იკვლევს, წერს კოდს რამდენიმე ენაზე. Devin-ის ღია ალტერნატივა. 20,000+ ⭐.",
+      "descEn": "Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.",
+      "stars": 20000
+    },
+    {
+      "id": "avante-nvim",
+      "label": "avante.nvim",
+      "category": "coding",
+      "url": "https://github.com/yetone/avante.nvim",
+      "desc": "avante.nvim — Cursor-ის მაგვარი AI-ასისტენტი Neovim-ში: inline edit, agentic ცვლილებები და code-suggestions პირდაპირ რედაქტორში. 18,000+ ⭐.",
+      "descEn": "Use your Neovim like using Cursor AI IDE!",
+      "stars": 18000
     },
     {
       "id": "oh-my-pi",
@@ -376,6 +421,33 @@
       "stars": 150000
     },
     {
+      "id": "bmad-method",
+      "label": "BMAD-METHOD",
+      "category": "plugins",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "desc": "BMAD-METHOD — universal agentic agile-development method: სპეციალიზებული AI აგენტები (analyst, PM, architect, dev, QA) სტრუქტურირებულ workflow-ში მართავენ პროექტს იდეიდან კოდამდე. Claude Code/Cursor/Gemini-თან თავსებადი. 50,000+ ⭐.",
+      "descEn": "Breakthrough Method for Agile Ai Driven Development",
+      "stars": 50000
+    },
+    {
+      "id": "awesome-cursorrules",
+      "label": "awesome-cursorrules",
+      "category": "plugins",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "desc": "awesome-cursorrules — Cursor-ის `.cursorrules` ფაილების კანონიკური კრებული სხვადასხვა ენისა და framework-ისთვის. AI coding agent-ის ქცევის კონფიგურაცია მზა რецептებით. 40,000+ ⭐.",
+      "descEn": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+      "stars": 40000
+    },
+    {
+      "id": "agents",
+      "label": "wshobson/agents",
+      "category": "plugins",
+      "url": "https://github.com/wshobson/agents",
+      "desc": "wshobson/agents — 80+ production-ready Claude Code subagent სპეციალიზებული როლებით (backend, frontend, security, data, SRE და სხვ.). მზა subagent-ები პირდაპირ ჩასაგდებად. 38,000+ ⭐.",
+      "descEn": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+      "stars": 38000
+    },
+    {
       "id": "oh-my-claudecode",
       "label": "Oh My ClaudeCode",
       "category": "plugins",
@@ -392,6 +464,15 @@
       "desc": "Obsidian Skills Obsidian-ის CEO-ს, Steph Ango-ს (kepano) მიერ შექმნილი agent skills პაკეტია. AI coding agent-ებს ასწავლის Obsidian-ის Markdown ფორმატს, Bases მონაცემთა სტრუქტურას, JSON Canvas-ს და CLI-ს. Claude Code, Codex ან ნებისმიერი MCP-თავსებადი agent Obsidian vault-ში ფაილების შექმნას, ძიებასა და რედაქტირებას შეძლებს. Obsidian-ს იყენებ ცოდნის ბაზად? ეს skill-ი AI-ს ამ ბაზაში მუშაობის ექსპერტად აქცევს.",
       "descEn": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
       "stars": 39000
+    },
+    {
+      "id": "awesome-copilot",
+      "label": "awesome-copilot",
+      "category": "plugins",
+      "url": "https://github.com/github/awesome-copilot",
+      "desc": "awesome-copilot — GitHub-ის ოფიციალური კრებული Copilot-ის customization-ებისა: custom instructions, prompt files, chat modes. cross-agent config staple. 36,000+ ⭐.",
+      "descEn": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "stars": 36000
     },
     {
       "id": "academic-research-skills",
@@ -511,6 +592,15 @@
       "stars": 126000
     },
     {
+      "id": "ui",
+      "label": "shadcn/ui",
+      "category": "design",
+      "url": "https://github.com/shadcn-ui/ui",
+      "desc": "shadcn/ui — copy-paste კომპონენტების და დიზაინ-სისტემის დისტრიბუციის პლატფორმა, რომელსაც v0, Claude და AI UI-გენერატორების უმეტესობა default-ად აგენერირებს. ღია კოდი, ღია კომპონენტები, ნებისმიერ framework-თან. 118,000+ ვარსკვლავი — AI-გენერირებული ინტერფეისების de-facto output ფენა.",
+      "descEn": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "stars": 119000
+    },
+    {
       "id": "mermaid",
       "label": "Mermaid",
       "category": "design",
@@ -536,6 +626,15 @@
       "desc": "Awesome DESIGN.md — 55-ზე მეტი Markdown ფაილის კოლექცია, პოპულარური brand design systems-ის (Stripe, Google, Apple, Linear) სტილის მიხედვით შექმნილი. DESIGN.md ფაილი პროექტში ჩასვი და Claude Code-ს, Cursor-ს ან სხვა coding agent-ს უთხარი — UI ავტომატურად შენი brand-ის სტილში გენერირდება. VoltAgent-ის მიერ, 2026 წლის მარტიდან. ვიზუალური კოდ-გენერაციის სამუშაო პროცესებში — ყველაზე სწრაფი გზა brand-consistent UI-სკენ კოდის ხელით წერის გარეშე.",
       "descEn": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "stars": 94000
+    },
+    {
+      "id": "screenshot-to-code",
+      "label": "screenshot-to-code",
+      "category": "design",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "desc": "screenshot-to-code — ჩააგდებ screenshot-ს, mockup-ს ან Figma frame-ს და LLM მას სუფთა კოდად აქცევს (HTML/Tailwind/React/Vue). design-to-code-ის კანონიკური პროექტი. 73,000+ ⭐.",
+      "descEn": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "stars": 73000
     },
     {
       "id": "tldraw",
@@ -700,6 +799,15 @@
       "stars": 58000
     },
     {
+      "id": "chrome-devtools-mcp",
+      "label": "chrome-devtools-mcp",
+      "category": "mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "chrome-devtools-mcp — Chrome DevTools-ის ოფიციალური MCP სერვერი: AI აგენტს აძლევს ბრაუზერის კონტროლს, network და console ინსპექციას, performance-ტრეისებს. 46,000+ ⭐.",
+      "descEn": "Chrome DevTools for coding agents",
+      "stars": 46000
+    },
+    {
       "id": "github-mcp-server",
       "label": "GitHub MCP",
       "category": "mcp",
@@ -725,6 +833,15 @@
       "desc": "Serena coding agent-ებისთვის „IDE\"-ს ფუნქციებს MCP-ის სახით გამოფენს. Language Server Protocol-ს (LSP) იყენებს კოდის სემანტიკური გაგებისთვის — symbols, references, definitions პირდაპირ. AI ტექსტუალური grep-ის მაგივრად კოდს ნამდვილად „გებს\". Python-ში, 25,000+ ვარსკვლავი. Claude Code-ში, Cursor-ში ან ნებისმიერ MCP client-ში — Cursor-ის paid-ი ფუნქციების ღია ალტერნატივა.",
       "descEn": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
       "stars": 26000
+    },
+    {
+      "id": "a2a",
+      "label": "A2A",
+      "category": "mcp",
+      "url": "https://github.com/a2aproject/A2A",
+      "desc": "A2A (Agent2Agent) — Google-ის ღია პროტოკოლი აგენტებს შორის ურთიერთქმედებისთვის: სხვადასხვა framework-ზე აგებული აგენტები ერთმანეთს აღმოაჩენენ და თანამშრომლობენ. MCP-ის დამატებითი, აგენტ-აგენტ ფენა. 25,000+ ⭐.",
+      "descEn": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+      "stars": 25000
     },
     {
       "id": "n8n-mcp",
@@ -988,6 +1105,24 @@
       "stars": 12000
     },
     {
+      "id": "agent-s",
+      "label": "Agent-S",
+      "category": "scraping",
+      "url": "https://github.com/simular-ai/Agent-S",
+      "desc": "Agent-S — ღია computer-use agent framework: აგენტი კომპიუტერს იყენებს ადამიანივით — ხედავს ეკრანს, აჭერს, წერს — GUI-ს ვიზუალურ დაფუძნებით. 12,000+ ⭐.",
+      "descEn": "Agent S: an open agentic framework that uses computers like a human",
+      "stars": 12000
+    },
+    {
+      "id": "ui-tars",
+      "label": "UI-TARS",
+      "category": "scraping",
+      "url": "https://github.com/bytedance/UI-TARS",
+      "desc": "UI-TARS — ByteDance-ის native GUI-agent vision მოდელი: ეკრანის სქრიншოтს პირდაპირ მოქმედებად აქცევს (computer-use), ცალკე parsing-ის გარეშე. 11,000+ ⭐.",
+      "descEn": "Pioneering Automated GUI Interaction with Native Agents",
+      "stars": 11000
+    },
+    {
       "id": "firecrawl-mcp-server",
       "label": "Firecrawl MCP Server",
       "category": "scraping",
@@ -1040,6 +1175,15 @@
       "desc": "LangChain არის Python-ისა და JavaScript-ის ფრეიმვორკი LLM-ზე დაფუძნებული აპლიკაციებისა და AI აგენტების ასაშენებლად, Harrison Chase-მა 2022 წლის ოქტომბერში შექმნა. ის 700+ ინტეგრაციას, chains, agents, memory, document loaders და tools-ის პრიმიტივებს გვთავაზობს ერთ ეკოსისტემაში. LangGraph (გრაფ-დაფუძნებული ორკესტრაცია) და LangSmith (მონიტორინგი) LangChain-ის ეკოსისტემის ნაწილია. 139,000+ ვარსკვლავით ყველაზე ფართოდ გავრცელებული AI ფრეიმვორკია; ბევრი სხვა ფრეიმვორკი მის კონვენციებს მიჰყვება, თუმცა LangChain-ზე პირდაპირ არ არის დამოკიდებული.",
       "descEn": "The agent engineering platform",
       "stars": 140000
+    },
+    {
+      "id": "deer-flow",
+      "label": "DeerFlow",
+      "category": "frameworks",
+      "url": "https://github.com/bytedance/deer-flow",
+      "desc": "DeerFlow — ByteDance-ის ღია long-horizon „SuperAgent\" harness, რომელიც sandbox-ებით, მეხსიერებით, tool-ებით, skill-ებითა და subagent-ებით იკვლევს, წერს კოდს და ქმნის. ერთ-ერთი ყველაზე მაღალ-ვარსკვლავიანი agent harness GitHub-ზე. 77,000+ ⭐.",
+      "descEn": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 77000
     },
     {
       "id": "metagpt",
@@ -1177,6 +1321,15 @@
       "stars": 28000
     },
     {
+      "id": "deepagents",
+      "label": "deepagents",
+      "category": "frameworks",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "desc": "deepagents — LangChain-ის „deep agents\" framework: გრძელ, მრავალ-ნაბიჯიან ამოცანებზე მომუშავე აგენტები დაგეგმვის, subagent-ებისა და file-system-ის ინსტრუმენტებით. 26,000+ ⭐.",
+      "descEn": "The batteries-included agent harness.",
+      "stars": 26000
+    },
+    {
       "id": "ai-2",
       "label": "Vercel AI SDK",
       "category": "frameworks",
@@ -1213,12 +1366,39 @@
       "stars": 23000
     },
     {
+      "id": "generative-agents",
+      "label": "Generative Agents",
+      "category": "frameworks",
+      "url": "https://github.com/joonspk-research/generative_agents",
+      "desc": "Generative Agents — Stanford-ის landmark კვლევა („Smallville\"): 25 AI აგენტი ცხოვრობს ვირტუალურ ქალაქში, ინახავს მოგონებებს, გეგმავს და ურთიერთობს ადამიანივით. multi-agent სიმულაციის საფუძველი. 22,000+ ⭐.",
+      "descEn": "Generative Agents: Interactive Simulacra of Human Behavior",
+      "stars": 22000
+    },
+    {
       "id": "pydantic-ai",
       "label": "Pydantic AI",
       "category": "frameworks",
       "url": "https://github.com/pydantic/pydantic-ai",
       "desc": "Pydantic AI არის Pydantic-ის გუნდის Python ფრეიმვორკი AI აგენტებისთვის, რომელიც type safety-სა და validation-ს სტრუქტურის ცენტრში ათავსებს. Pydantic-ის ბევრი მოდელი (OpenAI SDK, Anthropic SDK, LangChain) უკვე Pydantic-ზეა დაშენებული — Pydantic AI ამ ეკოსისტემის ბუნებრივი გაგრძელებაა. dependency injection, structured outputs, multi-turn conversations, built-in monitoring (Pydantic Logfire) ჩაშენებულია. Python-ის type system-ის სრული გამოყენება agent-ების ვალიდაციასა და debugging-ს ბევრად ამარტივებს.",
       "descEn": "AI Agent Framework, the Pydantic way",
+      "stars": 18000
+    },
+    {
+      "id": "agent-zero",
+      "label": "Agent Zero",
+      "category": "frameworks",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "desc": "Agent Zero — პერსონალური, ორგანულად მზარდი agent framework: არა წინასწარ განსაზღვრული, არამედ სწავლადი და self-improving; კომპიუტერს იყენებს ინსტრუმენტად. 18,000+ ⭐.",
+      "descEn": "Agent Zero AI framework",
+      "stars": 18000
+    },
+    {
+      "id": "superagi",
+      "label": "SuperAGI",
+      "category": "frameworks",
+      "url": "https://github.com/TransformerOptimus/SuperAGI",
+      "desc": "SuperAGI — dev-first ღია ავტონომიური agent პლატფორმა: აგენტების აგება, გაშვება და მართვა GUI-ით, tool-ებით, concurrent agent-ებითა და telemetry-ით. 18,000+ ⭐.",
+      "descEn": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
       "stars": 18000
     },
     {
@@ -1438,6 +1618,15 @@
       "stars": 40000
     },
     {
+      "id": "strix",
+      "label": "Strix",
+      "category": "business",
+      "url": "https://github.com/usestrix/strix",
+      "desc": "Strix — ღია ავტონომიური AI აგენტები, რომლებიც აპლიკაციებს რეალური ჰაკერივით ამოწმებენ (dynamic security testing) და ნამდვილ დაუცველობებს პოულობენ false-positive-ების გარეშე. 40,000+ ⭐ (მხოლოდ ავტორიზებული testing-ისთვის).",
+      "descEn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 40000
+    },
+    {
       "id": "khoj",
       "label": "Khoj",
       "category": "business",
@@ -1519,6 +1708,15 @@
       "stars": 38000
     },
     {
+      "id": "meetily",
+      "label": "Meetily",
+      "category": "business",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "desc": "Meetily — privacy-first AI meeting assistant: ლოკალური, რეალურ-დროიანი transcription (Parakeet/Whisper), speaker diarization და Ollama-ზე summarization. 100% ლოკალური, cloud-ის გარეშე. 22,000+ ⭐.",
+      "descEn": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
+      "stars": 22000
+    },
+    {
       "id": "nemoclaw",
       "label": "NemoClaw",
       "category": "business",
@@ -1544,6 +1742,42 @@
       "desc": "QwenPaw — Alibaba-ს AgentScope გუნდის Python-ის პერსონალური AI ასისტენტი, რომელიც ლოკალურად ან ღრუბელში მსუბუქად დაყენდება და მრავალი chat აპლიკაციით ხელმისაწვდომი ხდება. easily extensible capabilities — plugin-ების ფართო ეკოსისტემა და Qwen მოდელებთან შერწყმა. Apache 2.0 ლიცენზია, 2026 წლის თებერვალში გამოიცა და უკვე 17,000+ ვარსკვლავი. ჩინური ეკოსისტემის OpenClaw-ის პასუხი, განსაკუთრებით ვინც Qwen მოდელებით მუშაობს.",
       "descEn": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
       "stars": 20000
+    },
+    {
+      "id": "deepresearch",
+      "label": "Tongyi DeepResearch",
+      "category": "business",
+      "url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "desc": "Tongyi DeepResearch — Alibaba-ს ავტონომიური deep-research აგენტი: რთულ კითხვას მრავალ-ნაბიჯიანი ვებ-ძებნითა და მსჯელობით პასუხობს, გამყარებული ანგარიშით. 20,000+ ⭐.",
+      "descEn": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+      "stars": 20000
+    },
+    {
+      "id": "db-gpt",
+      "label": "DB-GPT",
+      "category": "business",
+      "url": "https://github.com/eosphoros-ai/DB-GPT",
+      "desc": "DB-GPT — data/SQL agent framework: ბუნებრივი ენით ესაუბრები ბაზას, ის კი query-ებს წერს, აანალიზებს და BI-ს აკეთებს privacy-first, ლოკალურ გარემოში. 19,000+ ⭐.",
+      "descEn": "open-source agentic AI data assistant for the next generation of AI + Data products.",
+      "stars": 19000
+    },
+    {
+      "id": "pentagi",
+      "label": "PentAGI",
+      "category": "business",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "desc": "PentAGI — სრულად ავტონომიური AI აგენტი penetration testing-ისთვის: თავად გეგმავს და ატარებს უსაფრთხოების ტესტებს იზოლირებულ გარემოში. 19,000+ ⭐ (მხოლოდ ავტორიზებული testing-ისთვის).",
+      "descEn": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 19000
+    },
+    {
+      "id": "wrenai",
+      "label": "WrenAI",
+      "category": "business",
+      "url": "https://github.com/Canner/WrenAI",
+      "desc": "WrenAI — GenBI / text-to-SQL აგენტი: ბუნებრივი ენის კითხვას ზუსტ SQL-ად, ჩარტებად და insight-ებად აქცევს ბიზნეს-ანალიტიკისთვის. 16,000+ ⭐.",
+      "descEn": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "stars": 16000
     },
     {
       "id": "rowboat",
@@ -1589,6 +1823,15 @@
       "desc": "TradingAgents multi-agent სავაჭრო framework-ია, რომელიც რეალური სავაჭრო ფირმის სტრუქტურას ბაძავს — fundamental ანალიტიკოსი, sentiment ექსპერტი, technical ანალიტიკოსი, trader და risk manager აგენტები ერთად განიხილავენ ბაზრის მდგომარეობას და იღებენ გადაწყვეტილებებს. მრავალ LLM provider-ს (OpenAI, Google, Anthropic, DeepSeek) უჭერს მხარს, აქვს interactive CLI, backtesting, paper trading, Docker და checkpoint recovery. Python, Apache-2.0, v0.2.5 (2026 წლის 11 მაისი), 86,000+ ვარსკვლავი — TauricResearch-ის arXiv ნაშრომზე დაფუძნებული (კვლევითი ხელსაწყო, არა საინვესტიციო რჩევა). **ai-hedge-fund**-ისა და **FinceptTerminal**-ის მონათესავე, ოღონდ ფინანსური AI აგენტების ღია სამყაროს ყველაზე დიდი პროექტი.",
       "descEn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "stars": 90000
+    },
+    {
+      "id": "openbb",
+      "label": "OpenBB",
+      "category": "finance",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "desc": "OpenBB — ღია data platform ანალიტიკოსების, quant-ებისა და AI აგენტებისთვის; ღია Bloomberg-Terminal ალტერნატივა, ახლა AI-agent workspace-ითაც. 70,000+ ⭐ — ღია ფინანსური მონაცემების de-facto სტანდარტი.",
+      "descEn": "Open Data Platform for analysts, quants and AI agents.",
+      "stars": 70000
     },
     {
       "id": "ai-hedge-fund",
@@ -1733,6 +1976,15 @@
       "desc": "Graphiti — AI აგენტებისთვის შექმნილი real-time knowledge graph ძრავა, Zep AI-ს (YC W24) მიერ. სტანდარტული vector-based RAG-ისგან განსხვავებით, Graphiti ინახავს ფაქტების დროით კონტექსტს — ანუ იცის „როდის\" შეიცვალა ინფორმაცია. bi-temporal მოდელი event time-სა და ingestion time-ს ცალ-ცალკე ინახავს, entity-ებსა და relations-ს კი LLM ავტომატურად ამოიღებს ტექსტიდან. Neo4j ან FalkorDB backend-ზე ეშვება, native MCP integration-ით Claude Desktop-ში, Cursor-სა და Cline-ში გამოყენება შეიძლება.",
       "descEn": "Build Real-Time Knowledge Graphs for AI Agents",
       "stars": 28000
+    },
+    {
+      "id": "cognee",
+      "label": "cognee",
+      "category": "memory",
+      "url": "https://github.com/topoteretes/cognee",
+      "desc": "cognee — AI აგენტების მეხსიერება knowledge-graph-ითა და semantic layer-ით: მონაცემებს (ტექსტი, კოდი, დოკუმენტები) დააკავშირებს და მდგრად, გამოთხოვად მეხსიერებად აქცევს. 27,000+ ⭐.",
+      "descEn": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stars": 27000
     },
     {
       "id": "letta",
@@ -1897,6 +2149,24 @@
       "stars": 53000
     },
     {
+      "id": "new-api",
+      "label": "new-api",
+      "category": "tokens",
+      "url": "https://github.com/QuantumNous/new-api",
+      "desc": "new-api — LLM gateway/proxy: ბევრი provider ერთ OpenAI-თავსებად endpoint-ს უკან, გამოყენების აღრიცხვით, key-მართვითა და ხარჯის კონტროლით. one-api-ის აქტიური fork. 42,000+ ⭐.",
+      "descEn": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+      "stars": 42000
+    },
+    {
+      "id": "one-api",
+      "label": "one-api",
+      "category": "tokens",
+      "url": "https://github.com/songquanpeng/one-api",
+      "desc": "one-api — LLM API gateway: OpenAI, Anthropic, Gemini, Azure და სხვა ერთ ინტერფეისში, key-distribution-ითა და billing-ით. new-api-ის წინამორბედი. 36,000+ ⭐.",
+      "descEn": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+      "stars": 36000
+    },
+    {
       "id": "toon",
       "label": "toon",
       "category": "tokens",
@@ -1967,6 +2237,15 @@
       "desc": "vLLM — LLM-ების high-throughput inference-ისა და serving-ის ძრავა, Python-ში. PagedAttention ტექნოლოგია GPU მეხსიერებას ოპერაციული სისტემის paging-ის პრინციპით მართავს, რაც concurrent request-ების throughput-ს მნიშვნელოვნად ზრდის. OpenAI-compatible REST API ჩაშენებულია — production deployment-ისთვის ოპტიმიზებულია. UC Berkeley-ს Sky Lab-ში დაიბადა, ახლა independent project-ია. Google, Microsoft, Mistral AI, Cohere და სხვა კომპანიები production serving-ისთვის იყენებენ.",
       "descEn": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "stars": 85000
+    },
+    {
+      "id": "daytona",
+      "label": "Daytona",
+      "category": "infra",
+      "url": "https://github.com/daytonaio/daytona",
+      "desc": "Daytona — უსაფრთხო, ელასტიური infrastructure AI-გენერირებული კოდის გასაშვებად: აგენტებისთვის იზოლირებული, მყისიერი dev-გარემოები და sandbox-ები. 72,000+ ვარსკვლავი — agent runtime-ების ერთ-ერთი flagship.",
+      "descEn": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "stars": 72000
     },
     {
       "id": "unsloth",
@@ -2077,6 +2356,15 @@
       "stars": 17000
     },
     {
+      "id": "e2b",
+      "label": "E2B",
+      "category": "infra",
+      "url": "https://github.com/e2b-dev/E2B",
+      "desc": "E2B — code-interpreting sandbox AI აგენტებისთვის: აგენტების გენერირებული კოდი უსაფრთხო, იზოლირებულ cloud-გარემოში ეშვება, მილიწამებში სტარტით. 13,000+ ⭐.",
+      "descEn": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 13000
+    },
+    {
       "id": "phoenix",
       "label": "Arize Phoenix",
       "category": "infra",
@@ -2102,6 +2390,15 @@
       "desc": "SkillSpector — NVIDIA-ის უსაფრთხოების სკანერი AI agent skill-ებისთვის. ინსტალაციამდე ამოწმებს prompt injection-ს, data exfiltration-სა და supply-chain რისკებს — 64 pattern 16 კატეგორიაში, risk score და CI/CD ინტეგრაცია. skill-ების კოლექციის ბუნებრივი დამცველი.",
       "descEn": "Security scanner for AI agent skills — detects prompt injection, data exfiltration and supply-chain risks before install.",
       "stars": 11000
+    },
+    {
+      "id": "stable-diffusion-webui",
+      "label": "Stable Diffusion WebUI",
+      "category": "media",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "desc": "Stable Diffusion WebUI — Stable Diffusion-ის კანონიკური, ბრაუზერში მომუშავე ინტერფეისი (Gradio-ზე). txt2img, img2img, inpainting, extensions და უამრავი მოდელი ერთ UI-ში. 164,000+ ვარსკვლავი — ღია image-generation-ის ერთ-ერთი ყველაზე გავრცელებული ხელსაწყო.",
+      "descEn": "Stable Diffusion web UI",
+      "stars": 164000
     },
     {
       "id": "comfyui",
@@ -2320,6 +2617,15 @@
       "stars": 141000
     },
     {
+      "id": "awesome-llm-apps",
+      "label": "Awesome LLM Apps",
+      "category": "resources",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "Awesome LLM Apps — 100+ გაშვებადი AI agent და RAG აპლიკაცია სრული კოდით: clone, customize, ship. GitHub-ის ერთ-ერთი ყველაზე სწრაფად მზარდი AI სასწავლო რეპო — პრაქტიკული მაგალითები frontier მოდელებზე. 117,000+ ვარსკვლავი.",
+      "descEn": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 117000
+    },
+    {
       "id": "llms-from-scratch",
       "label": "LLMs from Scratch",
       "category": "resources",
@@ -2327,6 +2633,15 @@
       "desc": "LLMs from Scratch — Sebastian Raschka-ს (Lightning AI-ის მკვლევარი) წიგნის \"Build a Large Language Model (From Scratch)\" Jupyter Notebook კოლექცია. ChatGPT-ის მსგავსი LLM PyTorch-ში ნულიდან: attention mechanism, tokenization, pre-training, fine-tuning, RLHF — ყველა ეტაპი კოდით. Manning Publications-ის ბესტსელერი, ღია Jupyter notebooks-ით. AI-ის შიდა მექანიზმის გასაგებად ყველაზე სრული, პრაქტიკული სასწავლო კურსი — კვლევისა და საინჟინრო გაგებისთვის.",
       "descEn": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "stars": 98000
+    },
+    {
+      "id": "awesome-mcp-servers",
+      "label": "Awesome MCP Servers",
+      "category": "resources",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "desc": "Awesome MCP Servers — MCP სერვერების კანონიკური, ~90K-ვარსკვლავიანი catalog: ათასობით tool და connector აგენტებისთვის (ბაზები, dev-ხელსაწყოები, სერვისები). MCP ეკოსისტემის მთავარი discovery-რესურსი.",
+      "descEn": "A collection of MCP servers.",
+      "stars": 91000
     },
     {
       "id": "autoresearch",
@@ -2480,6 +2795,11 @@
       "type": "cluster"
     },
     {
+      "source": "claude-code-2",
+      "target": "claw-code",
+      "type": "cluster"
+    },
+    {
       "source": "gemini-cli",
       "target": "claw-code",
       "type": "cluster"
@@ -2530,12 +2850,22 @@
       "type": "cluster"
     },
     {
+      "source": "claude-code-router",
+      "target": "claw-code",
+      "type": "cluster"
+    },
+    {
       "source": "tabby",
       "target": "claw-code",
       "type": "cluster"
     },
     {
       "source": "continue",
+      "target": "claw-code",
+      "type": "cluster"
+    },
+    {
+      "source": "gpt-pilot",
       "target": "claw-code",
       "type": "cluster"
     },
@@ -2585,6 +2915,16 @@
       "type": "cluster"
     },
     {
+      "source": "devika",
+      "target": "claw-code",
+      "type": "cluster"
+    },
+    {
+      "source": "avante-nvim",
+      "target": "claw-code",
+      "type": "cluster"
+    },
+    {
       "source": "oh-my-pi",
       "target": "claw-code",
       "type": "cluster"
@@ -2630,12 +2970,32 @@
       "type": "cluster"
     },
     {
+      "source": "bmad-method",
+      "target": "superpowers",
+      "type": "cluster"
+    },
+    {
+      "source": "awesome-cursorrules",
+      "target": "superpowers",
+      "type": "cluster"
+    },
+    {
+      "source": "agents",
+      "target": "superpowers",
+      "type": "cluster"
+    },
+    {
       "source": "oh-my-claudecode",
       "target": "superpowers",
       "type": "cluster"
     },
     {
       "source": "obsidian-skills",
+      "target": "superpowers",
+      "type": "cluster"
+    },
+    {
+      "source": "awesome-copilot",
       "target": "superpowers",
       "type": "cluster"
     },
@@ -2700,6 +3060,11 @@
       "type": "cluster"
     },
     {
+      "source": "ui",
+      "target": "skills-2",
+      "type": "cluster"
+    },
+    {
       "source": "mermaid",
       "target": "skills-2",
       "type": "cluster"
@@ -2711,6 +3076,11 @@
     },
     {
       "source": "awesome-design-md",
+      "target": "skills-2",
+      "type": "cluster"
+    },
+    {
+      "source": "screenshot-to-code",
       "target": "skills-2",
       "type": "cluster"
     },
@@ -2800,6 +3170,11 @@
       "type": "cluster"
     },
     {
+      "source": "chrome-devtools-mcp",
+      "target": "servers",
+      "type": "cluster"
+    },
+    {
       "source": "github-mcp-server",
       "target": "servers",
       "type": "cluster"
@@ -2811,6 +3186,11 @@
     },
     {
       "source": "serena",
+      "target": "servers",
+      "type": "cluster"
+    },
+    {
+      "source": "a2a",
       "target": "servers",
       "type": "cluster"
     },
@@ -2955,6 +3335,16 @@
       "type": "cluster"
     },
     {
+      "source": "agent-s",
+      "target": "firecrawl",
+      "type": "cluster"
+    },
+    {
+      "source": "ui-tars",
+      "target": "firecrawl",
+      "type": "cluster"
+    },
+    {
       "source": "firecrawl-mcp-server",
       "target": "firecrawl",
       "type": "cluster"
@@ -2976,6 +3366,11 @@
     },
     {
       "source": "langchain",
+      "target": "autogpt",
+      "type": "cluster"
+    },
+    {
+      "source": "deer-flow",
       "target": "autogpt",
       "type": "cluster"
     },
@@ -3055,6 +3450,11 @@
       "type": "cluster"
     },
     {
+      "source": "deepagents",
+      "target": "autogpt",
+      "type": "cluster"
+    },
+    {
       "source": "ai-2",
       "target": "autogpt",
       "type": "cluster"
@@ -3075,7 +3475,22 @@
       "type": "cluster"
     },
     {
+      "source": "generative-agents",
+      "target": "autogpt",
+      "type": "cluster"
+    },
+    {
       "source": "pydantic-ai",
+      "target": "autogpt",
+      "type": "cluster"
+    },
+    {
+      "source": "agent-zero",
+      "target": "autogpt",
+      "type": "cluster"
+    },
+    {
+      "source": "superagi",
       "target": "autogpt",
       "type": "cluster"
     },
@@ -3190,6 +3605,11 @@
       "type": "cluster"
     },
     {
+      "source": "strix",
+      "target": "openclaw",
+      "type": "cluster"
+    },
+    {
       "source": "khoj",
       "target": "openclaw",
       "type": "cluster"
@@ -3235,6 +3655,11 @@
       "type": "cluster"
     },
     {
+      "source": "meetily",
+      "target": "openclaw",
+      "type": "cluster"
+    },
+    {
       "source": "nemoclaw",
       "target": "openclaw",
       "type": "cluster"
@@ -3246,6 +3671,26 @@
     },
     {
       "source": "qwenpaw",
+      "target": "openclaw",
+      "type": "cluster"
+    },
+    {
+      "source": "deepresearch",
+      "target": "openclaw",
+      "type": "cluster"
+    },
+    {
+      "source": "db-gpt",
+      "target": "openclaw",
+      "type": "cluster"
+    },
+    {
+      "source": "pentagi",
+      "target": "openclaw",
+      "type": "cluster"
+    },
+    {
+      "source": "wrenai",
       "target": "openclaw",
       "type": "cluster"
     },
@@ -3267,6 +3712,11 @@
     {
       "source": "agentic-inbox",
       "target": "openclaw",
+      "type": "cluster"
+    },
+    {
+      "source": "openbb",
+      "target": "tradingagents",
       "type": "cluster"
     },
     {
@@ -3341,6 +3791,11 @@
     },
     {
       "source": "graphiti",
+      "target": "ragflow",
+      "type": "cluster"
+    },
+    {
+      "source": "cognee",
       "target": "ragflow",
       "type": "cluster"
     },
@@ -3425,6 +3880,16 @@
       "type": "cluster"
     },
     {
+      "source": "new-api",
+      "target": "claude-mem",
+      "type": "cluster"
+    },
+    {
+      "source": "one-api",
+      "target": "claude-mem",
+      "type": "cluster"
+    },
+    {
       "source": "toon",
       "target": "claude-mem",
       "type": "cluster"
@@ -3456,6 +3921,11 @@
     },
     {
       "source": "vllm",
+      "target": "ollama",
+      "type": "cluster"
+    },
+    {
+      "source": "daytona",
       "target": "ollama",
       "type": "cluster"
     },
@@ -3520,6 +3990,11 @@
       "type": "cluster"
     },
     {
+      "source": "e2b",
+      "target": "ollama",
+      "type": "cluster"
+    },
+    {
       "source": "phoenix",
       "target": "ollama",
       "type": "cluster"
@@ -3535,103 +4010,108 @@
       "type": "cluster"
     },
     {
+      "source": "comfyui",
+      "target": "stable-diffusion-webui",
+      "type": "cluster"
+    },
+    {
       "source": "moneyprinterturbo",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "stable-diffusion",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "opencut",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "vibevoice",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "whisper-cpp",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "tts",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "bark",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "diffusers",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "openmontage",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "flux",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "pixelle-video",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "voxcpm",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "hunyuanvideo",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "hyperframes",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "supertonic",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "vimax",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "kokoro",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "realtimetts",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "video-use",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
       "source": "skills-3",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "cluster"
     },
     {
@@ -3645,7 +4125,17 @@
       "type": "cluster"
     },
     {
+      "source": "awesome-llm-apps",
+      "target": "build-your-own-x",
+      "type": "cluster"
+    },
+    {
       "source": "llms-from-scratch",
+      "target": "build-your-own-x",
+      "type": "cluster"
+    },
+    {
+      "source": "awesome-mcp-servers",
       "target": "build-your-own-x",
       "type": "cluster"
     },
@@ -3736,6 +4226,11 @@
     },
     {
       "source": "claude-code",
+      "target": "claude-code-2",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
       "target": "gemini-cli",
       "type": "hub"
     },
@@ -3747,6 +4242,11 @@
     {
       "source": "claude-code",
       "target": "oh-my-openagent",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "claude-code-router",
       "type": "hub"
     },
     {
@@ -3811,12 +4311,32 @@
     },
     {
       "source": "claude-code",
+      "target": "bmad-method",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "awesome-cursorrules",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "agents",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
       "target": "oh-my-claudecode",
       "type": "hub"
     },
     {
       "source": "claude-code",
       "target": "obsidian-skills",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "awesome-copilot",
       "type": "hub"
     },
     {
@@ -3936,6 +4456,11 @@
     },
     {
       "source": "claude-code",
+      "target": "chrome-devtools-mcp",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
       "target": "github-mcp-server",
       "type": "hub"
     },
@@ -3947,6 +4472,11 @@
     {
       "source": "claude-code",
       "target": "serena",
+      "type": "hub"
+    },
+    {
+      "source": "claude-code",
+      "target": "a2a",
       "type": "hub"
     },
     {
@@ -4206,7 +4736,7 @@
     },
     {
       "source": "claude-code",
-      "target": "comfyui",
+      "target": "stable-diffusion-webui",
       "type": "hub"
     },
     {
@@ -4260,6 +4790,11 @@
       "type": "cross"
     },
     {
+      "source": "servers",
+      "target": "awesome-mcp-servers",
+      "type": "cross"
+    },
+    {
       "source": "browser-use",
       "target": "agent-browser",
       "type": "cross"
@@ -4287,6 +4822,11 @@
     {
       "source": "playwright-mcp",
       "target": "playwright-cli",
+      "type": "cross"
+    },
+    {
+      "source": "open-webui",
+      "target": "stable-diffusion-webui",
       "type": "cross"
     },
     {
@@ -4397,6 +4937,11 @@
     {
       "source": "claude-mem",
       "target": "graphiti",
+      "type": "cross"
+    },
+    {
+      "source": "claude-mem",
+      "target": "cognee",
       "type": "cross"
     },
     {

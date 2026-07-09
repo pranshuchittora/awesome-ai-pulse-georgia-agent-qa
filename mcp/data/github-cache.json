@@ -1138,5 +1138,145 @@
   "stanford-oval/storm": {
     "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
     "fetchedAt": "2026-07-05T21:57:14.062Z"
+  },
+  "anthropics/claude-code": {
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "fetchedAt": "2026-07-09T22:15:30.654Z"
+  },
+  "musistudio/claude-code-router": {
+    "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+    "fetchedAt": "2026-07-09T22:15:31.043Z"
+  },
+  "Pythagora-io/gpt-pilot": {
+    "description": "The first real AI developer",
+    "fetchedAt": "2026-07-09T22:15:31.452Z"
+  },
+  "stitionai/devika": {
+    "description": "Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.",
+    "fetchedAt": "2026-07-09T22:15:31.842Z"
+  },
+  "yetone/avante.nvim": {
+    "description": "Use your Neovim like using Cursor AI IDE!",
+    "fetchedAt": "2026-07-09T22:15:32.235Z"
+  },
+  "bmad-code-org/BMAD-METHOD": {
+    "description": "Breakthrough Method for Agile Ai Driven Development",
+    "fetchedAt": "2026-07-09T22:15:32.617Z"
+  },
+  "PatrickJS/awesome-cursorrules": {
+    "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+    "fetchedAt": "2026-07-09T22:15:33.052Z"
+  },
+  "wshobson/agents": {
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+    "fetchedAt": "2026-07-09T22:15:33.438Z"
+  },
+  "github/awesome-copilot": {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "fetchedAt": "2026-07-09T22:15:33.872Z"
+  },
+  "shadcn-ui/ui": {
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+    "fetchedAt": "2026-07-09T22:15:34.281Z"
+  },
+  "abi/screenshot-to-code": {
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "fetchedAt": "2026-07-09T22:15:34.678Z"
+  },
+  "ChromeDevTools/chrome-devtools-mcp": {
+    "description": "Chrome DevTools for coding agents",
+    "fetchedAt": "2026-07-09T22:15:35.090Z"
+  },
+  "a2aproject/A2A": {
+    "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+    "fetchedAt": "2026-07-09T22:15:35.485Z"
+  },
+  "simular-ai/Agent-S": {
+    "description": "Agent S: an open agentic framework that uses computers like a human",
+    "fetchedAt": "2026-07-09T22:15:35.892Z"
+  },
+  "bytedance/UI-TARS": {
+    "description": "Pioneering Automated GUI Interaction with Native Agents",
+    "fetchedAt": "2026-07-09T22:15:36.327Z"
+  },
+  "bytedance/deer-flow": {
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "fetchedAt": "2026-07-09T22:15:36.735Z"
+  },
+  "langchain-ai/deepagents": {
+    "description": "The batteries-included agent harness.",
+    "fetchedAt": "2026-07-09T22:15:37.148Z"
+  },
+  "joonspk-research/generative_agents": {
+    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
+    "fetchedAt": "2026-07-09T22:15:37.538Z"
+  },
+  "agent0ai/agent-zero": {
+    "description": "Agent Zero AI framework",
+    "fetchedAt": "2026-07-09T22:15:37.945Z"
+  },
+  "TransformerOptimus/SuperAGI": {
+    "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+    "fetchedAt": "2026-07-09T22:15:38.344Z"
+  },
+  "usestrix/strix": {
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "fetchedAt": "2026-07-09T22:15:38.746Z"
+  },
+  "Zackriya-Solutions/meetily": {
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
+    "fetchedAt": "2026-07-09T22:15:39.147Z"
+  },
+  "Alibaba-NLP/DeepResearch": {
+    "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+    "fetchedAt": "2026-07-09T22:15:39.538Z"
+  },
+  "eosphoros-ai/DB-GPT": {
+    "description": "open-source agentic AI data assistant for the next generation of AI + Data products.",
+    "fetchedAt": "2026-07-09T22:15:39.973Z"
+  },
+  "vxcontrol/pentagi": {
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "fetchedAt": "2026-07-09T22:15:40.381Z"
+  },
+  "Canner/WrenAI": {
+    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+    "fetchedAt": "2026-07-09T22:15:40.807Z"
+  },
+  "OpenBB-finance/OpenBB": {
+    "description": "Open Data Platform for analysts, quants and AI agents.",
+    "fetchedAt": "2026-07-09T22:15:41.213Z"
+  },
+  "topoteretes/cognee": {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "fetchedAt": "2026-07-09T22:15:41.629Z"
+  },
+  "QuantumNous/new-api": {
+    "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+    "fetchedAt": "2026-07-09T22:15:42.041Z"
+  },
+  "songquanpeng/one-api": {
+    "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+    "fetchedAt": "2026-07-09T22:15:42.457Z"
+  },
+  "daytonaio/daytona": {
+    "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+    "fetchedAt": "2026-07-09T22:15:42.851Z"
+  },
+  "e2b-dev/E2B": {
+    "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+    "fetchedAt": "2026-07-09T22:15:43.258Z"
+  },
+  "AUTOMATIC1111/stable-diffusion-webui": {
+    "description": "Stable Diffusion web UI",
+    "fetchedAt": "2026-07-09T22:15:43.648Z"
+  },
+  "Shubhamsaboo/awesome-llm-apps": {
+    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+    "fetchedAt": "2026-07-09T22:15:44.043Z"
+  },
+  "punkpeye/awesome-mcp-servers": {
+    "description": "A collection of MCP servers.",
+    "fetchedAt": "2026-07-09T22:15:44.421Z"
   }
 }
